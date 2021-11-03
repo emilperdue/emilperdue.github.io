@@ -20,7 +20,7 @@ Professional Experience
 This past summer I worked for Finalyze Capital, which is a fully systematic quantitative CTA that is managed by UChicago alum Joe Fennessey and is co-owned / backed by Mark Cuban. Here, I parameterized and helped implement intraday momentum futures strategies (1.5+ Sharpe). I sourced 10+ profitable strategies for their proprietary trading algorithm and outlined position entry code to backtest on the fund's algorithm. I also researched machine learning algorithmic options / futures trading strategies and presented strategy briefs to the CEO. 
 
 **Acrobator Ventures**<br />
-This past summer I also worked at Acrobator Ventures, which is a European VC fund focused on tech. I prioritized a dynamic data set of incoming investment opportunities (deal flow pipeline) matching the fund’s scope. Similarly, I performed analysis on 25+ investment targets (market and competitive analysis, product, business plan, and valuation) and conducted final stage investment research and collaborated with Flow Traders on an OTC RFQ energy trading platform deal.
+This past summer I also worked at Acrobator Ventures, which is a European VC fund focused on tech and data products. I prioritized a dynamic data set of incoming investment opportunities (deal flow pipeline) matching the fund’s scope. Similarly, I performed analysis on 25+ investment targets (market and competitive analysis, product, business plan, and valuation) and conducted final stage investment research / collaborated with Flow Traders on an OTC RFQ energy trading platform deal.
 
 Extracurricular / Research Experience
 ------
@@ -54,4 +54,4 @@ Honors & Awards
 Skills
 ------
 - Proficient: Microsoft Office, Python (Matplotlib, NumPy, Pandas, Scikit-Learn), R, SQL
-- Basic Understanding: C, Git, Java, JavaScript, LaTeX
+- Basic Knowledge: C, Git, Java, JavaScript, LaTeX
