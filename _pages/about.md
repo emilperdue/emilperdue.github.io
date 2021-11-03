@@ -19,7 +19,7 @@ Professional Experience
 - Finalyze Capital:
 This past summer I worked for Finalyze Capital, which is a fully systematic quantitative CTA, where I parameterized and helped implement intraday momentum futures strategies (1.5+ Sharpe). I ultimately sourced 10+ profitable strategies for their proprietary trading algorithm and outlined position entry code to backtest on the fund's algorithm.
 
-Research Experience
+Extracurricular / Research Experience
 ------
 - Maroon Capital / Derivatives Group Quant Trading: Undergoing an intensive training program including weekly workshops and talks on derivatives and the theories of options pricing. Developing/backtesting algo trading strategies on historical data to maximize risk-adjusted returns in simulated trading environments
 
