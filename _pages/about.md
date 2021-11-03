@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a second year undergraduate at the University of Chicago studying computational and applied mathematics, data science, and statistics. I am involved with various quantitative finance and political science groups on campus. 
+I'm currently a second year undergraduate at the University of Chicago studying computational and applied mathematics, data science, and statistics. I’m involved with various quantitative finance and political science groups on campus.
 
-I have professional interests in trading, quantiative research, and data science. This upcoming summer I will be working as a Quantiative Research Summer Analyst at J.P. Morgan where I will be placed on the Securitized Products Group. 
+I have professional interests in trading, quantitative research, and data science. This upcoming summer I will be working as a Quantitative Research Summer Analyst at J.P. Morgan in the Securitized Products Group.
 
 Feel free to reach out!
 
 Professional Experience
 ------
 - Finalyze Capital:
-This past summer I worked for Finalyze Capital where I parameterized and helped implement intraday momentum futures strategies (1.5+ Sharpe) for fully systematic quantitative CTA. I ultimately sourced 10+ profitable strategies for proprietary trading algorithm and outlined position entry code to backtest on fund’s algorithm.
+This past summer I worked for Finalyze Capital, which is a fully systematic quantitative CTA, where I parameterized and helped implement intraday momentum futures strategies (1.5+ Sharpe). I ultimately sourced 10+ profitable strategies for their proprietary trading algorithm and outlined position entry code to backtest on the fund's algorithm.
 
 Research Experience
 ------
