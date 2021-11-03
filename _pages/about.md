@@ -16,22 +16,22 @@ Feel free to reach out!
 
 Professional Experience
 ------
-**Finalyze Capital**
-This past summer I worked for Finalyze Capital, which is a fully systematic quantitative CTA, where I parameterized and helped implement intraday momentum futures strategies (1.5+ Sharpe). I ultimately sourced 10+ profitable strategies for their proprietary trading algorithm and outlined position entry code to backtest on the fund's algorithm. I also researched machine learning algorithmic options/futures trading strategies and presented strategy briefs to the CEO. 
+**Finalyze Capital**<br />
+This past summer I worked for Finalyze Capital, which is a fully systematic quantitative CTA that is managed by UChicago alum Joe Fennessey and is co-owned / backed by Mark Cuban. Here, I parameterized and helped implement intraday momentum futures strategies (1.5+ Sharpe). I sourced 10+ profitable strategies for their proprietary trading algorithm and outlined position entry code to backtest on the fund's algorithm. I also researched machine learning algorithmic options / futures trading strategies and presented strategy briefs to the CEO. 
 
-**Acrobator Ventures**
-This past summer at Acrobator Ventures, which is a European VC fund focused on tech companies, I prioritized a dynamic data set of incoming investment opportunities (deal flow pipeline) matching the fund’s scope. Similarly, I performed analysis on 25+ investment targets (market and competitive analysis, product, business plan, and valuation) and conducted final stage investment research and collaborated with Flow Traders on an OTC RFQ energy trading platform deal.
+**Acrobator Ventures**<br />
+This past summer I also worked at Acrobator Ventures, which is a European VC fund focused on tech. I prioritized a dynamic data set of incoming investment opportunities (deal flow pipeline) matching the fund’s scope. Similarly, I performed analysis on 25+ investment targets (market and competitive analysis, product, business plan, and valuation) and conducted final stage investment research and collaborated with Flow Traders on an OTC RFQ energy trading platform deal.
 
 Extracurricular / Research Experience
 ------
 
-**Maroon Capital / Derivatives Group Quant Trading**
+**Maroon Capital / Derivatives Group Quant Trading**<br />
 Undergoing an intensive training program including weekly workshops and talks on derivatives and the theories of options pricing. Developing/backtesting algorithmic trading strategies on historical data to maximize risk-adjusted returns in simulated trading environments.
 
-**Oeconomica - Undergraduate Economics Research Group**
+**Oeconomica - Undergraduate Economics Research Group**<br />
 Researcher in the Asset Pricing Cohort. Conducting alternative data-driven research on ESG stocks’ risk premium and the alpha potential in ESG-diversified portfolios.
 
-**UC Open Data**
+**UC Open Data**<br />
 Utilizing Python and Beautiful Soup to scrape, analyze, visualize, and present public data about energy/water/food waste at UChicago.
 
 Selected Coursework
