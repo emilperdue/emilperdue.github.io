@@ -8,12 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year undergraduate at the University of Chicago studying computational and applied mathematics, statistics, and data science. I have professional interests in trading and data science. I will be working as a Quantiative Research Summer Analyst at J.P. Morgan for the summer of 2022 where I will be placed on the Securitized Products Group. Feel free to reach out!
+I'm currently a second year undergraduate at the University of Chicago studying computational and applied mathematics, data science, and statistics. I am involved with various quantitative finance and political science groups on campus. 
+
+I have professional interests in trading, quantiative research, and data science. This upcoming summer I will be working as a Quantiative Research Summer Analyst at J.P. Morgan where I will be placed on the Securitized Products Group. 
+
+Feel free to reach out!
 
 Professional Experience
 ------
 - Finalyze Capital:
 This past summer I worked for Finalyze Capital where I sourced quantiative trading strategies.
+
+Extracurricular Experience
+------
+- Financial Markets Program / Maroon Capital / Derivatives Group Quant Trading: Learned about quantiative finance and developed individual trading strategies
+
+- Oeconomica (Asset Pricing):
+- UC Open Data:
 
 Selected Coursework
 ------
