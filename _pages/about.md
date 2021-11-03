@@ -19,18 +19,17 @@ Selected Coursework
 ------
 
 **STEM Classes**
-- Analysis in Rn I-II
-- Applied Regression Analysis (R)
-- E&M
-- Intro to CS I-II (C)
-- Intro to DS I (Python)
-- Mechanics
-- Numerical Linear Algebra
-- Quant. Portfolio Mgmt. & Algo Trading (Python)
-- Stat. Theory & Methods I
+- MATH 20300-20400 Analysis in Rn I-II
+- STAT 22400 Applied Regression Analysis (R)
+- PHYS 13100-13200 Mechanics / Electricity & Magnetism
+- CMSC 15100-15200 Introduction to Computer Science I-II (C)
+- DATA 11800 Introduction to Data Science I (Python)
+- STAT 24300 Numerical Linear Algebra
+- FINM 25000 Quantitative Portfolio Management & Algorithmic Trading (Python)
+- STAT 24400 Statistical Theory & Methods I
 
 **Other Classes**
-- Social Science Inquiry I
+- SOSC 13100 Social Science Inquiry I
 
 Honors & Awards
 ------
