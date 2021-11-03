@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Emil Perdue Portfolio"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,14 +17,15 @@ Feel free to reach out!
 Professional Experience
 ------
 - Finalyze Capital:
-This past summer I worked for Finalyze Capital where I sourced quantiative trading strategies.
+This past summer I worked for Finalyze Capital where I parameterized and helped implement intraday momentum futures strategies (1.5+ Sharpe) for fully systematic quantitative CTA. I ultimately sourced 10+ profitable strategies for proprietary trading algorithm and outlined position entry code to backtest on fund’s algorithm.
 
-Extracurricular Experience
+Research Experience
 ------
-- Financial Markets Program / Maroon Capital / Derivatives Group Quant Trading: Learned about quantiative finance and developed individual trading strategies
+- Maroon Capital / Derivatives Group Quant Trading: Undergoing an intensive training program including weekly workshops and talks on derivatives and the theories of options pricing. Developing/backtesting algo trading strategies on historical data to maximize risk-adjusted returns in simulated trading environments
 
-- Oeconomica (Asset Pricing):
-- UC Open Data:
+- Oeconomica (Asset Pricing): Conducting alternative data-driven research on ESG stocks’ risk premium and the alpha potential in ESG-diversified portfolios
+
+- UC Open Data: Utilizing Python and Beautiful Soup to scrape, analyze, visualize, and present public data about energy/water/food waste at UChicago
 
 Selected Coursework
 ------
