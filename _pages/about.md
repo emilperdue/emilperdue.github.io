@@ -14,18 +14,18 @@ I have professional interests in trading, quantitative research, and data scienc
 
 Feel free to reach out!
 
-Professional Experience
+Experience
 ------
 **Bluebonnet Data**<br />
-I am currently volunteering as a Political Data Science Fellow at Bluebonnet Data which is a nonprofit that recruits, trains, and organize students with skills in coding and data science to volunteer on data analyst teams for progressive down-ballet campaigns. In this role, I am using Python to analyze political data (VAN) to identify key demographics, predict voter turnout, and create targeted canvassing lists. I am also in the process of creating data visualizations to inform key insights that help  candidates more efficiently target voters’ interests.
+I am currently volunteering as a Political Data Science Fellow at Bluebonnet Data which is a nonprofit that recruits, trains, and organize students with skills in coding and data science to volunteer on data analyst teams for progressive down-ballet campaigns. Here, I am using Python for political data analysis (VAN) to identify key demographics, predict voter turnout, and create targeted canvassing lists. I am also in the process of creating data visualizations to inform key insights that help  candidates more efficiently target voters’ interests.
 
 **Finalyze Capital**<br />
 This past summer I worked for Finalyze Capital, which is a fully systematic quantitative CTA that is managed by UChicago alum Joe Fennessey and is co-owned / backed by Mark Cuban. Here, I parameterized and helped implement intraday momentum futures strategies, several of which had 1.5+ Sharpe Ratios. I sourced 10+ profitable strategies for their proprietary trading algorithm and outlined position entry code to backtest on the fund’s algorithm. I also researched machine learning algorithmic options / futures trading strategies and pitched strategy briefs directly to the CEO.
 
 **Acrobator Ventures**<br />
-This past summer I also worked at Acrobator Ventures, which is a European VC fund focused on tech and data products. I prioritized a dynamic data set of incoming investment opportunities through their dead flow pipeline matching the fund’s scope. Similarly, I performed analysis on 25+ investment targets (market and competitive analysis, product, business plan, and valuation) and conducted final stage investment research / collaborated with Flow Traders on an OTC RFQ energy trading platform deal.
+Last summer I also worked at Acrobator Ventures, which is a European VC fund focused on tech and data products. I prioritized a dynamic data set of incoming investment opportunities through their dead flow pipeline matching the fund’s scope. Similarly, I performed analysis on 25+ investment targets (market and competitive analysis, product, business plan, and valuation) and conducted final stage investment research / collaborated with Flow Traders on an OTC RFQ energy trading platform deal.
 
-Extracurricular / Research Experience
+Extracurriculars
 ------
 
 **Maroon Capital & Derivatives Group Quant Trading**<br />
