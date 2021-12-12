@@ -29,7 +29,7 @@ Extracurriculars
 ------
 
 **Maroon Capital & Derivatives Group Quant Trading**<br />
-Currently undergoing an intensive training program in each quantitative finance RSO including weekly workshops and talks on derivatives and the theories of options pricing. Developing/backtesting algorithmic trading strategies on historical data to maximize risk-adjusted returns in simulated trading environments.
+Currently undergoing an intensive training program in each quantitative finance RSO including weekly workshops and talks on derivatives and the theories of options pricing. I am in the process of developing/backtesting algorithmic trading strategies on historical data in order to maximize risk-adjusted returns in simulated trading environments.
 
 **Oeconomica - Undergraduate Economics Research Group**<br />
 Researcher in the Asset Pricing Cohort: Conducting alternative data-driven research on ESG stocks’ risk premium and the alpha potential in ESG-diversified portfolios.
@@ -40,7 +40,7 @@ Utilizing Python and Beautiful Soup to scrape, analyze, visualize, and present p
 **UC Dems**<br />
 Former Outreach Director responsible for fostering connections between UC Dems and other RSO's to further similar progressive causes.
 
-Selected Coursework
+Relevant Coursework
 ------
 
 - MATH 20300-20400-20500 Analysis in Rⁿ I-II-III
