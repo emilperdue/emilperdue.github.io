@@ -52,10 +52,11 @@ Relevant Coursework
 - DATA 11800-11900 Introduction to Data Science I-II (Python)
 - FINM 25000 Quantitative Portfolio Management & Algorithmic Trading (Python)
 
-Honors & Awards
+Awards
 ------
 - Jeff Metcalf Internship Grant ($4,000)
 
-Skills
+Skills & Interests
 ------
-- Microsoft Office, Python (Matplotlib, NumPy, Pandas, Scikit-Learn), R, SQL
+- Technical Training: Microsoft Office, Python (Matplotlib, NumPy, Pandas, Scikit-Learn), R, SQL
+- Certifications: Akuna Capital Options 101, Bloomberg Market Concepts, Data Scientist with Python (DataCamp), Machine Learning (Coursera)
