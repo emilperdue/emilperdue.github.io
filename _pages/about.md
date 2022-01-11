@@ -45,8 +45,9 @@ Relevant Coursework
 
 - MATH 20300-20400-20500 Analysis in Rⁿ I-II-III
 - STAT 22400 Applied Regression Analysis (R)
+- STAT 22600 Analysis of Categorical Data (R)
 - STAT 24300 Numerical Linear Algebra
-- STAT 24400-24500 Statistical Theory & Methods I-II
+- STAT 244000 Statistical Theory & Methods
 - PHYS 13100-13200 Mechanics / Electricity & Magnetism
 - CMSC 15100-15200 Introduction to Computer Science I-II (C)
 - DATA 11800-11900 Introduction to Data Science I-II (Python)
