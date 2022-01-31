@@ -56,7 +56,7 @@ Relevant Coursework
 Awards
 ------
 - Jeff Metcalf Internship Grant for Acrobator Ventures ($4,000)
-- Jeff Metcalf Winternship Grant for Bluebonnet Data ($650)
+- Jeff Metcalf Internship Grant for Bluebonnet Data ($650)
 
 Skills & Interests
 ------
