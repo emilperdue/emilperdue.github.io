@@ -55,6 +55,9 @@ Relevant Coursework
 
 Awards
 ------
+- Berkeley Trading Competition Participant 
+- Discover Citadel Invitee
+- Financial Markets Trek to Greenwich & New York Participant
 - Jeff Metcalf Internship Grant for Acrobator Ventures ($4,000)
 - Jeff Metcalf Internship Grant for Bluebonnet Data ($650)
 
