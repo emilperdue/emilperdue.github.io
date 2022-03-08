@@ -58,7 +58,7 @@ Awards
 - Berkeley Trading Competition Invitee 
 - D.E. Shaw Nexus Fellow ($1,500 Stipend)
 - Discover Citadel Invitee
-- Financial Markets Trek to Greenwich & New York Participant
+- Financial Markets Trek to Greenwich & New York Participant (UChicago Career Advancement Invitee)
 - Jeff Metcalf Internship Grant for Acrobator Ventures ($4,000)
 - Jeff Metcalf Internship Grant for Bluebonnet Data ($650)
 
