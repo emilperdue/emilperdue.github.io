@@ -56,6 +56,7 @@ Relevant Coursework
 Awards
 ------
 - Berkeley Trading Competition Invitee 
+- Citadel & Citadel Securities x Amplify Trading Simulation Challenge Invitee
 - D.E. Shaw Nexus Fellow ($1,500 Stipend)
 - Discover Citadel Invitee
 - Financial Markets Trek to Greenwich & New York Participant (UChicago Career Advancement Invitee)
