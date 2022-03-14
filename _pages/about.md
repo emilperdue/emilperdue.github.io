@@ -48,9 +48,12 @@ Relevant Coursework
 - STAT 22600 Analysis of Categorical Data (R)
 - STAT 24300 Numerical Linear Algebra
 - STAT 24400 Statistical Theory & Methods
+- STAT 25100 Intro to Mathematical Probability
 - PHYS 13100-13200 Mechanics; Electricity & Magnetism
-- CMSC 15100-15200 Introduction to Computer Science I-II (C)
-- DATA 11800-11900 Introduction to Data Science I-II (Python)
+- CMSC 13600 Intro to Data Engineering (Python)
+- CMSC 15100-15200 Intro to Computer Science I-II (C)
+- DATA 11800-11900 Intro to Data Science I-II (Python)
+- DATA 22100 Intro to Machine Learning (Python)
 - FINM 25000 Quantitative Portfolio Management & Algorithmic Trading (Python)
 
 Awards
