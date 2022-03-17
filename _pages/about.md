@@ -48,9 +48,9 @@ Relevant Coursework
 - STAT 22600 Analysis of Categorical Data (R)
 - STAT 24300 Numerical Linear Algebra
 - STAT 24400 Statistical Theory & Methods
-- STAT 25100 Intro to Mathematical Probability
+- STAT 25100 Mathematical Probability
 - PHYS 13100-13200 Mechanics; Electricity & Magnetism
-- CMSC 13600 Intro to Data Engineering (Python)
+- CMSC 13600 Data Engineering (Python)
 - CMSC 15100-15200 Intro to Computer Science I-II (C)
 - DATA 11800-11900 Intro to Data Science I-II (Python)
 - DATA 22100 Intro to Machine Learning (Python)
