@@ -62,7 +62,7 @@ Awards
 - Citadel & Citadel Securities x Amplify Trading Simulation Challenge Invitee
 - D.E. Shaw Nexus Fellow ($1,500 Stipend)
 - Discover Citadel Invitee
-- Financial Markets Trek to Greenwich & New York Participant (UChicago Career Advancement Invitee)
+- UChicago Financial Markets Trek to Greenwich & New York Participant
 - Jeff Metcalf Internship Grant for Acrobator Ventures ($4,000)
 - Jeff Metcalf Internship Grant for Bluebonnet Data ($650)
 
