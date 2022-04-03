@@ -59,10 +59,10 @@ Relevant Coursework
 Awards
 ------
 - Berkeley Trading Competition Invitee 
-- Citadel & Citadel Securities x Amplify International Market-Making Trading Competition (11th Place)
+- Citadel x Amplify International Market-Making Trading Competition (11th Place)
 - D.E. Shaw Nexus Fellow ($1,500 Stipend)
 - Discover Citadel Invitee
-- Optiver TraderHack Algorithmic Trading Competition (Finalist)
+- Optiver TraderHack Algorithmic Trading Competition (Finalist / 14th Place)
 - UChicago Financial Markets Trek to Greenwich & New York Participant
 - Jeff Metcalf Internship Grant for Acrobator Ventures ($4,000)
 - Jeff Metcalf Internship Grant for Bluebonnet Data ($650)
