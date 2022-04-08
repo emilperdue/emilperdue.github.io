@@ -44,7 +44,6 @@ Relevant Coursework
 ------
 
 - MATH 20300-20400-20500 Analysis in Rⁿ I-II-III
-- STAT 22200 Linear Models and Experimental Design (R)
 - STAT 22400 Applied Regression Analysis (R)
 - STAT 22600 Analysis of Categorical Data (R)
 - STAT 24300 Numerical Linear Algebra
@@ -54,6 +53,7 @@ Relevant Coursework
 - CMSC 13600 Data Engineering (Python)
 - CMSC 15100-15200 Intro to Computer Science I-II (C)
 - DATA 11800-11900 Intro to Data Science I-II (Python)
+- DATA 25900 Ethics, Fairness, Responsibility, and Privacy in Data Science (Python)
 - FINM 25000 Quantitative Portfolio Management & Algorithmic Trading (Python)
 
 Awards
