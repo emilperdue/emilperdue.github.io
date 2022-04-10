@@ -63,7 +63,7 @@ Awards
 - D.E. Shaw Nexus Fellow ($1,500 Stipend)
 - Discover Citadel Invitee
 - Optiver TraderHack Algorithmic Trading Competition (Finalist / 14th Place)
-- UChicago Financial Markets Trek to Greenwich & New York Participant
+- UChicago Midwest Trading Competition - Portfolio Optimization Case (2nd Place)
 - Jeff Metcalf Internship Grant for Acrobator Ventures ($4,000)
 - Jeff Metcalf Internship Grant for Bluebonnet Data ($650)
 
