@@ -70,4 +70,4 @@ Awards
 Skills & Interests
 ------
 - Technical Training: Microsoft Office, Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL
-- Certifications: Akuna Capital Options 101, Bloomberg Market Concepts, Data Scientist with Python (DataCamp), Deep Learning (Coursera), Machine Learning (Coursera)
+- Certifications: Akuna Capital Options 101, Bloomberg Market Concepts, Data Scientist with Python (DataCamp), Machine Learning (Coursera)
