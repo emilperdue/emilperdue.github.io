@@ -60,6 +60,7 @@ Awards
 ------
 - Berkeley Trading Competition Invitee 
 - Citadel x Amplify International Market-Making Trading Competition (11th Place)
+- Cornerstone Research Extern Selectee
 - D.E. Shaw Nexus Fellow ($1,500 Stipend)
 - Discover Citadel Invitee
 - Optiver TraderHack Algorithmic Trading Competition (Finalist / 14th Place)
