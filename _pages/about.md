@@ -59,10 +59,10 @@ Relevant Coursework
 Awards
 ------
 - Berkeley Trading Competition Invitee 
-- bp Future Talent STEM Scholarship ($5000)
+- bp Future Talent STEM Scholarship ($5,000)
 - Citadel x Amplify International Market-Making Trading Competition (11th Place)
 - Cornerstone Research Extern Selectee
-- D.E. Shaw Nexus Fellow ($1,500 Stipend)
+- D.E. Shaw Nexus Fellow ($1,500)
 - Discover Citadel Invitee
 - Optiver TraderHack Algorithmic Trading Competition (Finalist / 14th Place)
 - UChicago Midwest Trading Competition - Portfolio Optimization Case (2nd Place + $750)
