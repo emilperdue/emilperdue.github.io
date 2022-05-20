@@ -17,7 +17,7 @@ Feel free to reach out!
 Experience
 ------
 **Bluebonnet Data**<br />
-I volunteered as a Political Data Science Fellow at Bluebonnet Data which is a nonprofit that recruits, trains, and organize students with skills in coding and data science to volunteer on data analyst teams for progressive down-ballet campaigns. Here, I am using Python for political data analysis (VAN) to identify key demographics, predict voter turnout, and create targeted canvassing lists. I am also in the process of creating data visualizations to inform key insights that help  candidates more efficiently target voters’ interests.
+From January through April I volunteered as a Political Data Science Fellow at Bluebonnet Data which is a nonprofit that recruits, trains, and organize students with skills in coding and data science to volunteer on data analyst teams for progressive down-ballet campaigns. Here, I utilized Python for political data analysis (VAN) to identify key demographics, predict voter turnout, and create targeted canvassing lists. I also created data visualizations to inform key insights that helped candidates more efficiently target voters’ interests.
 
 **Finalyze Capital**<br />
 This past summer I worked for Finalyze Capital, which is a fully systematic quantitative CTA that is managed by UChicago alum Joe Fennessey and is co-owned / backed by Mark Cuban. Here, I parameterized and helped implement intraday momentum futures strategies, several of which had 1.5+ Sharpe Ratios. I sourced 10+ profitable strategies for their proprietary trading algorithm and outlined position entry code to backtest on the fund’s algorithm. I also researched machine learning algorithmic options / futures trading strategies and pitched strategy briefs directly to the CEO.
