@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a second year undergraduate at the University of Chicago studying computational and applied mathematics, data science, and statistics. I’m involved with various quantitative finance and political science groups on campus.
+Hi! I'm currently a second year undergraduate at the University of Chicago studying computational and applied mathematics, data science, and statistics. I am also interested in pursuing four-year joint master's programs in either computer science or financial mathematics. I’m involved with various quantitative finance and political science groups on campus.
 
-I have professional interests in trading, quantitative research, and data science. This upcoming summer I will be working as a Quantitative Research Intern at J.P. Morgan in the Securitized Products Group.
+I have professional interests in trading, quantitative research, and data science. This upcoming summer I will be working as a Quantitative Research Intern at J.P. Morgan within the Securitized Products Group.
 
 Feel free to reach out!
 
@@ -61,12 +61,12 @@ Awards
 - bp Future Talent STEM Scholarship ($5,000)
 - Citadel x Amplify International Market-Making Trading Competition (11th Place)
 - D.E. Shaw Nexus Fellow ($1,500)
-- Optiver TraderHack Algorithmic Trading Competition (Finalist / 14th Place)
-- UChicago Midwest Trading Competition - Portfolio Optimization Case (2nd Place + $750)
 - Jeff Metcalf Internship Grants for Acrobator Ventures and Bluebonnet Data ($4,650)
+- Optiver TraderHack Algorithmic Trading Competition (Finalist / 14th Place)
+- UChicago Midwest Trading Competition - Portfolio Optimization Case (2nd Place / $750)
 
 Skills & Interests
 ------
 - Technical Training: Microsoft Office, Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL
 - Certifications: Akuna Capital Options 101, Bloomberg Market Concepts, Data Scientist with Python (DataCamp), Machine Learning (Coursera)
-- Programs: Berkeley Trading Competition, bp Trading Experience, Cornerstone Research Extern, Discover Citadel, Two Sigma Summit
+- Programs: Berkeley Trading Competition, bp Trading & Shipping Experience, Cornerstone Research Externship, Discover Citadel, Two Sigma Seekers Summit
