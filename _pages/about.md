@@ -28,8 +28,8 @@ Last summer I also worked at Acrobator Ventures, which is a European VC fund foc
 Extracurriculars
 ------
 
-**Maroon Capital & Derivatives Group Quant Trading**<br />
-Currently undergoing an intensive training program in each quantitative finance RSO including weekly workshops and talks on derivatives and the theories of options pricing. I am in the process of developing/backtesting algorithmic trading strategies on historical data in order to maximize risk-adjusted returns in simulated trading environments.
+**Maroon Capital,**<br /> Member<i/>
+Managed team to design, backtest, and optimize options “wheel” mean-reversion algo trading strategy utilizing MACD indicators. Developed comprehensive presentation and lead club-wide lecture (50+ members) on our strategy intuition and performance metrics.
 
 **Oeconomica - Undergraduate Economics Research Group**<br />
 Researcher in the Asset Pricing Cohort: Conducting alternative data-driven research on ESG stocks’ risk premium and the alpha potential in ESG-diversified portfolios.
@@ -67,6 +67,6 @@ Awards
 
 Skills & Interests
 ------
-- Technical Training: Microsoft Office, Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL
+- Technical Training: Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL
 - Certifications: Akuna Capital Options 101, Bloomberg Market Concepts, Data Scientist with Python (DataCamp), Machine Learning (Coursera)
 - Programs: Berkeley Trading Competition, bp Trading & Shipping Experience, Cornerstone Research Externship, Discover Citadel, Two Sigma Seekers Summit
