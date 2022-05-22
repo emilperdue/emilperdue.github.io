@@ -28,7 +28,10 @@ Last summer I also worked at Acrobator Ventures, which is a European VC fund foc
 Extracurriculars
 ------
 
-**Maroon Capital,**<br /> Member<i/>
+**Derivatives Group Quant Trading,** *Associate Board*<br />
+Studying stochastic calculus for options, Monte Carlo pricing, financial econometrics (ARMA, GARCH), and crypto volatility modeling. Creating/backtesting trading strategy algorithms on historical data to maximize risk-adjusted returns in simulated trading environments.
+
+**Maroon Capital,** *Member*<br />
 Managed team to design, backtest, and optimize options “wheel” mean-reversion algo trading strategy utilizing MACD indicators. Developed comprehensive presentation and lead club-wide lecture (50+ members) on our strategy intuition and performance metrics.
 
 **Oeconomica - Undergraduate Economics Research Group**<br />
