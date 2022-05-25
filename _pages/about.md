@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently a second year undergraduate at the University of Chicago studying computational and applied mathematics, data science, and statistics. I am also interested in pursuing four-year joint master's programs in either computer science or financial mathematics. I’m involved with various quantitative finance and political science groups on campus.
+Hi! I'm currently a second year undergraduate at the University of Chicago studying computational and applied mathematics, data science, and statistics. I am also interested in pursuing the four-year joint master's program (Bx/MS) in computer science. I’m involved with various quantitative finance and political science groups on campus.
 
 I have professional interests in trading, quantitative research, and data science. This upcoming summer I will be working as a Quantitative Research Intern at J.P. Morgan within the Securitized Products Group.
 
