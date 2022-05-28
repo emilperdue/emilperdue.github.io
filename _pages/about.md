@@ -63,7 +63,7 @@ Awards
 - bp Future Talent STEM Scholarship ($5,000)
 - Citadel x Amplify International Market-Making Trading Competition (11th Place)
 - D.E. Shaw Nexus Fellow ($1,500)
-- Jeff Metcalf Internship Grants for Acrobator Ventures and Bluebonnet Data ($4,650)
+- Jeff Metcalf Internship Grants: Acrobator Ventures ($4,000), Bluebonnet Data ($650)
 - Optiver TraderHack Algorithmic Trading Competition (Finalist / 14th Place)
 - UChicago Midwest Trading Competition - Portfolio Optimization Case (2nd Place / $750)
 
