@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently a second year undergraduate at the University of Chicago studying computational and applied mathematics, data science, and statistics. I am also interested in pursuing the four-year joint master's program (Bx/MS) in computer science. I’m involved with various quantitative finance and political science groups on campus.
+Hi! I'm currently a second year undergraduate at the University of Chicago studying computational and applied mathematics, data science, and statistics. I am also interested in pursuing the four-year joint master's program (Bx/MS) in computer science. I’m involved with various quantitative finance and data science groups on campus.
 
 I have professional interests in trading, quantitative research, and data science. This upcoming summer I will be working as a Quantitative Research Intern at J.P. Morgan within the Securitized Products Group.
 
@@ -28,20 +28,17 @@ Last summer I also worked at Acrobator Ventures, which is a European VC fund foc
 Extracurriculars
 ------
 
+**Maroon Capital**, *Executive Board Member*<br />
+Managed team to design, backtest, and optimize options “wheel” mean-reversion algo trading strategy utilizing MACD indicators. Developed comprehensive presentation and lead club-wide lecture (50+ members) on our strategy intuition and performance metrics.
+
 **Derivatives Group Quant Trading**, *Associate Board Member*<br />
 Studying stochastic calculus for options, Monte Carlo pricing, financial econometrics (ARMA, GARCH), and crypto volatility modeling. Creating/backtesting trading strategy algorithms on historical data to maximize risk-adjusted returns in simulated trading environments.
-
-**Maroon Capital**, *Member*<br />
-Managed team to design, backtest, and optimize options “wheel” mean-reversion algo trading strategy utilizing MACD indicators. Developed comprehensive presentation and lead club-wide lecture (50+ members) on our strategy intuition and performance metrics.
 
 **Oeconomica - Undergraduate Economics Research Group**, *Asset Pricing Researcher*<br />
 Conducting alternative data-driven research on ESG stocks’ risk premium and the alpha potential in ESG-diversified portfolios.
 
 **UC Open Data**, *Energy Data Initiative Team Lead* <br />
 Utilizing Python and Beautiful Soup to scrape, analyze, visualize, and present public data about energy/water/food waste at UChicago.
-
-**UC Dems**, *Outreach Director*<br />
-Responsible for fostering connections between UC Dems and other RSO's to further similar progressive causes.
 
 Relevant Coursework
 ------
