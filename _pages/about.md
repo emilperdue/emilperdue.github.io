@@ -43,20 +43,21 @@ Utilizing Python and Beautiful Soup to scrape, analyze, visualize, and present p
 Relevant Coursework
 ------
 
-- MATH 20300-20400-20500 Analysis in Rⁿ I-II-III
-- MATH 27300 Theory of Ordinary Differential Equations
-- STAT 22400 Applied Regression Analysis (R)
-- STAT 22600 Analysis of Categorical Data (R)
-- STAT 24300 Numerical Linear Algebra
-- STAT 24400 Statistical Theory & Methods
-- STAT 25100 Mathematical Probability
-- STAT 33100 Sample Surveys (PhD Level)
 - CMSC 13600 Data Engineering (Python)
 - CMSC 15100-15200 Intro to Computer Science I-II (C)
 - CMSC 27100 Discrete Mathematics
 - DATA 11800-11900 Intro to Data Science I-II (Python)
 - DATA 25900 Ethics, Fairness, Responsibility, and Privacy in Data Science (Python)
 - FINM 25000 Quantitative Portfolio Management & Algorithmic Trading (Python)
+- MATH 20300-20400-20500 Analysis in Rⁿ I-II-III
+- MATH 27300 Theory of Ordinary Differential Equations
+- SOSC 13100-13200-13300 Social Science Inquiry
+- STAT 22400 Applied Regression Analysis (R)
+- STAT 22600 Analysis of Categorical Data (R)
+- STAT 24300 Numerical Linear Algebra
+- STAT 24400 Statistical Theory & Methods
+- STAT 25100 Mathematical Probability
+- STAT 33100 Sample Surveys (PhD Level)
 
 Awards
 ------
