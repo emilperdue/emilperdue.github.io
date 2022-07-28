@@ -17,13 +17,13 @@ Feel free to reach out!
 Experience
 ------
 **Bluebonnet Data**, *Data Science Fellow* <br />
-From January through April I volunteered as a Political Data Science Fellow at Bluebonnet Data which is a nonprofit that recruits, trains, and organize students with skills in coding and data science to volunteer on data analyst teams for progressive down-ballet campaigns. Here, I utilized Python for political data analysis (VAN) to identify key demographics, predict voter turnout, and create targeted canvassing lists. I also created data visualizations to inform key insights that helped candidates more efficiently target voters’ interests.
+From January through April 2021 I volunteered as a Political Data Science Fellow at Bluebonnet Data which is a nonprofit that recruits, trains, and organize students with skills in coding and data science to volunteer on data analyst teams for progressive down-ballet campaigns. Here, I utilized Python for political data analysis (VAN) to identify key demographics, predict voter turnout, and create targeted canvassing lists. I also created data visualizations to inform key insights that helped candidates more efficiently target voters’ interests.
 
 **Finalyze Capital**, *Quantitative Analyst Intern* <br />
-This past summer I worked for Finalyze Capital, which is a fully systematic quantitative CTA that is managed by UChicago alum Joe Fennessey and is co-owned / backed by Mark Cuban. Here, I parameterized and helped implement intraday momentum futures strategies, several of which had 1.5+ Sharpe Ratios. I sourced 10+ profitable strategies for their proprietary trading algorithm and outlined position entry code to backtest on the fund’s algorithm. I also researched machine learning algorithmic options / futures trading strategies and pitched strategy briefs directly to the CEO.
+During Summer 2021 I worked at Finalyze Capital, which is a fully systematic quantitative CTA that is managed by UChicago alum Joe Fennessey and is co-owned / backed by Mark Cuban. Here, I parameterized and helped implement intraday momentum futures strategies, several of which had 1.5+ Sharpe Ratios. I sourced 10+ profitable strategies for their proprietary trading algorithm and outlined position entry code to backtest on the fund’s algorithm. I also researched machine learning algorithmic options / futures trading strategies and pitched strategy briefs directly to the CEO.
 
 **Acrobator Ventures**, *Investment Data Analyst Intern* <br />
-Last summer I also worked at Acrobator Ventures, which is a European VC fund focused on tech and data products. I prioritized a dynamic data set of incoming investment opportunities through their dead flow pipeline matching the fund’s scope. Similarly, I performed analysis on 25+ investment targets (market and competitive analysis, product, business plan, and valuation) and conducted final stage investment research / collaborated with Flow Traders on an OTC RFQ energy trading platform deal.
+During Summer 2021 I also worked at Acrobator Ventures, which is a European VC fund focused on tech and data products. I prioritized a dynamic data set of incoming investment opportunities through their dead flow pipeline matching the fund’s scope. Similarly, I performed analysis on 25+ investment targets (market and competitive analysis, product, business plan, and valuation) and conducted final stage investment research / collaborated with Flow Traders on an OTC RFQ energy trading platform deal.
 
 Extracurriculars
 ------
@@ -44,13 +44,16 @@ Relevant Coursework
 ------
 
 - MATH 20300-20400-20500 Analysis in Rⁿ I-II-III
+- MATH 27300 Theory of Ordinary Differential Equations
 - STAT 22400 Applied Regression Analysis (R)
 - STAT 22600 Analysis of Categorical Data (R)
 - STAT 24300 Numerical Linear Algebra
 - STAT 24400 Statistical Theory & Methods
 - STAT 25100 Mathematical Probability
+- STAT 33100 Sample Surveys (PhD Level)
 - CMSC 13600 Data Engineering (Python)
 - CMSC 15100-15200 Intro to Computer Science I-II (C)
+- CMSC 27100 Discrete Mathematics
 - DATA 11800-11900 Intro to Data Science I-II (Python)
 - DATA 25900 Ethics, Fairness, Responsibility, and Privacy in Data Science (Python)
 - FINM 25000 Quantitative Portfolio Management & Algorithmic Trading (Python)
