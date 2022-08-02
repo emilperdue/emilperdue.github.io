@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently a rising third-year undergraduate at the University of Chicago studying computational and applied mathematics, data science, and statistics. I am also interested in pursuing the four-year joint master's program (Bx/MS) in computer science. I’m involved with various quantitative finance and data science groups on campus.
-
-I have professional interests in trading, quantitative research, and data science. This summer, I am working as a Quantitative Research Intern at J.P. Morgan within the Securitized Products Group.
+Hi! I'm currently a rising third-year undergraduate at the University of Chicago studying computational and applied mathematics, data science, and statistics. I am also interested in pursuing the four-year joint master's program (Bx/MS) in computer science. I’m involved with various quantitative finance and data science groups on campus. I have professional interests in trading, quantitative research, and data science.
 
 Feel free to reach out!
 
 Experience
 ------
+**J.P. Morgan**, *Quantitative Research Strategist Intern* <br />
+In Summer 2022, I'm working at J.P. Morgan as the sole undergraduate intern within the Securitized Products Group QR Strats team. More details soon!
+
 **Bluebonnet Data**, *Data Science Fellow* <br />
 From January through April 2021 I volunteered as a Political Data Science Fellow at Bluebonnet Data which is a nonprofit that recruits, trains, and organize students with skills in coding and data science to volunteer on data analyst teams for progressive down-ballet campaigns. Here, I utilized Python for political data analysis (VAN) to identify key demographics, predict voter turnout, and create targeted canvassing lists. I also created data visualizations to inform key insights that helped candidates more efficiently target voters’ interests.
 
@@ -65,7 +66,8 @@ Awards
 - Citadel x Amplify International Market-Making Trading Competition (11th Place)
 - D.E. Shaw Nexus Fellow ($1,500)
 - Jeff Metcalf Internship Grants for Acrobator Ventures and Bluebonnet Data ($4,650)
-- Optiver TraderHack Algorithmic Trading Competition (Finalist / 14th Place)
+- J.P. Morgan Systematic Trading Competition (Top 10)
+- Optiver TraderHack Algorithmic Trading Competition (Finalist / Top 15)
 - UChicago Midwest Trading Competition - Portfolio Optimization Case (2nd Place / $750)
 - UChicago Tech Showcase Selectee ($500)
 
