@@ -66,7 +66,7 @@ Awards
 - Citadel x Amplify International Market-Making Trading Competition (11th Place)
 - D.E. Shaw Nexus Fellow ($1,500)
 - Jeff Metcalf Internship Grants for Acrobator Ventures and Bluebonnet Data ($4,650)
-- J.P. Morgan Systematic Trading Competition (Top 10)
+- J.P. Morgan Systematic Crypto Electronic Trading Competition (Top 10)
 - Optiver TraderHack Algorithmic Trading Competition (Finalist / Top 15)
 - UChicago Midwest Trading Competition - Portfolio Optimization Case (2nd Place / $750)
 - UChicago Tech Showcase Selectee ($500)
