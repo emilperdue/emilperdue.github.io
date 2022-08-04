@@ -69,7 +69,6 @@ Awards
 - J.P. Morgan Systematic Crypto Electronic Trading Competition (Top 10)
 - Optiver TraderHack Algorithmic Trading Competition (Finalist / Top 15)
 - UChicago Midwest Trading Competition - Portfolio Optimization Case (2nd Place / $750)
-- UChicago Tech Showcase Selectee ($500)
 
 Skills & Interests
 ------
