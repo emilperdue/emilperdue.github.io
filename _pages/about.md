@@ -39,7 +39,7 @@ Managed team to design, backtest, and optimize options “wheel” mean-reversio
 Studying stochastic calculus for options, Monte Carlo pricing, financial econometrics (ARMA, GARCH), and crypto volatility modeling. Creating/backtesting trading strategy algorithms on historical data to maximize risk-adjusted returns in simulated trading environments.
 
 **Financial Markets Program**, *Senior Member and Mentor*<br />
-Accepted into selective, three-year program focused on building business acumen for quant finance roles through technical training, workshops, curriculum at the Booth School of Business, and simulated exposure to trading at the 2022 UChicago Trading Competition. Lead team to implement Markowitz mean-variance portfolio optimization for dynamic return prediction beating 40+ universities’ algorithms. 
+Accepted into selective, three-year program focused on building business acumen for quant roles through technical training, workshops, curriculum at the Booth. Lead team to implement Markowitz mean-variance portfolio optimization for dynamic return prediction at UChicago 2022 Trading Competition beating 40+ universities’ algorithms. 
 
 **UC Open Data**, *Energy Data Initiative Team Lead* <br />
 Utilizing Python and Beautiful Soup to scrape, analyze, visualize, and present public data about energy/water/food waste at UChicago.
