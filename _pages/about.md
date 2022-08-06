@@ -29,7 +29,7 @@ During Summer 2021 I also worked at Acrobator Ventures, which is a European VC f
 Extracurriculars
 ------
 
-**Oeconomica - Undergraduate Economics Research Group**, *Research Lead in Asset Pricing Cohort*<br />
+**Oeconomica - Economics Research Group**, *Research Lead in Asset Pricing Cohort*<br />
 Conducting alternative data-driven research on ESG stocks’ risk premium and the alpha potential in ESG-diversified portfolios.
 
 **Maroon Capital**, *Executive Board Member*<br />
