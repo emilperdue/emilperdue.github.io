@@ -35,8 +35,8 @@ Conducting alternative data-driven research on ESG stocks’ risk premium and th
 **Maroon Capital**, *Executive Board Member*<br />
 Managed team to design, backtest, and optimize options “wheel” mean-reversion algo trading strategy utilizing MACD indicators. Developed comprehensive presentation and lead club-wide lecture (50+ members) on our strategy intuition and performance metrics.
 
-**Derivatives Group Quant Trading**, *Associate Board Member*<br />
-Studying stochastic calculus for options, Monte Carlo pricing, financial econometrics (ARMA, GARCH), and crypto volatility modeling. Creating/backtesting trading strategy algorithms on historical data to maximize risk-adjusted returns in simulated trading environments.
+**Derivatives Group Quant Trading**, *Vice President of Communication*<br />
+Creating/backtesting trading strategy algorithms on historical data to maximize risk-adjusted returns in simulated trading environments. Supporting Associate Leadership Board by developing curriculum, interviewing candidates, and spearheading new member outreach.
 
 **Financial Markets Program**, *Senior Member and Mentor*<br />
 Accepted into selective, three-year program focused on building business acumen for quant roles through technical training, workshops, curriculum at the Booth. Lead team to implement Markowitz mean-variance portfolio optimization for dynamic return prediction at UChicago 2022 Trading Competition beating 40+ universities’ algorithms. 
