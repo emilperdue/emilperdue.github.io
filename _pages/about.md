@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently a rising third-year undergraduate at the University of Chicago studying computational and applied mathematics, data science, and statistics. I am also plan on pursuing the four-year joint master's program (Bx/MS) in computer science. I’m involved with various quantitative finance and data science groups on campus. I have professional interests in trading, quantitative research, and data science.
+Hi! I'm currently a third-year undergraduate at the University of Chicago studying computational and applied mathematics, data science, and statistics. I am also plan on pursuing the four-year joint master's program (Bx/MS) in computer science. I’m involved with various quantitative finance and data science groups on campus. I have professional interests in trading, quantitative research, and data science.
 
 Feel free to reach out!
 
@@ -55,13 +55,13 @@ Relevant Coursework
 - FINM 25000 Quantitative Portfolio Management & Algorithmic Trading (Python)
 - MATH 20300-20400-20500 Analysis in Rⁿ I-II-III
 - MATH 27300 Theory of Ordinary Differential Equations
+- MPCS 52560 Applied Financial Technology (Graduate Level)
 - SOSC 13100-13200-13300 Social Science Inquiry (R)
 - STAT 22400 Applied Regression Analysis (R)
 - STAT 22600 Analysis of Categorical Data (R)
 - STAT 24300 Numerical Linear Algebra
 - STAT 24400 Statistical Theory & Methods
 - STAT 25100 Mathematical Probability
-- STAT 33100 Sample Surveys (PhD Level)
 
 Awards
 ------
