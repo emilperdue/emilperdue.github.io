@@ -14,7 +14,7 @@ Feel free to reach out!
 
 Experience
 ------
-**J.P. Morgan**, *Quantitative Research Strategist Intern (Received Return Offer)* <br />
+**J.P. Morgan**, *Quantitative Trading & Research Strategist Intern (Received Return Offer)* <br />
 In Summer 2022, I worked at J.P. Morgan as the sole undergraduate intern within the Securitized Products Group QR Strats team. In my role, I supported trading and RSF Analytics and was trained on ABS, MBS, and S&T. I worked to develop a ‘GSE Arbitrage’ algorithm and UI in Python to analyze pricing differential between Agency versus Non-Agency MBS structuring. Additionally, I created a tool to identify structuring arb opportunities in the non-QM space by parsing and analyzing CDI data. I also implemented daily automated risk reports by codifying delta, DV01 rate scenario sensitivity, and max drawdown in Athena Studio.
 
 **Bluebonnet Data**, *Data Science Fellow* <br />
