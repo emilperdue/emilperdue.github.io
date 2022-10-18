@@ -48,17 +48,17 @@ Relevant Coursework
 ------
 
 - CMSC 13600 Data Engineering (Python)
-- CMSC 15100-15200 Intro to Computer Science I-II (C)
+- CMSC 15100-15200 Intro to Computer Science I-II
 - CMSC 27100 Discrete Mathematics
-- DATA 11800-11900 Intro to Data Science I-II (Python)
-- DATA 25900 Ethics, Fairness, Responsibility, and Privacy in Data Science (Python)
-- FINM 25000 Quantitative Portfolio Management & Algorithmic Trading (Python)
+- DATA 11800-11900 Intro to Data Science I-II 
+- DATA 25900 Ethics, Fairness, Responsibility, and Privacy in Data Science 
+- FINM 25000 Quantitative Portfolio Management & Algorithmic Trading (Graduate Level)
 - MATH 20300-20400-20500 Analysis in Rⁿ I-II-III
 - MATH 27300 Theory of Ordinary Differential Equations
 - MPCS 52560 Applied Financial Technology (Graduate Level)
-- SOSC 13100-13200-13300 Social Science Inquiry (R)
-- STAT 22400 Applied Regression Analysis (R)
-- STAT 22600 Analysis of Categorical Data (R)
+- SOSC 13100-13200-13300 Social Science Inquiry 
+- STAT 22400 Applied Regression Analysis 
+- STAT 22600 Analysis of Categorical Data
 - STAT 24300 Numerical Linear Algebra
 - STAT 24400 Statistical Theory & Methods
 - STAT 25100 Mathematical Probability
@@ -67,6 +67,7 @@ Awards
 ------
 - bp Future Talent STEM Scholarship ($5,000)
 - Citadel x Amplify International Market-Making Trading Competition (11th Place)
+- Citadel Securities Trading Challenge (2nd Place)
 - D.E. Shaw Nexus Fellow ($1,500)
 - Jeff Metcalf Internship Grants for Acrobator Ventures and Bluebonnet Data ($4,650)
 - J.P. Morgan Systematic Crypto Electronic Trading Competition (Top 10)
