@@ -32,7 +32,7 @@ Extracurriculars
 **Oeconomica - Economics Research Group**, *Research Lead in Asset Pricing Cohort*<br />
 Conducting alternative data-driven research on ESG stocks’ risk premium and the alpha potential in ESG-diversified portfolios.
 
-**Maroon Capital**, *Executive Board Member (Career Recruiting Head)*<br />
+**Maroon Capital**, *Executive Board Member (Head of Career Recruiting)*<br />
 Managed team to design, backtest, and optimize options “wheel” mean-reversion algo trading strategy utilizing MACD indicators. Developed comprehensive presentation and lead club-wide lecture (50+ members) on our strategy intuition and performance metrics.
 
 **Derivatives Group Quant Trading**, *Associate Board Member (VP of Communication)*<br />
