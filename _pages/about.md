@@ -14,7 +14,11 @@ Feel free to reach out!
 
 Experience
 ------
-**J.P. Morgan**, *Quantitative Research Intern (Received Return Offer)* <br />
+
+**Susquehanna International Group, LLP (SIG)**, *Incoming Quantitative Trading Intern* <br />
+Accepted Summer 2023 Internship Offer – Quantitative Trading & Strategy Team 
+
+**J.P. Morgan**, *Quantitative Research Intern* <br />
 In Summer 2022, I worked at J.P. Morgan as the sole undergraduate intern within the Securitized Products Group QR Strats team. In my role, I supported trading and RSF Analytics and was trained on ABS, MBS, and S&T. I worked to develop a ‘GSE Arbitrage’ algorithm and UI in Python to analyze pricing differential between Agency versus Non-Agency MBS structuring. Additionally, I created a tool to identify structuring arb opportunities in the non-QM space by parsing and analyzing CDI data. I also implemented daily automated risk reports by codifying delta, DV01 rate scenario sensitivity, and max drawdown in Athena Studio.
 
 **Bluebonnet Data**, *Data Science Fellow* <br />
@@ -29,14 +33,11 @@ During Summer 2021, I also worked at Acrobator Ventures, which is a European VC 
 Extracurriculars
 ------
 
-**Oeconomica - Economics Research Group**, *Research Lead in Asset Pricing Cohort*<br />
-Conducting alternative data-driven research on ESG stocks’ risk premium and the alpha potential in ESG-diversified portfolios.
-
 **Maroon Capital**, *Executive Board Member (Head of Career Recruiting)*<br />
 Managed team to design, backtest, and optimize options “wheel” mean-reversion algo trading strategy utilizing MACD indicators. Developed comprehensive presentation and lead club-wide lecture (50+ members) on our strategy intuition and performance metrics.
 
-**Derivatives Group Quant Trading**, *Associate Board Member (VP of Communication)*<br />
-Creating/backtesting trading strategy algorithms on historical data to maximize risk-adjusted returns in simulated trading environments. Supporting Associate Leadership Board by developing curriculum, interviewing candidates, and spearheading new member outreach.
+**Oeconomica - Economics Research Group**, *Research Lead in Asset Pricing Cohort*<br />
+Conducting alternative data-driven research on ESG stocks’ risk premium and the alpha potential in ESG-diversified portfolios.
 
 **Financial Markets Program**, *Senior Member and Mentor*<br />
 Accepted into selective, three-year program focused on building business acumen for quant roles through technical training, workshops, curriculum at the Booth. Lead team to implement Markowitz mean-variance portfolio optimization for dynamic return prediction at UChicago 2022 Trading Competition beating 40+ universities’ algorithms. 
@@ -56,23 +57,20 @@ Relevant Coursework
 - MATH 20300-20400-20500 Analysis in Rⁿ I-II-III
 - MATH 27300 Theory of Ordinary Differential Equations
 - MPCS 52560 Applied Financial Technology (Graduate Level)
-- SOSC 13100-13200-13300 Social Science Inquiry 
 - STAT 22400 Applied Regression Analysis 
 - STAT 22600 Analysis of Categorical Data
 - STAT 24300 Numerical Linear Algebra
 - STAT 24400 Statistical Theory & Methods
 - STAT 25100 Mathematical Probability
 
-Awards
+Honors & Awards
 ------
-- bp Future Talent STEM Scholarship ($5,000)
 - Citadel x Amplify International Market-Making Trading Competition (11th Place)
 - Citadel Securities Trading Challenge (2nd Place)
 - D.E. Shaw Nexus Fellow ($1,500)
-- Jeff Metcalf Internship Grants for Acrobator Ventures and Bluebonnet Data ($4,650)
-- J.P. Morgan Systematic Crypto Electronic Trading Competition (Top 10)
-- Optiver TraderHack Algorithmic Trading Competition (Top 15 Finalist)
-- UChicago Midwest Trading Competition - Portfolio Optimization Case (2nd Place / $750)
+- J.P. Morgan Crypto Electronic Trading Competition (Top 10)
+- Optiver TraderHack Algorithmic Trading Competition (Finalist)
+- UChicago Trading Competition - Portfolio Optimization Case (2nd Place / $750)
 
 Skills & Interests
 ------
