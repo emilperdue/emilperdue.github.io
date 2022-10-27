@@ -67,10 +67,10 @@ Honors & Awards
 ------
 - Citadel x Amplify International Market-Making Trading Competition (11th Place)
 - Citadel Securities Trading Challenge (2nd Place)
-- D.E. Shaw Nexus Fellow ($1,500)
+- D.E. Shaw Nexus Fellow 
 - J.P. Morgan Crypto Electronic Trading Competition (Top 10)
 - Optiver TraderHack Algorithmic Trading Competition (Finalist)
-- UChicago Trading Competition - Portfolio Optimization Case (2nd Place / $750)
+- UChicago Trading Competition - Portfolio Optimization Case (2nd Place)
 
 Skills & Interests
 ------
