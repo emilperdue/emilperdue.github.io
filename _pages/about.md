@@ -71,6 +71,7 @@ Relevant Coursework
 
 Honors & Awards
 ------
+
 • Citadel International Market-Making Trading Competition (11th Place)<br>
 • Citadel Securities Trading Challenge (2nd Place)<br>
 • D.E. Shaw Nexus Fellow<br> 
@@ -80,6 +81,6 @@ Honors & Awards
 
 Skills & Interests
 ------
-• Technical Training: Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
-• Certifications: Akuna Capital Options 101, Bloomberg Market Concepts, Data Scientist with Python (DataCamp), Machine Learning (Coursera)<br>
-• Programs: Berkeley Trading Competition, bp Trading & Shipping Experience, Discover Citadel, Two Sigma Seekers Summit
+• **Technical Training**: Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
+• **Certifications**: Akuna Capital Options 101, Bloomberg Market Concepts, Data Scientist with Python (DataCamp), Machine Learning (Coursera)<br>
+• **Programs**: Berkeley Trading Competition, bp Trading & Shipping Experience, Discover Citadel, Two Sigma Seekers Summit
