@@ -16,29 +16,29 @@ Experience
 ------
 
 **Susquehanna International Group, LLP (SIG)**, *Incoming Quantitative Trading Intern* <br />
-– Accepted Summer 2023 Internship Offer – Quantitative Trading & Strategy Team 
+• Accepted Summer 2023 Internship Offer – Quantitative Trading & Strategy Team 
 
 **J.P. Morgan**, *Quantitative Research Intern* <br />
-– Sole undergrad intern within Securitized Products Group QR Strats; supported trading/RSF Analytics and trained on MBS and S&T<br>
-– Developed ‘GSE Arbitrage’ algorithm and UI in Python to analyze pricing differential between Agency/Non-Agency MBS structuring<br>
-– Created tool to identify structuring arb opportunities in the non-QM space by parsing/analyzing CDI data; presented results to MD<br>
-– Implemented daily risk reports emailed to NIJ traders by codifying DV01 rate scenarios in Athena Studio; pushed into production
+• Sole undergrad intern within Securitized Products Group QR Strats; supported trading/RSF Analytics and trained on MBS and S&T<br>
+• Developed ‘GSE Arbitrage’ algorithm and UI in Python to analyze pricing differential between Agency/Non-Agency MBS structuring<br>
+• Created tool to identify structuring arb opportunities in the non-QM space by parsing/analyzing CDI data; presented results to MD<br>
+• Implemented daily risk reports emailed to NIJ traders by codifying DV01 rate scenarios in Athena Studio; pushed into production
 
 **Bluebonnet Data**, *Data Science Fellow* <br />
-– Volunteered for “Powell for TN Senate”; trained on political data methods including US Census data, the voter file, and NGP VAN reports"\n"
-– Utilized Python for political data analysis to identify key demographics, predict voter turnout, and develop targeted canvassing lists"\n"
-– Created data visualizations to inform key insights that helped down-ballot democratic candidates more efficiently target voters’ interests
+• Volunteered for “Powell for TN Senate”; trained on political data methods including US Census data, the voter file, and NGP VAN reports"\n"
+• Utilized Python for political data analysis to identify key demographics, predict voter turnout, and develop targeted canvassing lists"\n"
+• Created data visualizations to inform key insights that helped down-ballot democratic candidates more efficiently target voters’ interests
 
 **Finalyze Capital**, *Quantitative Analyst Intern* <br />
-– Parameterized and helped implement intraday momentum futures strategies (1.5+ Sharpe) for fully systematic quantitative CTA"\n"
-– Sourced 10+ profitable strategies for proprietary trading algorithm and outlined position entry code to backtest on fund’s algorithm"\n"
-– Researched machine learning algorithmic options/futures trading strategies and pitched strategy briefs to Finalyze Capital’s CEO"\n"
-– Pitched potential clients on tear sheet, edge, and track record including partnership with Mark Cuban who trades $25M nominal
+• Parameterized and helped implement intraday momentum futures strategies (1.5+ Sharpe) for fully systematic quantitative CTA"\n"
+• Sourced 10+ profitable strategies for proprietary trading algorithm and outlined position entry code to backtest on fund’s algorithm"\n"
+• Researched machine learning algorithmic options/futures trading strategies and pitched strategy briefs to Finalyze Capital’s CEO"\n"
+• Pitched potential clients on tear sheet, edge, and track record including partnership with Mark Cuban who trades $25M nominal
 
 **Acrobator Ventures**, *Investment Data Analyst Intern* <br />
-– Prioritized a dynamic data set of incoming tech investment opportunities (deal flow pipeline) matching the VC fund’s scope"\n"
-– Analyzed 30+ investment targets (market and competitive analysis, product design, business plan, and quantitative valuation)"\n"
-– Conducted final stage investment research and collaborated with Flow Traders on OTC RFQ energy trading platform deal (ShapeQ)
+• Prioritized a dynamic data set of incoming tech investment opportunities (deal flow pipeline) matching the VC fund’s scope"\n"
+• Analyzed 30+ investment targets (market and competitive analysis, product design, business plan, and quantitative valuation)"\n"
+• Conducted final stage investment research and collaborated with Flow Traders on OTC RFQ energy trading platform deal (ShapeQ)
 
 Extracurriculars
 ------
