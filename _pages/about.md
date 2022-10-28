@@ -67,7 +67,7 @@ Relevant Coursework
 • **FINM**: Quantitative Portfolio Management & Algorithmic Trading (Grad Level)<br>
 • **MATH**: Analysis in Rⁿ I-II-III, Theory of Ordinary Differential Equations, Math Probability<br>
 • **MPCS**: Applied Financial Technology (Grad Level)<br>
-• **STAT**: Applied Regression, Categorical Data, Numerical Linear Algebra, Stat. Theory & Methods
+• **STAT**: Applied Regression, Categorical Data, Numerical Linear Alg, Stat. Theory & Methods
 
 Honors & Awards
 ------
