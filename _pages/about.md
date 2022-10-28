@@ -25,39 +25,39 @@ Experience
 • Implemented daily risk reports emailed to NIJ traders by codifying DV01 rate scenarios in Athena Studio; pushed into production
 
 **Bluebonnet Data**, *Data Science Fellow* <br />
-• Volunteered for “Powell for TN Senate”; trained on political data methods including US Census data, the voter file, and NGP VAN reports"\n"
-• Utilized Python for political data analysis to identify key demographics, predict voter turnout, and develop targeted canvassing lists"\n"
+• Volunteered for “Powell for TN Senate”; trained on political data methods including US Census data, the voter file, and NGP VAN reports<br>
+• Utilized Python for political data analysis to identify key demographics, predict voter turnout, and develop targeted canvassing lists<br>
 • Created data visualizations to inform key insights that helped down-ballot democratic candidates more efficiently target voters’ interests
 
 **Finalyze Capital**, *Quantitative Analyst Intern* <br />
-• Parameterized and helped implement intraday momentum futures strategies (1.5+ Sharpe) for fully systematic quantitative CTA"\n"
-• Sourced 10+ profitable strategies for proprietary trading algorithm and outlined position entry code to backtest on fund’s algorithm"\n"
-• Researched machine learning algorithmic options/futures trading strategies and pitched strategy briefs to Finalyze Capital’s CEO"\n"
+• Parameterized and helped implement intraday momentum futures strategies (1.5+ Sharpe) for fully systematic quantitative CTA<br>
+• Sourced 10+ profitable strategies for proprietary trading algorithm and outlined position entry code to backtest on fund’s algorithm<br>
+• Researched machine learning algorithmic options/futures trading strategies and pitched strategy briefs to Finalyze Capital’s CEO<br>
 • Pitched potential clients on tear sheet, edge, and track record including partnership with Mark Cuban who trades $25M nominal
 
 **Acrobator Ventures**, *Investment Data Analyst Intern* <br />
-• Prioritized a dynamic data set of incoming tech investment opportunities (deal flow pipeline) matching the VC fund’s scope"\n"
-• Analyzed 30+ investment targets (market and competitive analysis, product design, business plan, and quantitative valuation)"\n"
+• Prioritized a dynamic data set of incoming tech investment opportunities (deal flow pipeline) matching the VC fund’s scope<br>
+• Analyzed 30+ investment targets (market and competitive analysis, product design, business plan, and quantitative valuation)<br>
 • Conducted final stage investment research and collaborated with Flow Traders on OTC RFQ energy trading platform deal (ShapeQ)
 
 Extracurriculars
 ------
 
 **Maroon Capital**, *Executive Board Member (Head of Career Recruiting)*<br />
-– Developing education curriculum for largest quant club on campus, interviewing candidates, and supporting 60+ analysts w/recruiting
-– Previously lead analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy using MACD indicators
-– Created comprehensive presentation and lead club-wide (50+ attendees) lecture on our “wheel” strategy intuition and performance 
+• Developing education curriculum for largest quant club on campus, interviewing candidates, and supporting 60+ analysts w/recruiting<br>
+• Previously lead analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy using MACD indicators<br>
+• Created comprehensive presentation and lead club-wide (50+ attendees) lecture on our “wheel” strategy intuition and performance 
 
 **Oeconomica - Economics Research Group**, *Research Lead in Asset Pricing Cohort*<br />
-– Conducting alternative data-driven research on ESG stocks’ risk premium and the alpha potential in ESG-diversified portfolios
-– Utilizing Python to collect ESG ratings data, construct ratings-based portfolio weightings, divide sample into high/low rated groups, regress returns on Fama-French models, visualize long/short ESG portfolios, and conduct t-tests to determine significance of premia
+• Conducting alternative data-driven research on ESG stocks’ risk premium and the alpha potential in ESG-diversified portfolios<br>
+• Utilizing Python to collect ESG ratings data, construct ratings-based portfolio weightings, divide sample into high/low rated groups, regress returns on Fama-French models, visualize long/short ESG portfolios, and conduct t-tests to determine significance of premia
 
 **Financial Markets Program**, *Senior Member and Mentor*<br />
-– Accepted into selective, three-year program focused on building business acumen for quant finance roles through technical training, workshops, curriculum at the Booth School of Business, and simulated exposure to trading at the 2022 UChicago Trading Competition
-– Managed team to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ universities’ algos
+• Accepted into selective, three-year program focused on building business acumen for quant finance roles through technical training, workshops, curriculum at the Booth School of Business, and simulated exposure to trading at the 2022 UChicago Trading Competition<br>
+• Managed team to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ universities’ algos
 
 **UC Open Data**, *Energy Data Initiative Team Lead* <br />
-– Leveraged Python and Beautiful Soup to scrape, analyze, visualize, and present public data about energy/water waste at UChicago
+• Leveraged Python and Beautiful Soup to scrape, analyze, visualize, and present public data about energy/water waste at UChicago
 
 Relevant Coursework
 ------
