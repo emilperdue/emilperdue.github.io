@@ -19,19 +19,19 @@ Experience
 • Accepted Summer 2023 Internship Offer – Quantitative Trading & Strategy Team 
 
 **J.P. Morgan**, *Quantitative Research Intern* <br />
-• Sole undergrad intern within Securitized Products Group QR Strats; supported trading/RSF Analytics and trained on MBS and S&T<br>
-• Developed ‘GSE Arbitrage’ algorithm and UI in Python to analyze pricing differential between Agency/Non-Agency MBS structuring<br>
-• Created tool to identify structuring arb opportunities in the non-QM space by parsing/analyzing CDI data; presented results to MD<br>
-• Implemented daily risk reports emailed to NIJ traders by codifying DV01 rate scenarios in Athena Studio; pushed into production
+• Sole undergrad intern within Securitized Products Group Quantitative Research Strats; supported trading/Residential Structured Finance Analytics and trained on MBS and S&T<br>
+• Developed ‘GSE Arbitrage’ algorithm and UI in Python to analyze pricing differential between Agency and Non-Agency MBS structuring<br>
+• Created tool to identify structuring arb opportunities in the non-Qualified Mortgage space by parsing/analyzing CDI data; presented results to MD<br>
+• Implemented daily risk reports emailed to New Issue Jumbo traders by codifying DV01 rate scenarios in Athena Studio; pushed code into production
 
 **Bluebonnet Data**, *Data Science Fellow* <br />
-• Volunteered for “Powell for TN Senate”; trained on political data methods including US Census data, the voter file, and NGP VAN reports<br>
+• Volunteered for “Powell for TN State Senate”; trained on political data methods including US Census data, the voter file, and NGP VAN reports<br>
 • Utilized Python for political data analysis to identify key demographics, predict voter turnout, and develop targeted canvassing lists<br>
 • Created data visualizations to inform key insights that helped down-ballot democratic candidates more efficiently target voters’ interests
 
 **Finalyze Capital**, *Quantitative Analyst Intern* <br />
 • Parameterized and helped implement intraday momentum futures strategies (1.5+ Sharpe) for fully systematic quantitative CTA<br>
-• Sourced 10+ profitable strategies for proprietary trading algorithm and outlined position entry code to backtest on fund’s algorithm<br>
+• Sourced 10+ profitable strategies for proprietary trading algorithm and outlined position entry code to backtest on the fund’s algorithm<br>
 • Researched machine learning algorithmic options/futures trading strategies and pitched strategy briefs to Finalyze Capital’s CEO<br>
 • Pitched potential clients on tear sheet, edge, and track record including partnership with Mark Cuban who trades $25M nominal
 
@@ -44,7 +44,7 @@ Extracurriculars
 ------
 
 **Maroon Capital**, *Executive Board Member (Head of Career Recruiting)*<br />
-• Developing education curriculum for largest quant club on campus, interviewing candidates, and supporting 60+ analysts w/recruiting<br>
+• Developing education curriculum for largest quant club on campus, interviewing candidates, and supporting 60+ analysts with recruiting<br>
 • Previously lead analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy using MACD indicators<br>
 • Created comprehensive presentation and lead club-wide (50+ attendees) lecture on our “wheel” strategy intuition and performance 
 
