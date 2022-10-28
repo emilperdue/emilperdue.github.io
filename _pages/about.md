@@ -62,12 +62,12 @@ Extracurriculars
 Relevant Coursework
 ------
 
-• **CMSC**: Data Engineering, Intro to Computer Science I-II, Discrete Mathematics<br>
+• **CMSC**: Intro to Computer Science I-II, Data Engineering, Discrete Mathematics<br>
 • **DATA**: Intro to Data Science I-II, Ethics, Fairness, Responsibility, and Privacy in Data Science<br>
 • **FINM**: Quantitative Portfolio Management & Algorithmic Trading (Grad Level)<br>
 • **MATH**: Analysis in Rⁿ I-II-III, Theory of Ordinary Differential Equations<br>
 • **MPCS**: Applied Financial Technology (Grad Level)<br>
-• **STAT**: Applied Regression, Analysis of Categorical Data, Numerical Linear Algebra, Stat. Theory & Methods, Math Probability
+• **STAT**: Applied Regression Analysis, Analysis of Categorical Data, Numerical Linear Algebra, Stat. Theory & Methods, Math Probability
 
 Honors & Awards
 ------
