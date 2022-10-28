@@ -82,5 +82,5 @@ Honors & Awards
 Skills & Interests
 ------
 • **Technical Training**: Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
-• **Certifications**: Akuna Capital Options 101, Bloomberg Market Concepts, Data Scientist with Python (DataCamp), Machine Learning (Coursera)<br>
-• **Programs**: Berkeley Trading Competition, bp Trading & Shipping Experience, Discover Citadel, Two Sigma Seekers Summit
+• **Certifications**: Akuna Capital Options 101, AMT Sales & Trading Certificate, Bloomberg Market Concepts, Machine Learning (Coursera)<br>
+• **Programs**: Berkeley Trading Competition, bp Trading Experience, Discover Citadel, Two Sigma Seekers Summit
