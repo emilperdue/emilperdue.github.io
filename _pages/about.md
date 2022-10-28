@@ -16,34 +16,48 @@ Experience
 ------
 
 **Susquehanna International Group, LLP (SIG)**, *Incoming Quantitative Trading Intern* <br />
-Accepted Summer 2023 Internship Offer – Quantitative Trading & Strategy Team 
+- Accepted Summer 2023 Internship Offer – Quantitative Trading & Strategy Team 
 
 **J.P. Morgan**, *Quantitative Research Intern* <br />
-In Summer 2022, I worked at J.P. Morgan as the sole undergraduate intern within the Securitized Products Group QR Strats team. In my role, I supported trading and RSF Analytics and was trained on ABS, MBS, and S&T. I worked to develop a ‘GSE Arbitrage’ algorithm and UI in Python to analyze pricing differential between Agency versus Non-Agency MBS structuring. Additionally, I created a tool to identify structuring arb opportunities in the non-QM space by parsing and analyzing CDI data. I also implemented daily automated risk reports by codifying delta, DV01 rate scenario sensitivity, and max drawdown in Athena Studio.
+- Sole undergrad intern within Securitized Products Group QR Strats; supported trading/RSF Analytics and trained on MBS and S&T
+- Developed ‘GSE Arbitrage’ algorithm and UI in Python to analyze pricing differential between Agency/Non-Agency MBS structuring
+- Created tool to identify structuring arb opportunities in the non-QM space by parsing/analyzing CDI data; presented results to MD
+- Implemented daily risk reports emailed to NIJ traders by codifying DV01 rate scenarios in Athena Studio; pushed into production
 
 **Bluebonnet Data**, *Data Science Fellow* <br />
-From January through April 2021, I volunteered at Bluebonnet Data which is a nonprofit that recruits, trains, and organize students with skills in coding and data science to volunteer on data analyst teams for progressive down-ballet campaigns. Here, I utilized Python for political data analysis (VAN) to identify key demographics, predict voter turnout, and create targeted canvassing lists. I also created data visualizations to inform key insights that helped candidates more efficiently target voters’ interests.
+- Volunteered for “Powell for TN Senate”; trained on political data methods incl. US Census data, the voter file, and NGP VAN reports
+- Utilized Python for political data analysis to identify key demographics, predict voter turnout, and develop targeted canvassing lists
+- Created data visualizations to inform key insights that helped down-ballot democratic candidates more efficiently target voters’ interests
 
 **Finalyze Capital**, *Quantitative Analyst Intern* <br />
-During Summer 2021, I worked at Finalyze Capital, which is a fully systematic quantitative CTA that is managed by UChicago alum Joe Fennessey and is co-owned / backed by Mark Cuban. Here, I parameterized and helped implement intraday momentum futures strategies, several of which had 1.5+ Sharpe Ratios. I sourced 10+ profitable strategies for their proprietary trading algorithm and outlined position entry code to backtest on the fund’s algorithm. I also researched machine learning algorithmic options / futures trading strategies and pitched strategy briefs directly to the CEO.
+- Parameterized and helped implement intraday momentum futures strategies (1.5+ Sharpe) for fully systematic quantitative CTA
+- Sourced 10+ profitable strategies for proprietary trading algorithm and outlined position entry code to backtest on fund’s algorithm
+- Researched machine learning algorithmic options/futures trading strategies and pitched strategy briefs to Finalyze Capital’s CEO
+- Pitched potential clients on tear sheet, edge, and track record including partnership with Mark Cuban who trades $25M nominal
 
 **Acrobator Ventures**, *Investment Data Analyst Intern* <br />
-During Summer 2021, I also worked at Acrobator Ventures, which is a European VC fund focused on tech and data products. I prioritized a dynamic data set of incoming investment opportunities through their dead flow pipeline matching the fund’s scope. Similarly, I performed analysis on 25+ investment targets (market and competitive analysis, product, business plan, and valuation) and conducted final stage investment research / collaborated with Flow Traders on an OTC RFQ energy trading platform deal.
+- Prioritized a dynamic data set of incoming tech investment opportunities (deal flow pipeline) matching the VC fund’s scope
+- Analyzed 30+ investment targets (market and competitive analysis, product design, business plan, and quantitative valuation)
+- Conducted final stage investment research and collaborated with Flow Traders on OTC RFQ energy trading platform deal (ShapeQ)
 
 Extracurriculars
 ------
 
 **Maroon Capital**, *Executive Board Member (Head of Career Recruiting)*<br />
-Managed team to design, backtest, and optimize options “wheel” mean-reversion algo trading strategy utilizing MACD indicators. Developed comprehensive presentation and lead club-wide lecture (50+ members) on our strategy intuition and performance metrics.
+- Developing education curriculum for largest quant club on campus, interviewing candidates, and supporting 60+ analysts w/recruiting
+- Previously lead analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy using MACD indicators
+- Created comprehensive presentation and lead club-wide (50+ attendees) lecture on our “wheel” strategy intuition and performance 
 
 **Oeconomica - Economics Research Group**, *Research Lead in Asset Pricing Cohort*<br />
-Conducting alternative data-driven research on ESG stocks’ risk premium and the alpha potential in ESG-diversified portfolios.
+- Conducting alternative data-driven research on ESG stocks’ risk premium and the alpha potential in ESG-diversified portfolios
+- Utilizing Python to collect ESG ratings data, construct ratings-based portfolio weightings, divide sample into high/low rated groups, regress returns on Fama-French models, visualize long/short ESG portfolios, and conduct t-tests to determine significance of premia
 
 **Financial Markets Program**, *Senior Member and Mentor*<br />
-Accepted into selective, three-year program focused on building business acumen for quant roles through technical training, workshops, curriculum at the Booth. Lead team to implement Markowitz mean-variance portfolio optimization for dynamic return prediction at UChicago 2022 Trading Competition beating 40+ universities’ algorithms. 
+- Accepted into selective, three-year program focused on building business acumen for quant finance roles through technical training, workshops, curriculum at the Booth School of Business, and simulated exposure to trading at the 2022 UChicago Trading Competition
+- Managed team to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ universities’ algos
 
 **UC Open Data**, *Energy Data Initiative Team Lead* <br />
-Utilizing Python and Beautiful Soup to scrape, analyze, visualize, and present public data about energy/water/food waste at UChicago.
+- Leveraged Python and Beautiful Soup to scrape, analyze, visualize, and present public data about energy/water waste at UChicago
 
 Relevant Coursework
 ------
@@ -76,4 +90,4 @@ Skills & Interests
 ------
 - Technical Training: Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL
 - Certifications: Akuna Capital Options 101, Bloomberg Market Concepts, Data Scientist with Python (DataCamp), Machine Learning (Coursera)
-- Programs: Berkeley Trading Competition, bp Trading & Shipping Experience, Cornerstone Research Externship, Discover Citadel, Two Sigma Seekers Summit
+- Programs: Berkeley Trading Competition, bp Trading & Shipping Experience, Discover Citadel, Two Sigma Seekers Summit
