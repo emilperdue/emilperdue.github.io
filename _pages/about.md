@@ -20,8 +20,8 @@ Experience
 
 **J.P. Morgan**, *Quantitative Research Intern* <br />
 • Sole undergrad intern within Securitized Products Group Quantitative Research Strats; supported trading/Residential Structured Finance Analytics and trained on MBS and S&T<br>
-• Developed ‘GSE Arbitrage’ algorithm and UI in Python to analyze pricing differential between Agency and Non-Agency MBS structuring<br>
-• Created tool to identify structuring arb opportunities in the non-Qualified Mortgage space by parsing/analyzing CDI data; presented results to MD<br>
+• Developed ‘GSE Arbitrage’ algorithm and UI in Python to analyze pricing differential between Agency versus Non-Agency MBS structuring<br>
+• Created tool to identify structuring arbitrage opportunities in the Non-Qualified Mortgage space by parsing/analyzing CDI data; presented results to MD<br>
 • Implemented daily risk reports emailed to New Issue Jumbo traders by codifying DV01 rate scenarios in Athena Studio; pushed code into production
 
 **Bluebonnet Data**, *Data Science Fellow* <br />
@@ -38,14 +38,14 @@ Experience
 **Acrobator Ventures**, *Investment Data Analyst Intern* <br />
 • Prioritized a dynamic data set of incoming tech investment opportunities (deal flow pipeline) matching the VC fund’s scope<br>
 • Analyzed 30+ investment targets (market and competitive analysis, product design, business plan, and quantitative valuation)<br>
-• Conducted final stage investment research and collaborated with Flow Traders on OTC RFQ energy trading platform deal (ShapeQ)
+• Conducted final stage investment research and collaborated with Flow Traders on OTC Request For Quote (RFQ) energy trading platform deal (ShapeQ)
 
 Extracurriculars
 ------
 
 **Maroon Capital**, *Executive Board Member (Head of Career Recruiting)*<br />
-• Developing education curriculum for largest quant club on campus, interviewing candidates, and supporting 60+ analysts with recruiting<br>
-• Previously lead analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy using MACD indicators<br>
+• Developing education curriculum for largest quant club on campus, interviewing candidates, and supporting 60+ analysts with quantitative finance career recruiting<br>
+• Previously lead analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy utilizing MACD mean-reversion indicators<br>
 • Created comprehensive presentation and lead club-wide (50+ attendees) lecture on our “wheel” strategy intuition and performance 
 
 **Oeconomica - Economics Research Group**, *Research Lead in Asset Pricing Cohort*<br />
