@@ -19,9 +19,9 @@ Experience
 – Accepted Summer 2023 Internship Offer – Quantitative Trading & Strategy Team 
 
 **J.P. Morgan**, *Quantitative Research Intern* <br />
-– Sole undergrad intern within Securitized Products Group QR Strats; supported trading/RSF Analytics and trained on MBS and S&T"\n"
-– Developed ‘GSE Arbitrage’ algorithm and UI in Python to analyze pricing differential between Agency/Non-Agency MBS structuring"\n"
-– Created tool to identify structuring arb opportunities in the non-QM space by parsing/analyzing CDI data; presented results to MD"\n"
+– Sole undergrad intern within Securitized Products Group QR Strats; supported trading/RSF Analytics and trained on MBS and S&T<br>
+– Developed ‘GSE Arbitrage’ algorithm and UI in Python to analyze pricing differential between Agency/Non-Agency MBS structuring<br>
+– Created tool to identify structuring arb opportunities in the non-QM space by parsing/analyzing CDI data; presented results to MD<br>
 – Implemented daily risk reports emailed to NIJ traders by codifying DV01 rate scenarios in Athena Studio; pushed into production
 
 **Bluebonnet Data**, *Data Science Fellow* <br />
