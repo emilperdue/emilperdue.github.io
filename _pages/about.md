@@ -62,32 +62,24 @@ Extracurriculars
 Relevant Coursework
 ------
 
-- CMSC 13600 Data Engineering (Python)
-- CMSC 15100-15200 Intro to Computer Science I-II
-- CMSC 27100 Discrete Mathematics
-- DATA 11800-11900 Intro to Data Science I-II 
-- DATA 25900 Ethics, Fairness, Responsibility, and Privacy in Data Science 
-- FINM 25000 Quantitative Portfolio Management & Algorithmic Trading (Graduate Level)
-- MATH 20300-20400-20500 Analysis in Rⁿ I-II-III
-- MATH 27300 Theory of Ordinary Differential Equations
-- MPCS 52560 Applied Financial Technology (Graduate Level)
-- STAT 22400 Applied Regression Analysis 
-- STAT 22600 Analysis of Categorical Data
-- STAT 24300 Numerical Linear Algebra
-- STAT 24400 Statistical Theory & Methods
-- STAT 25100 Mathematical Probability
+• CMSC: Data Engineering, Intro to Computer Science I-II, Discrete Mathematics<br>
+• DATA: Intro to Data Science I-II, Ethics, Fairness, Responsibility, and Privacy in Data Science<br>
+• FINM: Quantitative Portfolio Management & Algorithmic Trading (Grad Level)<br>
+• MATH: Analysis in Rⁿ I-II-III, Theory of Ordinary Differential Equations<br>
+• MPCS: Applied Financial Technology (Grad Level)
+• STAT: Applied Regression Analysis, Analysis of Categorical Data, Numerical Linear Algebra, Statistical Theory & Methods, Mathematical Probability
 
 Honors & Awards
 ------
-- Citadel International Market-Making Trading Competition (11th Place)
-- Citadel Securities Trading Challenge (2nd Place)
-- D.E. Shaw Nexus Fellow 
-- J.P. Morgan Crypto Electronic Trading Competition (Top 10)
-- Optiver TraderHack Algorithmic Trading Competition (Finalist)
-- UChicago Trading Competition - Portfolio Optimization Case (2nd Place)
+• Citadel International Market-Making Trading Competition (11th Place)<br>
+• Citadel Securities Trading Challenge (2nd Place)<br>
+• D.E. Shaw Nexus Fellow<br> 
+• J.P. Morgan Crypto Electronic Trading Competition (Top 10)<br>
+• Optiver TraderHack Algorithmic Trading Competition (Finalist)<br>
+• UChicago Trading Competition - Portfolio Optimization Case (2nd Place)
 
 Skills & Interests
 ------
-- Technical Training: Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL
-- Certifications: Akuna Capital Options 101, Bloomberg Market Concepts, Data Scientist with Python (DataCamp), Machine Learning (Coursera)
-- Programs: Berkeley Trading Competition, bp Trading & Shipping Experience, Discover Citadel, Two Sigma Seekers Summit
+• Technical Training: Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
+• Certifications: Akuna Capital Options 101, Bloomberg Market Concepts, Data Scientist with Python (DataCamp), Machine Learning (Coursera)<br>
+• Programs: Berkeley Trading Competition, bp Trading & Shipping Experience, Discover Citadel, Two Sigma Seekers Summit
