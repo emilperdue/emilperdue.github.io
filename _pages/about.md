@@ -72,7 +72,7 @@ Relevant Coursework
 Honors & Awards
 ------
 
-• Citadel International Market-Making Trading Competition (11th Place)<br>
+• Citadel NYC Market-Making Trading Competition (11th Place)<br>
 • Citadel Securities Trading Challenge (2nd Place)<br>
 • D.E. Shaw Nexus Fellow<br> 
 • J.P. Morgan Crypto Electronic Trading Competition (Top 10)<br>
