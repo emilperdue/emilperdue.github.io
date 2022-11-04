@@ -16,7 +16,7 @@ Experience
 ------
 
 **Susquehanna International Group, LLP (SIG)**, *Incoming Quantitative Trading Intern* <br />
-• Accepted Summer 2023 Internship Offer – Quantitative Trading & Strategy Team 
+• Accepted Summer 2023 Internship Offer – Quantitative Trading Equity Options Market-Making Desk
 
 **J.P. Morgan**, *Quantitative Research Intern* <br />
 • Sole undergrad intern within Securitized Products Group Quantitative Research Strats; supported trading/Residential Structured Finance Analytics and trained on MBS and S&T<br>
