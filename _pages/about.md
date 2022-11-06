@@ -20,7 +20,7 @@ Experience
 
 **J.P. Morgan**, *Quantitative Research Intern* <br />
 • Sole undergrad intern within Securitized Products Group Quantitative Research Strats; supported trading/Residential Structured Finance Analytics and trained on MBS and S&T<br>
-• Developed ‘GSE Arbitrage’ algorithm and UI in Python to analyze pricing differential between Agency versus Non-Agency MBS structuring<br>
+• Developed ‘GSE Arbitrage’ algorithm and UI in Python to analyze pricing differential between Agency versus Non-Agency Mortgage-Backed Securities structuring<br>
 • Created tool to identify structuring arbitrage opportunities in the Non-Qualified Mortgage space by parsing/analyzing CDI data; presented results to MD<br>
 • Implemented daily risk reports emailed to New Issue Jumbo traders by codifying DV01 rate scenarios in Athena Studio; pushed code into production
 
@@ -36,7 +36,7 @@ Experience
 • Pitched potential clients on tear sheet, edge, and track record including partnership with Mark Cuban who trades $25M nominal
 
 **Acrobator Ventures**, *Investment Data Analyst Intern* <br />
-• Prioritized a dynamic data set of incoming tech investment opportunities (deal flow pipeline) matching the VC fund’s scope<br>
+• Prioritized a dynamic data set of incoming tech investment opportunities (deal flow pipeline) matching Acrobator's Tech VC scope<br>
 • Analyzed 30+ investment targets (market and competitive analysis, product design, business plan, and quantitative valuation)<br>
 • Conducted final stage investment research and collaborated with Flow Traders on OTC Request For Quote (RFQ) energy trading platform deal (ShapeQ)
 
@@ -57,7 +57,7 @@ Extracurriculars
 • Managed team to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ universities’ algos
 
 **UC Open Data**, *Energy Data Initiative Team Lead* <br />
-• Leveraged Python and Beautiful Soup to scrape, analyze, visualize, and present public data about energy/water waste at UChicago
+• Leveraged Python and Beautiful Soup to scrape, analyze, visualize, and present public data about energy/water waste at the University of Chicago
 
 Relevant Coursework
 ------
