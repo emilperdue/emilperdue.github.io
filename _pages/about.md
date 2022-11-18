@@ -18,6 +18,11 @@ Experience
 **Susquehanna International Group, LLP (SIG)**, *Incoming Quantitative Trading Intern* <br />
 • Accepted Summer 2023 Internship Offer – Equity Options Market-Making Desk
 
+**Sol Systems**, *Energy Trading Analyst Intern* <br />
+• Trained on energy and environmental commodities markets; utilizing Python and Excel to quantify new market arbitrage opportunities<br>
+• Developing novel tools to backtest trade ideas, stress-test for market shocks, and spot relative price relationships and market patterns<br>
+• Performing data analysis in Juptyer Notebook and leveraging Tableau to visualize intra-hourly time-series energy data and spot pricing inconsistencies
+
 **J.P. Morgan**, *Quantitative Research Intern* <br />
 • Sole undergrad intern within Securitized Products Group Quantitative Research Strats; supported trading/Residential Structured Finance Analytics and trained on MBS and S&T<br>
 • Developed ‘GSE Arbitrage’ algorithm and UI in Python to analyze pricing differential between Agency versus Non-Agency Mortgage-Backed Securities structuring<br>
@@ -34,11 +39,6 @@ Experience
 • Sourced 10+ profitable strategies for proprietary trading algorithm and outlined position entry code to backtest on the fund’s algorithm<br>
 • Researched machine learning algorithmic options/futures trading strategies and pitched strategy briefs to Finalyze Capital’s CEO<br>
 • Pitched potential clients on tear sheet, edge, and track record including partnership with Mark Cuban who trades $25M nominal
-
-**Acrobator Ventures**, *Investment Data Analyst Intern* <br />
-• Prioritized a dynamic data set of incoming tech investment opportunities (deal flow pipeline) matching Acrobator's Tech VC scope<br>
-• Analyzed 30+ investment targets (market and competitive analysis, product design, business plan, and quantitative valuation)<br>
-• Conducted final stage investment research and collaborated with Flow Traders on OTC Request For Quote (RFQ) energy trading platform deal (ShapeQ)
 
 Extracurriculars
 ------
