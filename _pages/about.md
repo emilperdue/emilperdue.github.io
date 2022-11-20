@@ -18,7 +18,7 @@ Experience
 **Susquehanna International Group, LLP (SIG)**, *Incoming Quantitative Trading Intern* <br />
 • Accepted Summer 2023 Internship Offer – Equity Options Market-Making Desk
 
-**Sol Systems**, *Energy Trading Analyst Intern* <br />
+**Sol Systems**, *Trading Intern* <br />
 • Trained on energy and environmental commodities markets; utilizing Python and Excel to quantify new market arbitrage opportunities<br>
 • Developing novel tools to backtest trade ideas, stress-test for market shocks, and spot relative price relationships and market patterns<br>
 • Performing data analysis in Juptyer Notebook and leveraging Tableau to visualize intra-hourly time-series energy data and spot pricing inconsistencies
