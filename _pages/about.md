@@ -34,7 +34,7 @@ Experience
 • Utilized Python for political data analysis to identify key demographics, predict voter turnout, and develop targeted canvassing lists<br>
 • Created data visualizations to inform key insights that helped down-ballot democratic candidates more efficiently target voters’ interests
 
-**Finalyze Capital**, *Quantitative Analyst Intern* <br />
+**Finalyze Capital**, *Investment Research Intern* <br />
 • Parameterized and helped implement intraday momentum futures strategies (1.5+ Sharpe) for fully systematic quantitative CTA<br>
 • Sourced 10+ profitable strategies for proprietary trading algorithm and outlined position entry code to backtest on the fund’s algorithm<br>
 • Researched machine learning algorithmic options/futures trading strategies and pitched strategy briefs to Finalyze Capital’s CEO<br>
