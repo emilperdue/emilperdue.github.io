@@ -20,8 +20,8 @@ Experience
 
 **Sol Systems**, *Proprietary Trading Intern* <br />
 • Trained on energy and environmental commodities markets; utilizing Python and Excel to quantify new market arbitrage opportunities<br>
-• Developing novel tools to backtest trade ideas, stress-test for market shocks, and spot relative price relationships and market patterns<br>
-• Performing data analysis in Juptyer Notebook and leveraging Tableau to visualize intra-hourly time-series energy data and spot pricing inconsistencies
+• Developing analysis in HeidiSQL/Juptyer to backtest strangle options strategy on CCA/power futures across 25+ strikes/expirations<br>
+• Performing research to visualize intra-hourly time-series energy data and spot relative price relationships and market inconsistencies
 
 **J.P. Morgan**, *Quantitative Research Intern* <br />
 • Sole undergrad intern within Securitized Products Group Quantitative Research Strats; supported trading/Residential Structured Finance Analytics and trained on MBS and S&T<br>
@@ -84,5 +84,5 @@ Skills & Interests
 • **Technical Training**: Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
 • **Certifications**: Akuna Capital Options 101 & 201, AMT Sales & Trading Certificate, Bloomberg Market Concepts, Machine Learning (Coursera)<br>
 • **Programs**: Berkeley Trading Competition, bp Trading Experience, Discover Citadel, Two Sigma Seekers Summit<br>
-• **Interests/Clubs**: A24 films, Delta Upsilon (Scholarship Chair), Derivatives Group (Associate), poker, rugby, UC Dems (Outreach Chair)
+• **Interests/Clubs**: A24, Delta Upsilon (Scholarship Chair), Derivatives Group (Associate), gym, poker, rugby, UC Dems (Outreach Chair)
 
