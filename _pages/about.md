@@ -84,5 +84,4 @@ Skills & Interests
 • **Technical Training**: Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
 • **Certifications**: Akuna Capital Options 101 & 201, AMT Sales & Trading Certificate, Bloomberg Market Concepts, Machine Learning (Coursera)<br>
 • **Programs**: Berkeley Trading Competition, bp Trading Experience, Discover Citadel, Two Sigma Seekers Summit<br>
-• **Interests/Clubs**: A24, Delta Upsilon (Scholarship Chair), Derivatives Group (Associate), gym, poker, rugby, UC Dems (Outreach Chair)
-
+• **Interests/Clubs**: A24, Delta Upsilon (Academic Chair), Derivatives Group (Associate), fitness, poker, rugby, UC Dems (Outreach Chair)
