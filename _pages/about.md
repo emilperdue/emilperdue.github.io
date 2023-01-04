@@ -65,7 +65,7 @@ Relevant Coursework
 • **CMSC**: Intro to Computer Science I-II, Data Engineering, Discrete Mathematics<br>
 • **DATA**: Intro to Data Science I-II, Ethics, Fairness, Responsibility, and Privacy in Data Science<br>
 • **FINM**: Quantitative Portfolio Management & Algorithmic Trading (Grad Level)<br>
-• **MATH**: Analysis in Rⁿ I-II-III, Theory of Ordinary Differential Equations, Math Probability<br>
+• **MATH**: Analysis in Rⁿ I-III, Theory of Ordinary Differential Equations, Math Probability<br>
 • **MPCS**: Applied Financial Technology (Grad Level)<br>
 • **STAT**: Applied Regression, Categorical Data, Numerical Linear Alg, Stat. Theory & Methods
 
