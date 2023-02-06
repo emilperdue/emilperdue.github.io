@@ -62,12 +62,13 @@ Extracurriculars
 Relevant Coursework
 ------
 
+• **BUSN**: Big Data (Grad Level)<br>
 • **CMSC**: Intro to Computer Science I-II, Data Engineering, Discrete Mathematics<br>
 • **DATA**: Intro to Data Science I-II, Ethics, Fairness, Responsibility, and Privacy in Data Science<br>
 • **FINM**: Quantitative Portfolio Management & Algorithmic Trading (Grad Level)<br>
-• **MATH**: Analysis in Rⁿ I-III, Theory of Ordinary Differential Equations, Math Probability<br>
+• **MATH**: Analysis in Rⁿ I-III, Theory of ODEs, Numerical Analysis, Math Probability<br>
 • **MPCS**: Applied Financial Technology (Grad Level)<br>
-• **STAT**: Applied Regression, Categorical Data, Numerical Linear Alg, Stat. Theory & Methods
+• **STAT**: Applied Regression, Categorical Data, Lin. Models, Numerical Lin. Alg, Stat. Theory & Methods
 
 Honors & Awards
 ------
@@ -82,6 +83,6 @@ Honors & Awards
 Skills & Interests
 ------
 • **Technical Training**: Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
-• **Certifications**: Akuna Capital Options 101 & 201, AMT Sales & Trading Certificate, Bloomberg Market Concepts, Machine Learning (Coursera)<br>
+• **Certifications**: Akuna Capital Options 101 & 201, AMT Sales & Trading Certificate, Bloomberg Market Concepts, Citadel Datahon, ML (Coursera)<br>
 • **Programs**: Berkeley Trading Competition, bp Trading Experience, Discover Citadel, Two Sigma Seekers Summit<br>
 • **Interests/Clubs**: A24, Delta Upsilon (Academic Chair), Derivatives Group (Associate), fitness, poker, rugby, UC Dems (Outreach Chair)
