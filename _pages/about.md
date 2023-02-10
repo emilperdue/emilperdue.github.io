@@ -18,6 +18,9 @@ Experience
 **Susquehanna International Group, LLP (SIG)**, *Incoming Quantitative Trading Intern* <br />
 • Accepted Summer 2023 Internship Offer – Equity Options Market-Making Desk
 
+**PEAK6**, *Incoming Trading Intern* <br />
+• Accepted Spring 2023 Internship Offer – Options and Volatility Arbitrage Trading Desk
+
 **Sol Systems**, *Proprietary Trading Intern* <br />
 • Trained on energy and environmental commodities markets; utilizing Python and Excel to quantify new market arbitrage opportunities<br>
 • Developing analysis in HeidiSQL/Juptyer to backtest strangle options strategy on CCA/power futures across 25+ strikes/expirations<br>
