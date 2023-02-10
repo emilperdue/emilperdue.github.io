@@ -56,7 +56,7 @@ Extracurriculars
 • Utilizing Python to collect ESG ratings data, construct ratings-based portfolio weightings, divide sample into high/low rated groups, regress returns on Fama-French models, visualize long/short ESG portfolios, and conduct t-tests to determine significance of premia
 
 **Financial Markets Program**, *Senior Member and Mentor*<br />
-• Accepted into selective, three-year program focused on building business acumen for quant finance roles through technical training, workshops, curriculum at the Booth School of Business, and simulated exposure to trading at the 2022 UChicago Trading Competition<br>
+• Accepted into three-year program focused on building quant acumen through curriculum at Booth and UChicago Trading Competition<br>
 • Managed team to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ universities’ algos
 
 **UC Open Data**, *Energy Data Initiative Team Lead* <br />
