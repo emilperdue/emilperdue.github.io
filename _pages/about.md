@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently a third-year undergraduate at the University of Chicago studying computational and applied mathematics, data science, and statistics. I am also planning on pursuing the four-year joint master's program (Bx/MS) in computer science. I’m involved with various quantitative finance and data science groups on campus. I have professional interests in trading, quantitative research, and data science.
+Hi! I'm currently a third-year undergraduate at the University of Chicago with majors in Computational and Applied Mathematics (with Honors), Data Science, and Statistics. I am also planning on pursuing the Four-Year Joint Master's Program (Bx/MS) in Computer Science. I’m involved with various quantitative finance and data science groups on campus. I have professional interests in trading, quantitative research, and data science.
 
 Feel free to reach out!
 
