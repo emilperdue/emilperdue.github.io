@@ -78,10 +78,10 @@ Honors & Awards
 • Citadel Midwest Regional Datathon (1st Place - \$10,000)<br>
 • Citadel NYC Market-Making Trading Competition (11th Place)<br>
 • Citadel Securities Trading Challenge (2nd Place)<br>
-• D.E. Shaw Nexus Fellow<br> 
+• D.E. Shaw Nexus Fellow (\$1,500)<br> 
 • J.P. Morgan Crypto Electronic Trading Competition (Top 10)<br>
 • Optiver TraderHack Algorithmic Trading Competition (Finalist)<br>
-• UChicago Trading Competition - Portfolio Optimization Case (2nd Place)
+• UChicago Trading Competition - Portfolio Optimization Case (2nd Place - \$750)
 
 Skills & Interests
 ------
