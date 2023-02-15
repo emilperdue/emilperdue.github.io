@@ -59,8 +59,8 @@ Extracurriculars
 • Accepted into three-year program focused on building quant acumen through UChicago Trading Competition and curriculum at Booth<br>
 • Managed team to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ universities’ algos
 
-**UC Open Data**, *Energy Data Initiative Team Lead* <br />
-• Leveraged Python and Beautiful Soup to scrape, analyze, visualize, and present public data about energy/water waste at the University of Chicago
+**Citadel Midwest Regional Datathon**, *1st Place Winner* <br />
+• Co-authored report on greenspaces’ impact by analyzing geo-Twitter data and implementing nearest neighbors to predict new locations
 
 Relevant Coursework
 ------
@@ -75,8 +75,8 @@ Relevant Coursework
 Honors & Awards
 ------
 
-• Citadel Midwest Regional Datathon (1st Place - \$10,000)<br>
-• Citadel NYC Market-Making Trading Competition (11th Place)<br>
+• Citadel Midwest Regional Datathon (1st Place - \$10,000 & Data Open Championship Invite)<br>
+• Citadel & Amplify NYC Market-Making Trading Competition (11th Place)<br>
 • Citadel Securities Trading Challenge (2nd Place)<br>
 • D.E. Shaw Nexus Fellow<br> 
 • J.P. Morgan Crypto Electronic Trading Competition (Top 10)<br>
