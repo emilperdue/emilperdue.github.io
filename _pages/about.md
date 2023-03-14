@@ -58,7 +58,7 @@ Extracurriculars
 • Managed team to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ universities’ algos
 
 **Citadel Midwest Regional Datathon**, *1st Place Winner* <br />
-• Co-authored report on greenspaces’ impact by analyzing geo-Twitter data and implementing nearest neighbors to predict new locations
+• Co-authored report that quantifies greenspace/bluespace impact on microclimates by utilizing K-means Clustering to disentangle their effects, analyzing links to mental health through geo-Twitter data, and implementing nearest neighbors to predict potential locations
 
 Relevant Coursework
 ------
