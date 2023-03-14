@@ -22,9 +22,8 @@ Experience
 • Accepted Spring 2023 Internship Offer – Options and Volatility Arbitrage Trading Desk
 
 **Sol Systems**, *Proprietary Trading Intern* <br />
-• Trained on energy and environmental commodities markets; utilizing Python and Excel to quantify new market arbitrage opportunities<br>
-• Developing analysis in HeidiSQL/Juptyer to backtest strangle options strategy on CCA/power futures across 25+ strikes/expirations<br>
-• Performing research to visualize intra-hourly time-series energy data and spot relative price relationships and market inconsistencies
+• Trained on energy commodity markets; utilized Python and HeidiSQL to backtest strangle/spread options strategies on CCA futures over 20+ expirations; optimized capital allocation across strategies in Excel by researching annual implied volatility and correlation<br>
+• Presented strangle strategy to CEO, approved for $200k allocation, assisted with strike selection/execution; P&L currently at +30%
 
 **J.P. Morgan**, *Quantitative Research Intern* <br />
 • Sole undergrad intern within Securitized Products Group Quantitative Research Strats; supported trading/Residential Structured Finance Analytics and trained on MBS and S&T<br>
@@ -47,9 +46,8 @@ Extracurriculars
 ------
 
 **Maroon Capital**, *Executive Board Member (Head of Career Recruiting)*<br />
-• Developing education curriculum for largest quant club on campus, interviewing candidates, and supporting 60+ analysts with quantitative finance career recruiting<br>
-• Previously lead analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy utilizing MACD mean-reversion indicators<br>
-• Created comprehensive presentation and lead club-wide (50+ attendees) lecture on our “wheel” strategy intuition and performance 
+• Presenting/developing curriculum for largest quant club on campus, interviewing candidates, and supporting 60+ analysts w/recruiting<br>
+• Previously lead analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy using MACD indicators
 
 **Oeconomica - Economics Research Group**, *Research Lead in Asset Pricing Cohort*<br />
 • Conducting alternative data-driven research on ESG stocks’ risk premium and the alpha potential in ESG-diversified portfolios<br>
