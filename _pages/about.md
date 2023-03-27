@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently a third-year undergraduate at the University of Chicago pursuing a Bachelor of Science with majors in Computational and Applied Mathematics (Honors), Data Science, and Statistics as well as the Four-Year Joint Master's (Bx/MS) in Computer Science. I’m involved with various quantitative finance and data science groups on campus. I have professional interests in trading, quantitative research, and data science.
+Hi! I'm currently a third-year undergraduate at the University of Chicago pursuing a Bachelor of Science with majors in Computational and Applied Mathematics (Honors), Data Science, and Statistics as well as the Four-Year Joint Master's (Bx/MS) in Computer Science. I’m involved with various quantitative finance and data science groups on campus. I have interests in effective altruism, political science, quantitative research, and trading.
 
 Feel free to reach out!
 
@@ -68,7 +68,7 @@ Relevant Coursework
 • **FINM**: Big Data (Grad Level), Quantitative Portfolio Management & Algo Trading<br>
 • **MATH**: Analysis in Rⁿ, ODEs, Numerical Analysis, Numerical Linear Algebra, Probability<br>
 • **MPCS**: Applied Financial Technology (Grad Level)<br>
-• **STAT**: Applied Regressions, Categorical Data, Linears Models, Statistical Theory & Methods
+• **STAT**: Applied Regressions, Categorical Data, Linear Models, Statistical Theory & Methods
 
 Honors & Awards
 ------
@@ -86,4 +86,4 @@ Skills & Interests
 • **Technical Training**: Git, Linux, Microsoft Excel, Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
 • **Certifications**: Akuna Capital Options 101 & 201, AMT Sales & Trading Certificate, Bloomberg Market Concepts, Machine Learning (Coursera)<br>
 • **Programs**: Berkeley Trading Competition, bp Trading Experience, Discover Citadel, Two Sigma Seekers Summit<br>
-• **Interests/Clubs**: A24 films, Delta Upsilon (Academic Chair), Derivatives Group Quant Trading (Associate), fitness, poker, rugby, UC Dems (Outreach Chair)
+• **Interests/Clubs**: A24 films, Delta Upsilon (Academic Chair), Derivatives Group Quant Trading (Associate), fitness, poker, rugby, UChicago Democrats (Outreach Chair)
