@@ -46,7 +46,7 @@ Extracurriculars
 ------
 
 **Maroon Capital**, *Co-President and Head of Career Recruiting*<br />
-• Presenting/developing curriculum for largest quant club on campus, interviewing candidates, and supporting 60+ analysts w/recruiting<br>
+• Presenting/developing curriculum for largest quant club on campus, interviewing candidates, and supporting 60+ analysts with recruiting<br>
 • Previously lead analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy using MACD indicators
 
 **Oeconomica - Economics Research Group**, *Research Lead in Asset Pricing Cohort*<br />
