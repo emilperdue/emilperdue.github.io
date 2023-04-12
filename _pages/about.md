@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently a third-year undergraduate at the University of Chicago pursuing a Bachelor of Science with majors in Computational and Applied Mathematics (Honors), Data Science, and Statistics as well as the Four-Year Joint Master's (Bx/MS) in Computer Science. I’m involved with various quantitative finance and data science groups on campus. My personal interests include effective altruism, film, personal fitness, and political advocacy.
+Hi! I'm currently a third-year undergraduate at the University of Chicago pursuing a Bachelor of Science with majors in Computational and Applied Mathematics (Honors), Data Science, and Statistics as well as the Four-Year Joint Master's (Bx/MS) in Computer Science. I’m involved with various quantitative finance and data science groups on campus. My interests include effective altruism, film, personal fitness, and political advocacy.
 
 Feel free to reach out!
 
@@ -86,4 +86,4 @@ Skills & Interests
 • **Technical Training**: Git, Linux, Microsoft Excel, Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
 • **Certifications**: Akuna Capital Options 101 & 201, AMT Sales & Trading Certificate, Bloomberg Market Concepts, Machine Learning (Coursera)<br>
 • **Programs**: Berkeley Trading Competition, bp Trading Experience, Discover Citadel, Two Sigma Seekers Summit<br>
-• **Interests/Clubs**: A24 films, Derivatives Group Quant Trading (Associate), fitness, Iron Key Society (Scholar Chair), poker, rugby, UChicago Democrats (Outreach Chair)
+• **Interests/Clubs**: A24 films, Derivatives Group Quant Trading (Associate), fitness, Iron Key Society (Scholarship Chair), poker, rugby, UChicago Democrats (Outreach Chair)
