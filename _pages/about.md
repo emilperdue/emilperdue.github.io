@@ -16,7 +16,7 @@ Experience
 ------
 
 **Susquehanna International Group, LLP (SIG)**, *Incoming Quantitative Trading Intern* <br />
-• Accepted Summer 2023 Internship Offer – Equity Options Market-Making Desk
+• Accepted Summer 2023 Internship Offer – US Equity Options Market-Making Desk
 
 **PEAK6**, *Incoming Trading Intern* <br />
 • Accepted Spring 2023 Internship Offer – Options and Volatility Arbitrage Trading Desk
