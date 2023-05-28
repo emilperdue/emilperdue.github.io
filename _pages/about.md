@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently a third-year undergraduate at the University of Chicago pursuing a Bachelor of Science with majors in Computational and Applied Mathematics (Honors), Data Science, and Statistics as well as the Four-Year Joint Master's (Bx/MS) in Computer Science. I’m involved with various quantitative finance and data science groups on campus. My interests include effective altruism, film, personal fitness, and political advocacy.
+Hi! I'm currently a rising fourth-year undergraduate at the University of Chicago pursuing a Bachelor of Science with majors in Computational and Applied Mathematics (Honors), Data Science, and Statistics as well as the Four-Year Joint Master's (Bx/MS) in Computer Science. I'm in the process of writing my Honors Thesis titled "Mathematics of Leveraged ETFs, Beta Decay, and Long-Term Investment Viability". I’m also involved with various quantitative finance and data science groups on campus. My interests include effective altruism, film, personal fitness, and political advocacy.
 
 Feel free to reach out!
 
@@ -18,8 +18,9 @@ Experience
 **Susquehanna International Group, LLP (SIG)**, *Incoming Quantitative Trading Intern* <br />
 • Accepted Summer 2023 Internship Offer – US Equity Options Market-Making Desk
 
-**PEAK6**, *Incoming Trading Intern* <br />
-• Accepted Spring 2023 Internship Offer – Options and Volatility Arbitrage Trading Desk
+**PEAK6**, *Trading Intern* <br />
+• Studied options theory/discretionary vol market-taking, shadowed traders, and rotated on vol arb/leaps/high-touch project desks<br>
+• Presented to CEO on quantitative portfolio allocation including long $SLV vol (backtested mean-reversion on IV term structure), short $PARA vol (modeled IV/RV spread and skew lookback), and short $DOCU vol (long-term SaaS take-private fundamental projection)
 
 **Sol Systems**, *Proprietary Trading Intern* <br />
 • Trained on energy commodity markets; utilized Python and HeidiSQL to backtest strangle/spread options strategies on CCA futures over 20+ expirations; optimized capital allocation across strategies in Excel by researching annual implied volatility and correlation<br>
@@ -50,8 +51,8 @@ Extracurriculars
 • Previously lead analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy using MACD indicators
 
 **Oeconomica - Economics Research Group**, *Research Lead in Asset Pricing Cohort*<br />
-• Conducting alternative data-driven research on ESG stocks’ risk premium and the alpha potential in ESG-diversified portfolios<br>
-• Utilizing Python to collect ESG ratings data, construct ratings-based portfolio weightings, divide sample into high/low rated groups, regress returns on Fama-French models, visualize long/short ESG portfolios, and conduct t-tests to determine significance of premia
+• Conducted alternative data-driven research/t-tests on significance of ESG risk premium and alpha potential in ESG-diversification<br /> 
+• Utilized Python to collect ESG ratings data, constructed L/S portfolio weightings, and regressed returns on Fama-French models
 
 **Financial Markets Program**, *Senior Member and Mentor*<br />
 • Accepted into three-year program focused on building quant acumen through UChicago Trading Competition and curriculum at Booth<br>
@@ -79,6 +80,7 @@ Honors & Awards
 • D.E. Shaw Nexus Fellowship<br> 
 • J.P. Morgan Crypto Electronic Trading Competition (Top 10)<br>
 • Optiver TraderHack Algorithmic Trading Competition (Finalist)<br>
+• PEAK6 Poker Tournament (1st Place)<br>
 • UChicago Trading Competition - Portfolio Optimization Case (2nd Place)
 
 Skills & Interests
