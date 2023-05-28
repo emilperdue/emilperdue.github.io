@@ -19,8 +19,8 @@ Experience
 • Accepted Summer 2023 Internship Offer – US Equity Options Market-Making Desk
 
 **PEAK6**, *Trading Intern* <br />
-• Studied options theory/discretionary vol market-taking, shadowed traders, and rotated on vol arb/leaps/high-touch project desks<br>
-• Presented to CEO on quantitative portfolio allocation including long SLV vol (backtested mean-reversion on \\$IV term structure), short \\$PARA vol (modeled IV/RV spread and skew lookback), and short \\$DOCU vol (long-term SaaS take-private fundamental projection)
+• Studied options theory/discretionary volatility market-taking, shadowed traders, and rotated on volatility artbitrage/leaps/high-touch project desks<br>
+• Presented to CEO on quantitative portfolio allocation including long \\$SLV vol (backtested mean-reversion on \\$IV term structure), short \\$PARA vol (modeled IV/RV spread and skew lookback), and short \\$DOCU vol (long-term SaaS take-private fundamental projection)
 
 **Sol Systems**, *Proprietary Trading Intern* <br />
 • Trained on energy commodity markets; utilized Python and HeidiSQL to backtest strangle/spread options strategies on CCA futures over 20+ expirations; optimized capital allocation across strategies in Excel by researching annual implied volatility and correlation<br>
