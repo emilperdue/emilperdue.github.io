@@ -19,12 +19,12 @@ Experience
 • Accepted Summer 2023 Internship Offer – US Equity Options Market-Making Desk
 
 **PEAK6**, *Trading Intern* <br />
-• Studied options theory/discretionary vol market-taking, shadowed traders, and rotated on Vol Arb/LEAPS/High-Touch project desks<br>
+• Studied options theory/discretionary volatility market-taking, shadowed traders, and rotated on Volatility Arb/LEAPS/High-Touch project desks<br>
 • Presented to CEO on quantitative portfolio allocation including long \\$SLV vol (backtested mean-reversion on \\$IV term structure), short \\$PARA vol (modeled IV/RV spread and skew lookback), and short \\$DOCU vol (long-term SaaS take-private fundamental projection)
 
 **Sol Systems**, *Proprietary Trading Intern* <br />
-• Utilized Python and HeidiSQL to backtest strangle/spread options strategies on Carbon Allowance futures over 20+ expirations<br>
-• Trained on energy market microstructure; optimized strategy capital allocation in Excel by researching annual implied vol/correlation<br>
+• Utilized Python and HeidiSQL to backtest strangle/spread options strategies on California Carbon Allowance futures over 20+ expirations<br>
+• Trained on energy market microstructure; optimized strategy capital allocation in Excel by researching annual implied volatility and correlation<br>
 • Presented strangle strategy to CEO, approved for $200k allocation, assisted with strike selection/execution; P&L currently at +30%
 
 **J.P. Morgan**, *Quantitative Research Intern* <br />
@@ -48,7 +48,7 @@ Extracurriculars
 ------
 
 **Maroon Capital**, *Co-President and Head of Career Recruiting*<br />
-• Presenting/developing curriculum for largest quant club on campus, interviewing candidates, and supporting 60+ analysts w/recruiting<br>
+• Presenting/developing curriculum for largest quant club on campus, interviewing candidates, and supporting 60+ analysts with recruiting<br>
 • Managed analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy using MACD indicators<br>
 • Lead team to implement Markowitz mean-variance portfolio optimization beating 40+ universities’ at UChicago Trading Competition
 
