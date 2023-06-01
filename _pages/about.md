@@ -15,15 +15,16 @@ Feel free to reach out!
 Experience
 ------
 
-**Susquehanna International Group, LLP (SIG)**, *Incoming Quantitative Trading Intern* <br />
+**Susquehanna International Group, LLP (SIG)**, *Quantitative Trading Intern* <br />
 • Accepted Summer 2023 Internship Offer – US Equity Options Market-Making Desk
 
 **PEAK6**, *Trading Intern* <br />
-• Studied options theory/discretionary volatility market-taking, shadowed traders, and rotated on volatility artbitrage/leaps/high-touch project desks<br>
+• Studied options theory/discretionary vol market-taking, shadowed traders, and rotated on Vol Arb/LEAPS/High-Touch project desks<br>
 • Presented to CEO on quantitative portfolio allocation including long \\$SLV vol (backtested mean-reversion on \\$IV term structure), short \\$PARA vol (modeled IV/RV spread and skew lookback), and short \\$DOCU vol (long-term SaaS take-private fundamental projection)
 
 **Sol Systems**, *Proprietary Trading Intern* <br />
-• Trained on energy commodity markets; utilized Python and HeidiSQL to backtest strangle/spread options strategies on CCA futures over 20+ expirations; optimized capital allocation across strategies in Excel by researching annual implied volatility and correlation<br>
+• Utilized Python and HeidiSQL to backtest strangle/spread options strategies on Carbon Allowance futures over 20+ expirations<br>
+• Trained on energy market microstructure; optimized strategy capital allocation in Excel by researching annual implied vol/correlation<br>
 • Presented strangle strategy to CEO, approved for $200k allocation, assisted with strike selection/execution; P&L currently at +30%
 
 **J.P. Morgan**, *Quantitative Research Intern* <br />
@@ -47,16 +48,13 @@ Extracurriculars
 ------
 
 **Maroon Capital**, *Co-President and Head of Career Recruiting*<br />
-• Presenting/developing curriculum for largest quant club on campus, interviewing candidates, and supporting 60+ analysts with recruiting<br>
-• Previously lead analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy using MACD indicators
+• Presenting/developing curriculum for largest quant club on campus, interviewing candidates, and supporting 60+ analysts w/recruiting<br>
+• Managed analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy using MACD indicators<br>
+• Lead team to implement Markowitz mean-variance portfolio optimization beating 40+ universities’ at UChicago Trading Competition
 
 **Oeconomica - Economics Research Group**, *Research Lead in Asset Pricing Cohort*<br />
 • Conducted alternative data-driven research/t-tests on significance of ESG risk premium and alpha potential in ESG-diversification<br /> 
 • Utilized Python to collect ESG ratings data, constructed L/S portfolio weightings, and regressed returns on Fama-French models
-
-**Financial Markets Program**, *Senior Member and Mentor*<br />
-• Accepted into three-year program focused on building quant acumen through UChicago Trading Competition and curriculum at Booth<br>
-• Managed team to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ universities’ algos
 
 **Citadel Midwest Regional Datathon**, *1st Place Winner* <br />
 • Co-authored report that quantifies greenspace/bluespace impact on microclimates by analyzing links to mental health through geo-Twitter data, utilizing K-means Clustering to disentangle their effects, and implementing nearest neighbors to predict new locations
@@ -87,5 +85,5 @@ Skills & Interests
 ------
 • **Technical Training**: Git, Linux, Microsoft Excel, Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
 • **Certifications**: Akuna Capital Options 101 & 201, AMT Sales & Trading Certificate, Bloomberg Market Concepts, Machine Learning (Coursera)<br>
-• **Programs**: Berkeley Trading Competition, bp Trading Experience, Discover Citadel, Two Sigma Seekers Summit<br>
+• **Programs**: Berkeley Trading Competition, Discover Citadel, Two Sigma New Seekers Summit, UChicago Financial Markets Program<br>
 • **Interests/Clubs**: A24 films, Derivatives Group Quant Trading (Associate), fitness, Iron Key Society (Scholarship Chair), poker, rugby, UChicago Democrats (Outreach Chair)
