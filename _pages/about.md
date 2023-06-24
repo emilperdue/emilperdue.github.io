@@ -24,7 +24,7 @@ Experience
 
 **Sol Systems**, *Proprietary Trading Intern* <br />
 • Utilized Python and HeidiSQL to backtest strangle/spread options strategies on California Carbon Allowance futures over 20+ expirations<br>
-• Trained on energy market microstructure; optimized strategy capital allocation in Excel by researching annual implied volatility and correlation<br>
+• Trained on energy market microstructure; optimized strategy capital allocation in Excel by researching annual IV and correlation risks<br>
 • Presented strangle strategy to CEO, approved for $200k allocation, assisted with strike selection/execution; P&L currently at +30%
 
 **J.P. Morgan**, *Quantitative Research Intern* <br />
@@ -41,8 +41,7 @@ Experience
 **Finalyze Capital**, *Investment Research Intern* <br />
 • Parameterized and helped implement intraday momentum futures strategies (1.5+ Sharpe) for fully systematic quantitative CTA<br>
 • Sourced 10+ profitable strategies for proprietary trading algorithm and outlined position entry code to backtest on the fund’s algorithm<br>
-• Researched machine learning algorithmic options/futures trading strategies and pitched strategy briefs to Finalyze Capital’s CEO<br>
-• Pitched potential clients on tear sheet, edge, and track record including partnership with Mark Cuban who trades $25M nominal
+• Researched machine learning algorithmic options/futures trading strategies and pitched strategy briefs to Finalyze Capital’s CEO
 
 Extracurriculars
 ------
