@@ -20,7 +20,7 @@ Experience
 
 **PEAK6**, *Trading Intern* <br />
 • Studied options theory/discretionary volatility market-taking, shadowed traders, and rotated on Volatility Arb/LEAPS/High-Touch project desks<br>
-• Presented to CEO on quantitative portfolio allocation including long \\$SLV vol (backtested mean-reversion on \\$IV term structure), short \\$PARA vol (modeled IV/RV spread and skew lookback), and short \\$DOCU vol (long-term SaaS take-private fundamental projection)
+• Presented to CEO on quantitative portfolio allocation including long \\$SLV vol (backtested mean-reversion on IV term structure), short \\$PARA vol (modeled IV/RV spread and skew lookback), and short \\$DOCU vol (long-term SaaS take-private fundamental projection)
 
 **Sol Systems**, *Proprietary Trading Intern* <br />
 • Utilized Python and HeidiSQL to backtest strangle/spread options strategies on California Carbon Allowance futures over 20+ expirations<br>
