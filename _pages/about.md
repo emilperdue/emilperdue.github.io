@@ -50,12 +50,12 @@ Extracurriculars
 ------
 
 **Maroon Capital**, *Co-President and Head of Career Recruiting*<br />
-• Presenting/developing curriculum for largest quant club on campus, interviewing candidates, and supporting 60+ analysts with recruiting<br>
+• Presenting/developing curriculum for the largest quant club on campus, interviewing candidates, and supporting 60+ analysts with recruiting<br>
 • Managed analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy using MACD indicators<br>
 • Lead team to implement Markowitz mean-variance portfolio optimization beating 40+ universities’ at UChicago Trading Competition
 
 **Oeconomica - Economics Research Group**, *Research Lead in Asset Pricing Cohort*<br />
-• Conducted alternative data-driven research/t-tests on significance of ESG risk premium and alpha potential in ESG-diversification<br /> 
+• Conducted alternative data-driven research/t-tests on the significance of ESG risk premium and alpha potential in ESG-diversification<br /> 
 • Utilized Python to collect ESG ratings data, constructed L/S portfolio weightings, and regressed returns on Fama-French models
 
 **Citadel Midwest Regional Datathon**, *1st Place Winner* <br />
@@ -66,9 +66,9 @@ Relevant Coursework
 
 • **CMSC**: Intro to Computer Science I-II, Data Engineering, Discrete Mathematics<br>
 • **DATA**: Intro to Data Science I-II, Ethics, Fairness, Responsibility, and Privacy in Data Science<br>
-• **FINM**: Big Data (Grad Level), Quantitative Portfolio Management & Algorithmic Trading<br>
+• **FINM**: Big Data (Grad), Options Pricing (Grad), Quantitative Portfolio Mgmt & Algo Trading<br>
 • **MATH**: Analysis in Rⁿ, ODEs, Numerical Analysis, Numerical Linear Algebra, Probability<br>
-• **MPCS**: Applied Financial Technology (Grad Level)<br>
+• **MPCS**: Applied Financial Technology (Grad), Intermediate Python Programming (Grad)<br>
 • **STAT**: Applied Regressions, Categorical Data, Linear Models, Statistical Theory & Methods
 
 Honors & Awards
