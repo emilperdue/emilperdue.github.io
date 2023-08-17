@@ -15,10 +15,7 @@ Feel free to reach out!
 Experience
 ------
 
-**Susquehanna International Group, LLP (SIG)**, *Incoming Quantitative Trader* <br />
-• US Equity Options Desk (Starting August 2024)
-
-**Susquehanna International Group, LLP (SIG)**, *Quantitative Trading Intern* <br />
+**Susquehanna International Group, LLP (SIG)**, *Quantitative Trading Intern and Incoming Quantitative Trader (Starting August 2024)* <br />
 • Studied options/poker theory, decision science, game theory, event forecasting, and competed in electronic open outcry mock trading<br>
 • Shadowed traders and monitored macro events, daily price action, and abnormal order flow for the US Equity Options Desk (Pods)<br>
 • Researched corporate spin-offs and impact on IV around announcement and completion dates leveraging Bloomberg and Riptable API<br>
