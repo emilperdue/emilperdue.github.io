@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently a rising fourth-year undergraduate at the University of Chicago pursuing a Bachelor of Science with majors in Computational and Applied Mathematics (Honors), Data Science, and Statistics as well as the Four-Year Joint Master's (Bx/MS) in Computer Science. I'm an incoming Quantitative Trader at SIG starting August 2024 in their Chicago office on the US Equity Options Desk. This upcoming school year, I will be in the process of writing my Honors Thesis titled "Mathematics of Leveraged ETFs, Beta Decay, and Long-Term Investment Viability". I’m also involved with various quantitative finance and data science groups on campus. My interests include effective altruism, film, personal fitness, and political advocacy.
+Hi! 
+
+I'm currently a rising fourth-year at UChicago pursuing a BS with majors in Computational and Applied Math (Honors), Data Science, and Statistics as well as the 4-Year Joint Master's (Bx/MS) in CS. I'm an incoming Quantitative Trader at SIG starting August 2024 in their Chicago office on the US Equity Options Desk. This upcoming school year, I will be in the process of writing my Honors Thesis titled "Mathematics of Leveraged ETFs, Beta Decay, and Long-Term Investment Viability". I’m also involved with various quant finance and data science groups on campus. My interests include effective altruism, film, personal fitness, and political advocacy.
 
 Feel free to reach out!
 
