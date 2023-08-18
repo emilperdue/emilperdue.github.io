@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently a rising fourth-year at UChicago pursuing a BS with majors in Computational and Applied Math (Honors), Data Science, and Statistics as well as the 4-Year Joint Master's (Bx/MS) in Computer Science. I'm an incoming Quantitative Trader at SIG starting August 2024 in their Chicago office on the US Equity Options Desk. 
+Hi! I'm currently a rising fourth-year at UChicago pursuing a Bachelor of Science with majors in Computational and Applied Mathematics (Honors), Data Science, and Statistics as well as the Four-Year Joint Master's (Bx/MS) in Computer Science. I'm an incoming Quantitative Trader at SIG starting August 2024 in their Chicago office on the US Equity Options Desk. 
 
 This upcoming school year, I will be in the process of writing my Honors Thesis titled "Mathematics of Leveraged ETFs, Beta Decay, and Long-Term Investment Viability". I’m also involved with various quant finance and data science groups on campus. My interests include effective altruism, film, personal fitness, and political advocacy.
 
@@ -79,7 +79,7 @@ Honors & Awards
 • Citadel Midwest Regional Datathon (1st Place - \$10,000 Prize)<br>
 • Citadel & Amplify NYC Market-Making Trading Competition (11th Place)<br>
 • Citadel Securities Trading Challenge (2nd Place)<br>
-• D.E. Shaw Nexus Fellowship<br> 
+• D.E. Shaw Nexus Fellowship (\$1,500 Prize)<br> 
 • J.P. Morgan Crypto Electronic Trading Competition (Top 10)<br>
 • Optiver TraderHack Algorithmic Trading Competition (Finalist)<br>
 • PEAK6 Intern Poker Tournament (1st Place)<br>
