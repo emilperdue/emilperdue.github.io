@@ -90,5 +90,5 @@ Skills & Interests
 ------
 • **Technical Training**: Git, Linux, Microsoft Excel, Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
 • **Certifications**: Akuna Capital Options 101 & 201, AMT Sales & Trading Certificate, Bloomberg Market Concepts, Machine Learning (Coursera)<br>
-• **Programs**: Berkeley Trading Competition, Discover Citadel, Two Sigma New Seekers Summit, UChicago Financial Markets Program<br>
+• **Programs**: Berkeley Trading Competition, Discover Citadel, Two Sigma New Seekers Summit, UChicago Financial Markets Program (Mentor)<br>
 • **Interests/Clubs**: A24 films, Derivatives Group Quant Trading (Associate), fitness, Iron Key Social Society (Scholarship Chair), poker, rugby, UChicago Democrats (Outreach Chair)
