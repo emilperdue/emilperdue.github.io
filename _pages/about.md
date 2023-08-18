@@ -76,7 +76,7 @@ Relevant Coursework
 Honors & Awards
 ------
 
-• Citadel Midwest Regional Datathon (1st Place - \$\10,000 Prize)<br>
+• Citadel Midwest Regional Datathon (1st Place - \\$10,000 Prize)<br>
 • Citadel & Amplify NYC Market-Making Trading Competition (11th Place)<br>
 • Citadel Securities Trading Challenge (2nd Place)<br>
 • D.E. Shaw Nexus Fellowship (\\$1,500 Prize)<br> 
