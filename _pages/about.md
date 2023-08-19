@@ -61,7 +61,7 @@ Extracurriculars
 • Utilized Python to collect ESG ratings data, constructed L/S portfolio weightings, and regressed returns on Fama-French models
 
 **Citadel Midwest Regional Datathon**, *1st Place Winner* <br />
-• Co-authored report that quantifies greenspace/bluespace impact on microclimates by analyzing links to mental health through geo-Twitter data, utilizing K-means Clustering to disentangle their effects, and implementing nearest neighbors to predict new locations
+• Co-authored report that quantifies greenspace/bluespace impact on microclimate environment/population health using geo-Twitter data, K-means clustering to disentangle correlations, Dicky-Fuller testing, and implementing nearest neighbors to predict new locations
 
 Relevant Coursework
 ------
