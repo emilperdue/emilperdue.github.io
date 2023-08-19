@@ -19,9 +19,9 @@ Experience
 
 **Susquehanna International Group, LLP (SIG)**, *Quantitative Trading Intern* <br />
 • Studied options/poker theory, decision science, game theory, event forecasting, and competed in electronic open outcry mock trading<br>
-• Shadowed traders and monitored macro events, daily price action, and abnormal order flow for the US Equity Options Desk (Pods)<br>
-• Researched corporate spin-offs and impact on IV around announcement and completion dates leveraging Bloomberg and Riptable API<br>
-• Published Python spin-off IV regression-prediction model using spin-off percentage and debt factors obtaining an $R^2$ of .88
+• Shadowed traders and monitored macro events, daily price action, and abnormal order flow for the US Equity Options Desk<br>
+• Researched corporate spin-offs and impact on IV around announcement and completion dates leveraging Bloomberg and SIG's Options Data API<br>
+• Published Python spin-off IV regression-prediction model using spin-off percentage and a variety of debt factors
 
 **PEAK6**, *Trading Intern* <br />
 • Studied options theory/discretionary volatility market-taking, shadowed traders, and rotated on Volatility Arb/LEAPS/High-Touch project desks<br>
