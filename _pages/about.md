@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently a rising fourth-year at UChicago pursuing a Bachelor of Science with majors in Computational and Applied Mathematics (Honors), Data Science, and Statistics as well as the Four-Year Joint Master's (Bx/MS) in Computer Science. I'm an incoming Quantitative Trader at SIG starting August 2024 in their Chicago office on the US Equity Options Desk. 
+Hi! I'm currently a rising fourth-year at UChicago majoring in Computational and Applied Math (Honors), Data Science, and Statistics, and am also pursuing the Four-Year Joint Master's (Bx/MS) in Computer Science. I'm an incoming Quantitative Trader at SIG starting August 2024 on the US Equity Options Desk in Chicago. 
 
-This upcoming school year, I will be in the process of writing my Honors Thesis titled "Mathematics of Leveraged ETFs, Beta Decay, and Long-Term Investment Viability". I’m also involved with various quant finance and data science groups on campus. My interests include effective altruism, film, personal fitness, and political advocacy.
+This upcoming school year, I will be writing my Honors Thesis titled "Mathematics of Leveraged ETFs, Beta Decay, and Long-Term Investment Viability". I’m also involved with various quant finance and data science groups on campus. 
+
+My interests include effective altruism, film, personal fitness, and political advocacy.
 
 Feel free to reach out!
 
@@ -18,7 +20,6 @@ Experience
 ------
 
 **Susquehanna International Group, LLP (SIG)**, *Quantitative Trading Intern* <br />
-June 2023 - August 2023 • Chicago, IL
 • Studied options/poker theory, decision science, game theory, event forecasting, and competed in electronic open outcry mock trading<br>
 • Shadowed traders and monitored macro events, daily price action, and abnormal order flow for the US Equity Options Desk<br>
 • Researched corporate spin-offs and impact on IV around announcement and completion dates leveraging Bloomberg and SIG's Options Data API<br>
