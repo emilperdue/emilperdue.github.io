@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Emil Perdue"
+title                    : ""
 title_separator          : ""
 name                     : "Emil Perdue"
 description              : &description "personal description"
