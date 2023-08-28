@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: "Emil Perdue"
+excerpt: "Emil Perdue"
 author_profile: true
 redirect_from: 
   - /about/
