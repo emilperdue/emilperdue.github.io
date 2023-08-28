@@ -20,7 +20,7 @@ Feel free to reach out!
 Experience
 ------
 
-**<a href="https://sig.com/quantitative-trading/" style="color: black; text-decoration:none">Susquehanna International Group, LLP (SIG)</a>**, *Quantitative Trading Intern • Chicago, IL* <br />
+**<a href="https://sig.com/quantitative-trading/" style="color: black; text-decoration:none">Susquehanna International Group, LLP (SIG)</a>**, *Quantitative Trading Intern*<br />
 • Studied options/poker theory, decision science, game theory, event forecasting, and competed in electronic open outcry mock trading; placed 1st in intern gaming competition<br>
 • Shadowed traders and monitored macro events, daily price action, and abnormal order flow for the US Equity Options Desk<br>
 • Researched corporate spin-offs and impact on IV around announcement and completion dates leveraging Bloomberg and SIG's Options Data API<br>
