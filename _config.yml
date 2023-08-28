@@ -8,8 +8,8 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Emil Perdue"
-title_separator          : "-"
-name                     : &name "Emil Perdue"
+title_separator          : ""
+name                     : "Emil Perdue"
 description              : &description "personal description"
 url                      : https://emilperdue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
