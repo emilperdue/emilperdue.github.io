@@ -18,13 +18,13 @@ Experience
 ------
 
 **Susquehanna International Group, LLP (SIG)**, *Quantitative Trading Intern* <br />
-• Studied options/poker theory, decision science, game theory, event forecasting, and competed in electronic open outcry mock trading<br>
+• Studied options/poker theory, decision science, game theory, event forecasting, and competed in electronic open outcry mock trading; placed 1st in intern gaming competition<br>
 • Shadowed traders and monitored macro events, daily price action, and abnormal order flow for the US Equity Options Desk<br>
 • Researched corporate spin-offs and impact on IV around announcement and completion dates leveraging Bloomberg and SIG's Options Data API<br>
 • Published Python spin-off IV regression-prediction model using spin-off percentage and a variety of debt factors
 
 **PEAK6**, *Trading Intern* <br />
-• Studied options theory/discretionary volatility market-taking, shadowed traders, and rotated on Volatility Arb/LEAPS/High-Touch project desks<br>
+• Studied options theory/discretionary volatility market-taking, shadowed traders, and rotated on Volatility Arb/LEAPS/High-Touch project desks; placed 1st in intern poker tournament<br>
 • Presented to CEO on quantitative portfolio allocation including long \\$SLV vol (backtested mean-reversion on IV term structure), short \\$PARA vol (modeled IV/RV spread and skew lookback), and short \\$DOCU vol (long-term SaaS take-private fundamental projection)
 
 **Sol Systems**, *Proprietary Trading Intern* <br />
@@ -82,8 +82,6 @@ Honors & Awards
 • D.E. Shaw Nexus Fellowship (\\$1,500 Prize)<br> 
 • J.P. Morgan Crypto Electronic Trading Competition (Top 10)<br>
 • Optiver TraderHack Algorithmic Trading Competition (Finalist)<br>
-• PEAK6 Intern Poker Tournament (1st Place)<br>
-• SIG Intern Gaming Competition (1st Place)<br>
 • UChicago Trading Competition - Portfolio Optimization Case (2nd Place)
 
 Skills & Interests
