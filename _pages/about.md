@@ -54,7 +54,7 @@ Experience
 Extracurriculars
 ------
 
-**<a href="https://marooncapital.uchicago.edu/" style="color: black; text-decoration:none">Maroon Capital</a>**, *Co-President and Head of Career Recruitin* <br />
+**<a href="https://marooncapital.uchicago.edu/" style="color: black; text-decoration:none">Maroon Capital</a>**, *Co-President and Head of Career Recruiting* <br />
 • Presenting/developing curriculum for the largest quant club on campus, interviewing candidates, and supporting 60+ analysts with recruiting<br>
 • Managed analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy using MACD indicators<br>
 • Lead team to implement Markowitz mean-variance portfolio optimization beating 40+ universities’ at UChicago Trading Competition
