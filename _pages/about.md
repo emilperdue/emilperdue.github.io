@@ -1,13 +1,12 @@
 ---
 permalink: /
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-About Me
------
 
 Hi! I'm currently a rising fourth-year at UChicago majoring in Computational and Applied Math (Honors), Data Science, and Statistics, and am pursuing a Four-Year Joint Master's (BS/MS) in Computer Science. I'm also an incoming Quantitative Trader at SIG starting August 2024 on the US Equity Options Desk in Chicago. 
 
@@ -78,6 +77,7 @@ Honors & Awards
 ------
 
 • Citadel Midwest Regional Datathon (1st Place - \\$10,000 Prize)<br>
+• Citadel & Amplify NYC Market-Making Trading Competition (Finalist)<br>
 • Citadel Securities Trading Challenge (2nd Place)<br>
 • D.E. Shaw Nexus Fellowship (\\$1,500 Prize)<br> 
 • J.P. Morgan Crypto Electronic Trading Competition (Top 10)<br>
