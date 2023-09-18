@@ -73,7 +73,7 @@ Relevant Coursework
 • **DATA**: Intro to Data Science I-II, Ethics, Fairness, Responsibility, and Privacy in Data Science<br>
 • **FINM**: Big Data (Grad), Options Pricing (Grad), Quantitative Portfolio Mgmt. & Algo Trading<br>
 • **MATH**: Analysis in Rⁿ, ODEs, Numerical Analysis, Numerical Linear Algebra, Probability<br>
-• **MPCS**: Applied Financial Technology (Grad), Intermediate Python Programming (Grad)<br>
+• **MPCS**: Applied Financial Technology (Grad), Databases (Grad), Intermediate Python (Grad)<br>
 • **STAT**: Applied Regressions, Categorical Data, Linear Models, Statistical Theory & Methods
 
 Honors & Awards
