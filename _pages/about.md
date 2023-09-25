@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm currently a rising fourth-year at UChicago majoring in Computational and Applied Math (Honors), Data Science, and Statistics, and am pursuing a Four-Year Joint Master's (BS/MS) in Computer Science. I'm also an incoming Quantitative Trader at
+Hi! I'm currently a fourth-year at UChicago majoring in Computational and Applied Math (Honors), Data Science, and Statistics, and am pursuing a Four-Year Joint Master's (BS/MS) in Computer Science. I'm also an incoming Quantitative Trader at
 <a href="https://sig.com/quantitative-trading/" style="color: black; text-decoration: underline">SIG</a>
 starting August 2024 on their US Equity Options Desk in Chicago. 
 
