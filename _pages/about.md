@@ -55,7 +55,7 @@ Extracurriculars
 **<a href="https://marooncapital.uchicago.edu/" style="color: black; text-decoration:none">Maroon Capital</a>**, *Co-President and Head of Career Recruiting* <br />
 • Presenting/developing curriculum for the largest quant club on campus, interviewing candidates, and supporting 60+ analysts with recruiting<br>
 • Managed analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy using MACD indicators<br>
-• Lead team to implement Markowitz mean-variance portfolio optimization beating 40+ universities at the 2022 UChicago Trading Competition
+• Led team to implement Markowitz mean-variance portfolio optimization beating 40+ universities at the 2022 UChicago Trading Competition
 
 **<a href="https://voices.uchicago.edu/oeconomica/" style="color: black; text-decoration:none">Oeconomica - Economics Research Group</a>**, *Research Lead in Asset Pricing Cohort* <br />
 • Conducted alternative data-driven research/t-tests on the significance of ESG risk premium and alpha potential in ESG-diversification<br /> 
