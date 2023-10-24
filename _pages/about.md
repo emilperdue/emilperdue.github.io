@@ -29,7 +29,7 @@ Experience
 • Presented to CEO on quantitative portfolio allocation including long \\$SLV vol (backtested mean-reversion on IV term structure), short \\$PARA vol (modeled IV/RV spread and skew lookback), and short \\$DOCU vol (long-term SaaS take-private fundamental projection)
 
 **<a href="https://solsystems.com" style="color: black; text-decoration:none">Sol Systems</a>**, *Proprietary Trading Intern* <br />
-• Utilized Python and HeidiSQL to backtest strangle/spread options strategies on California Carbon Allowance futures over 20+ expirations<br>
+• Utilized Python and HeidiSQL to backtest strangle/spread options strategies on Cali Carbon Allowance futures over 20+ expirations<br>
 • Trained on energy market microstructure; optimized strategy capital allocation in Excel by researching annual IV and correlation risks<br>
 • Presented strangle strategy to CEO, approved for $200k allocation, assisted lead trader with strike selection/execution; P&L at +45%
 
@@ -57,7 +57,7 @@ Extracurriculars
 • Managed analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy utilizing MACD indicators<br>
 • Conducted research/t-tests on ESG risk premium, created L/S portfolio allocations, and regressed returns on Fama-French models
 
-**UChicago Financial Markets Program**, *Mentor & UChicago Trading Competition Case Writer* <br />
+**UChicago Financial Markets Program**, *UChicago Trading Competition Case Writer & Mentor* <br />
 • Constructing 20+ years of simulated financial data to test competitor’s portfolio optimization abilities for the upcoming 2024 UTC<br /> 
 • Led team of 4 to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ schools at 2022 UTC
 
@@ -81,7 +81,6 @@ Honors & Awards
 • Citadel Midwest Regional Datathon (1st Place - \\$10,000 Prize)<br>
 • Citadel & Amplify NYC Market-Making Trading Competition (Finalist)<br>
 • Citadel Securities Trading Challenge (2nd Place)<br>
-• D.E. Shaw Nexus Fellowship (\\$1,500 Prize)<br> 
 • J.P. Morgan Crypto Electronic Trading Competition (Top 10)<br>
 • Optiver TraderHack Algorithmic Trading Competition (Finalist)<br>
 • UChicago Trading Competition - Portfolio Optimization Case (2nd Place)
@@ -90,5 +89,5 @@ Skills & Interests
 ------
 • **Technical Training**: Git, Linux, Microsoft Excel, Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
 • **Certifications**: Akuna Capital Options 101 & 201, AMT Sales & Trading Certificate, Bloomberg Market Concepts, Machine Learning (Coursera)<br>
-• **Programs**: Berkeley Trading Competition, Discover Citadel, Two Sigma New Seekers Summit, UChicago Effective Altruism<br>
+• **Programs**: Berkeley Trading Competition, D.E. Shaw Nexus Fellowship, Discover Citadel, Two Sigma New Seekers Summit, UChicago Effective Altruism<br>
 • **Interests/Clubs**: A24, Derivatives Group (Associate), fitness, Iron Key Society (Scholar Chair), poker, rugby, UChicago Democrats (Outreach Chair)
