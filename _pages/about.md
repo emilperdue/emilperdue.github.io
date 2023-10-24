@@ -57,7 +57,7 @@ Extracurriculars
 • Managed analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy utilizing MACD indicators<br>
 • Conducted research/t-tests on ESG risk premium, created L/S portfolio allocations, and regressed returns on Fama-French models
 
-**UChicago Financial Markets Program**, *UChicago Trading Competition Case Writer & Mentor* <br />
+**<a href="https://tradingcompetition.uchicago.edu/" style="color: black; text-decoration:none">Financial Markets Program</a>**, *UChicago Trading Competition Team (Case Writer) & Mentor* <br />
 • Constructing 20+ years of simulated financial data to test competitor’s portfolio optimization abilities for the upcoming 2024 UTC<br /> 
 • Led team of 4 to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ schools at 2022 UTC
 
@@ -87,7 +87,7 @@ Honors & Awards
 
 Skills & Interests
 ------
-• **Technical Training**: Git, Linux, Microsoft Excel, Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
+• **Technical Training**: Git, Linux, Microsoft Excel, MongoDB, Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
 • **Certifications**: Akuna Capital Options 101 & 201, AMT Sales & Trading Certificate, Bloomberg Market Concepts, Machine Learning (Coursera)<br>
 • **Programs**: Berkeley Trading Competition, D.E. Shaw Nexus Fellowship, Discover Citadel, Two Sigma New Seekers Summit, UChicago Effective Altruism<br>
 • **Interests/Clubs**: A24, Derivatives Group (Associate), fitness, Iron Key Society (Scholar Chair), poker, rugby, UChicago Democrats (Outreach Chair)
