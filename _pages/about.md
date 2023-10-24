@@ -53,13 +53,13 @@ Extracurriculars
 ------
 
 **<a href="https://marooncapital.uchicago.edu/" style="color: black; text-decoration:none">Maroon Capital</a>**, *Co-President and Head of Career Recruiting* <br />
-• Present curriculum to oldest/largest quant club (220+ annual applicants), assist 65+ analysts w/recruiting, added 7 corporate sponsors<br>
+• Present curriculum to oldest/largest quant club (220+ annual applicants), assist 65+ analysts with recruiting, and added 7 corporate sponsors<br>
 • Managed analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy utilizing MACD indicators<br>
 • Conducted research/t-tests on ESG risk premium, created L/S portfolio allocations, and regressed returns on Fama-French models
 
 **<a href="https://tradingcompetition.uchicago.edu/" style="color: black; text-decoration:none">Financial Markets Program</a>**, *UChicago Trading Competition Team (Case Writer) & Mentor* <br />
-• Constructing 20+ years of simulated financial data to test competitor’s portfolio optimization abilities for the upcoming 2024 UTC<br /> 
-• Led team of 4 to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ schools at 2022 UTC
+• Constructing 20+ years of simulated financial data to test competitor’s portfolio optimization abilities for the upcoming 2024 UChicago Trading Competition<br /> 
+• Led team of 4 to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ schools at 2022 UChicago Trading Competition
 
 **<a href="https://github.com/emilperdue/Midwest-Regional-Datathon-Spring-2023" style="color: black; text-decoration:none">Citadel Midwest Regional Datathon</a>**, *1st Place Winner* <br />
 • Co-authored report that quantifies greenspace/bluespace impact on microclimate environment/population health using geo-Twitter
