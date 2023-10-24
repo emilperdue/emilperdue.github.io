@@ -57,7 +57,7 @@ Extracurriculars
 • Managed analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy utilizing MACD indicators<br>
 • Conducted research/t-tests on ESG risk premium, created L/S portfolio allocations, and regressed returns on Fama-French models
 
-**<a>UChicago Financial Markets Program</a>**, *Mentor & UChicago Trading Competition Case Writer* <br />
+**UChicago Financial Markets Program**, *Mentor & UChicago Trading Competition Case Writer* <br />
 • Constructing 20+ years of simulated financial data to test competitor’s portfolio optimization abilities for the upcoming 2024 UTC<br /> 
 • Led team of 4 to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ schools at 2022 UTC
 
