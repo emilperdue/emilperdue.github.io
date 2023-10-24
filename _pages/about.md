@@ -31,7 +31,7 @@ Experience
 **<a href="https://solsystems.com" style="color: black; text-decoration:none">Sol Systems</a>**, *Proprietary Trading Intern* <br />
 • Utilized Python and HeidiSQL to backtest strangle/spread options strategies on California Carbon Allowance futures over 20+ expirations<br>
 • Trained on energy market microstructure; optimized strategy capital allocation in Excel by researching annual IV and correlation risks<br>
-• Presented strangle strategy to CEO, approved for $200k allocation, assisted lead trader with their strike selection/execution; strategy P&L currently at +45%
+• Presented strangle strategy to CEO, approved for $200k allocation, assisted lead trader with strike selection/execution; P&L at +45%
 
 **<a href="https://jpmorgan.com/global/" style="color: black; text-decoration:none">J.P. Morgan</a>**, *Quantitative Research Strategist Intern* <br />
 • Sole undergrad intern within Securitized Products Group Quantitative Research Strats; supported trading/Residential Structured Finance Analytics and trained on MBS and S&T<br>
@@ -46,23 +46,24 @@ Experience
 
 **<a href="https://finalyze.io/" style="color: black; text-decoration:none">Finalyze Capital</a>**, *Investment Research Intern* <br />
 • Parameterized and helped implement intraday momentum futures strategies (1.5+ Sharpe) for fully systematic quantitative CTA<br>
-• Sourced 10+ profitable strategies for proprietary trading algorithm and outlined position entry code to backtest on the fund’s algorithm<br>
-• Researched machine learning algorithmic options/futures trading strategies and pitched strategy briefs to Finalyze Capital’s CEO
+• Sourced 10+ profitable strategies for proprietary trading algorithm and outlined position entry code to backtest on fund’s algorithm<br>
+• Researched machine learning options/futures trading strategies and pitched strategy briefs to potential investors and Finalyze’s CEO
 
 Extracurriculars
 ------
 
 **<a href="https://marooncapital.uchicago.edu/" style="color: black; text-decoration:none">Maroon Capital</a>**, *Co-President and Head of Career Recruiting* <br />
-• Presenting/developing curriculum for the largest quant club on campus, interviewing candidates, and supporting 60+ analysts with recruiting<br>
-• Managed analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy using MACD indicators<br>
-• Led team to implement Markowitz mean-variance portfolio optimization beating 40+ universities at the 2022 UChicago Trading Competition
+• Present curriculum to oldest/largest quant club (220+ annual applicants), assist 65+ analysts w/recruiting, added 7 corporate sponsors<br>
+• Managed analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy utilizing MACD indicators<br>
+• Conducted research/t-tests on ESG risk premium, created L/S portfolio allocations, and regressed returns on Fama-French models
 
-**<a href="https://voices.uchicago.edu/oeconomica/" style="color: black; text-decoration:none">Oeconomica - Economics Research Group</a>**, *Research Lead in Asset Pricing Cohort* <br />
-• Conducted alternative data-driven research/t-tests on the significance of ESG risk premium and alpha potential in ESG-diversification<br /> 
-• Utilized Python to collect ESG ratings data, constructed L/S portfolio weightings, and regressed returns on Fama-French models
+**<a>UChicago Financial Markets Program</a>**, *Mentor & UChicago Trading Competition Case Writer* <br />
+• Constructing 20+ years of simulated financial data to test competitor’s portfolio optimization abilities for the upcoming 2024 UTC<br /> 
+• Led team of 4 to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ schools at 2022 UTC
 
 **<a href="https://github.com/emilperdue/Midwest-Regional-Datathon-Spring-2023" style="color: black; text-decoration:none">Citadel Midwest Regional Datathon</a>**, *1st Place Winner* <br />
-• Co-authored report that quantifies greenspace/bluespace impact on microclimate environment/population health using geo-Twitter data, K-means clustering to disentangle correlations, Dicky-Fuller testing, and implementing nearest neighbors to predict new locations
+• Co-authored report that quantifies greenspace/bluespace impact on microclimate environment/population health using geo-Twitter
+data, K-means clustering to disentangle correlations, Dicky-Fuller testing, and implementing nearest neighbors to predict new locations
 
 Relevant Coursework
 ------
@@ -89,5 +90,5 @@ Skills & Interests
 ------
 • **Technical Training**: Git, Linux, Microsoft Excel, Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
 • **Certifications**: Akuna Capital Options 101 & 201, AMT Sales & Trading Certificate, Bloomberg Market Concepts, Machine Learning (Coursera)<br>
-• **Programs**: Berkeley Trading Competition, Discover Citadel, Two Sigma New Seekers Summit, UChicago Financial Markets Program (Mentor)<br>
-• **Interests/Clubs**: A24, Derivatives Group (Associate), fitness, Iron Key Society (Scholar Chair), poker, rugby, UChicago Democrats (Outreach Chair), UChicago Effective Altruism
+• **Programs**: Berkeley Trading Competition, Discover Citadel, Two Sigma New Seekers Summit, UChicago Effective Altruism<br>
+• **Interests/Clubs**: A24, Derivatives Group (Associate), fitness, Iron Key Society (Scholar Chair), poker, rugby, UChicago Democrats (Outreach Chair)
