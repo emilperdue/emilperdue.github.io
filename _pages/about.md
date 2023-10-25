@@ -58,7 +58,7 @@ Extracurriculars
 • Conducted research/t-tests on ESG risk premium, created L/S portfolio allocations, and regressed returns on Fama-French models
 
 **<a href="https://tradingcompetition.uchicago.edu/" style="color: black; text-decoration:none">Financial Markets Program</a>**, *UChicago Trading Competition Team (Case Writer) & Mentor* <br />
-• Constructing 20+ years of simulated financial data to test competitor’s portfolio optimization abilities for the upcoming 2024 UChicago Trading Competition<br /> 
+• Constructing 20+ years of simulated financial data to test 200+ competitor’s portfolio optimization abilities at the upcoming 2024 UChicago Trading Competition<br> 
 • Led team of 4 to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ schools at 2022 UChicago Trading Competition
 
 **<a href="https://github.com/emilperdue/Midwest-Regional-Datathon-Spring-2023" style="color: black; text-decoration:none">Citadel Midwest Regional Datathon</a>**, *1st Place Winner* <br />
