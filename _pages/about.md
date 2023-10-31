@@ -31,7 +31,7 @@ Experience
 **<a href="https://solsystems.com" style="color: black; text-decoration:none">Sol Systems</a>**, *Proprietary Trading Intern* <br />
 • Utilized Python and HeidiSQL to backtest strangle/spread options strategies on Cali Carbon Allowance futures over 20+ expirations<br>
 • Trained on energy market microstructure; optimized strategy capital allocation in Excel by researching annual IV and correlation risks<br>
-• Presented strangle strategy to CEO, approved for $200k allocation, assisted lead trader with strike selection/execution; P&L at +45%
+• Pitched strangle strategy to CEO, approved for $200k allocation, assisted lead trader with strike selection/execution; P&L at +45%
 
 **<a href="https://jpmorgan.com/global/" style="color: black; text-decoration:none">J.P. Morgan</a>**, *Quantitative Research Strategist Intern* <br />
 • Sole undergrad intern within Securitized Products Group Quantitative Research Strats; supported trading/Residential Structured Finance Analytics and trained on MBS and S&T<br>
@@ -59,7 +59,7 @@ Extracurriculars
 
 **<a href="https://tradingcompetition.uchicago.edu/" style="color: black; text-decoration:none">Financial Markets Program</a>**, *UChicago Trading Competition Team (Case Writer) & Mentor* <br />
 • Constructing 20+ years of simulated financial data to test 200+ competitor’s portfolio optimization abilities at the upcoming 2024 UChicago Trading Competition<br> 
-• Led team of 4 to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ schools at 2022 UChicago Trading Competition
+• Led team of 4 to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ schools at the 2022 UChicago Trading Competition
 
 **<a href="https://github.com/emilperdue/Midwest-Regional-Datathon-Spring-2023" style="color: black; text-decoration:none">Citadel Midwest Regional Datathon</a>**, *1st Place Winner* <br />
 • Co-authored report that quantifies greenspace/bluespace impact on microclimate environment/population health using geo-Twitter
