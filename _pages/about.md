@@ -24,6 +24,11 @@ Experience
 • Researched corporate spin-offs and impact on IV around announcement and completion dates leveraging Bloomberg and SIG's Options Data API<br>
 • Published Python spin-off IV regression-prediction model using spin-off percentage and a variety of debt factors
 
+**<a href="https://www.blackthorne.com/" style="color: black; text-decoration:none">Blackthorne Capital Management, LLC</a>**, *Quantitative Trading Intern* <br />
+• Researching recent academic literature on Generative AI to leverage in trading application usage for alternative data investment firm<br>
+•  Analyzing/pre-processing Blackthorne’s proprietary sentiment-based data; designing/backtesting futures trading algorithms in Python<br>
+•  Developed understanding of index futures markets and firm’s portfolio construction approach; present research at firmwide meetings
+
 **<a href="https://peak6.com" style="color: black; text-decoration:none">PEAK6</a>**, *Trading Intern* <br />
 • Studied options theory/discretionary volatility market-taking, shadowed traders, and rotated on Volatility Arb/LEAPS/High-Touch project desks; placed 1st in intern poker tournament<br>
 • Presented to CEO on quantitative portfolio allocation including long \\$SLV vol (backtested mean-reversion on IV term structure), short \\$PARA vol (modeled IV/RV spread and skew lookback), and short \\$DOCU vol (long-term SaaS take-private fundamental projection)
@@ -38,11 +43,6 @@ Experience
 • Developed ‘GSE Arbitrage’ algorithm and UI in Python to analyze pricing differential between Agency versus Non-Agency Mortgage-Backed Securities structuring<br>
 • Created tool to identify structuring arbitrage opportunities in the Non-Qualified Mortgage space by parsing/analyzing CDI data; presented results to MD<br>
 • Implemented daily risk reports emailed to New Issue Jumbo traders by codifying DV01 rate scenarios in Athena Studio; pushed code into production
-
-**<a href="https://bluebonnetdata.org/" style="color: black; text-decoration:none">Bluebonnet Data</a>**, *Data Science Fellow* <br />
-• Volunteered for “Powell for TN State Senate”; trained on political data methods including US Census data, the voter file, and NGP VAN reports<br>
-• Utilized Python for political data analysis to identify key demographics, predict voter turnout, and develop targeted canvassing lists<br>
-• Created data visualizations to inform key insights that helped down-ballot democratic candidates more efficiently target voters’ interests
 
 **<a href="https://finalyze.io/" style="color: black; text-decoration:none">Finalyze Capital</a>**, *Investment Research Intern* <br />
 • Parameterized and helped implement intraday momentum futures strategies (1.5+ Sharpe) for fully systematic quantitative CTA<br>
@@ -88,6 +88,6 @@ Honors & Awards
 Skills & Interests
 ------
 • **Technical Training**: Git, Linux, Microsoft Excel, MongoDB, Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
-• **Certifications**: Akuna Capital Options 101 & 201, AMT Sales & Trading Certificate, Bloomberg Market Concepts, Machine Learning (Coursera)<br>
-• **Programs**: Berkeley Trading Competition, D.E. Shaw Nexus Fellowship, Discover Citadel, Two Sigma New Seekers Summit, UChicago Effective Altruism<br>
+• **Certifications**: Akuna Capital Options 101 & 201, AMT Sales & Trading Certificate, Bloomberg Market Concepts, D.E. Shaw Nexus Fellow, Machine Learning (Coursera)<br>
+• **Programs**: Berkeley Trading Competition, Bluebonnet Data (Data Science Fellow), Discover Citadel, Two Sigma New Seekers Summit, UChicago Effective Altruism<br>
 • **Interests/Clubs**: A24, Derivatives Group (Associate), fitness, Iron Key Society (Scholar Chair), poker, rugby, UChicago Democrats (Outreach Chair)
