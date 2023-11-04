@@ -24,7 +24,7 @@ Experience
 • Researched corporate spin-offs and impact on IV around announcement and completion dates leveraging Bloomberg and SIG's Options Data API<br>
 • Published Python spin-off IV regression-prediction model using spin-off percentage and a variety of debt factors
 
-**<a href="https://www.blackthorne.com/" style="color: black; text-decoration:none">Blackthorne Capital Management, LLC</a>**, *Quantitative Trading Intern* <br />
+**<a href="https://www.blackthorne.com/" style="color: black; text-decoration:none">Blackthorne Capital Management, LLC</a>**, *Quantitative Research Intern* <br />
 • Researching recent academic literature on Generative AI to leverage in trading application usage for alternative data investment firm<br>
 •  Analyzing/pre-processing Blackthorne’s proprietary sentiment-based data; designing/backtesting futures trading algorithms in Python<br>
 •  Developed understanding of index futures markets and firm’s portfolio construction approach; present research at firmwide meetings
