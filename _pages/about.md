@@ -88,6 +88,6 @@ Honors & Awards
 Skills & Interests
 ------
 • **Technical Training**: Git, Linux, Microsoft Excel, MongoDB, Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
-• **Certifications**: Akuna Capital Options 101 & 201, AMT Sales & Trading Certificate, Bloomberg Market Concepts, D.E. Shaw Nexus Fellow, Machine Learning (Coursera)<br>
-• **Programs**: Berkeley Trading Competition, Bluebonnet Data (Data Science Fellow), Discover Citadel, Two Sigma New Seekers Summit, UChicago Effective Altruism<br>
-• **Interests/Clubs**: A24, Derivatives Group (Associate), fitness, Iron Key Society (Scholar Chair), poker, rugby, UChicago Democrats (Outreach Chair)
+• **Certifications**: Akuna Capital Options 101 & 201, Bloomberg Market Concepts, Deep Learning (Coursera), Machine Learning (Coursera)<br>
+• **Programs**: Berkeley Trading Competition, Bluebonnet Data (Data Science Fellow), D.E. Shaw Nexus Fellow, Discover Citadel, Two Sigma New Seekers Summit<br>
+• **Interests/Clubs**: A24, fitness, Iron Key Society (Scholar Chair), poker, rugby, UChicago Democrats (Outreach Chair), UChicago Effective Altruism
