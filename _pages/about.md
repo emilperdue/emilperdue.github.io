@@ -68,12 +68,12 @@ data, K-means clustering to disentangle correlations, Dicky-Fuller testing, and 
 Relevant Coursework
 ------
 
-• **CMSC**: Intro to Computer Science I-II, Data Engineering, Discrete Mathematics<br>
-• **DATA**: Intro to Data Science I-II, Ethics, Fairness, Responsibility, and Privacy in Data Science<br>
-• **FINM**: Big Data (Grad), Options Pricing (Grad), Quantitative Portfolio Mgmt. & Algo Trading<br>
+• **CMSC**: C Programming, Data Engineering, Discrete Mathematics, Theory of Algorithms<br>
+• **DATA**: Applied Data Analysis, Ethics, Fairness, Responsibility, and Privacy in Data Science<br>
+• **FINM**: Big Data, Options Pricing, Quantitative Portfolio Mgmt. & Algorithmic Trading<br>
 • **MATH**: Analysis in Rⁿ, ODEs, Numerical Analysis, Numerical Linear Algebra, Probability<br>
-• **MPCS**: Applied Financial Technology (Grad), Databases (Grad), Intermediate Python (Grad)<br>
-• **STAT**: Applied Regressions, Categorical Data, Linear Models, Statistical Theory & Methods
+• **MPCS**: Databases, Distributed Systems, Fintech, Intermediate Python, ML, UNIX Systems<br>
+• **STAT**: Categorical Data, Linear Models, Optimization, Regressions, Statistical Theory & Methods
 
 Honors & Awards
 ------
@@ -88,6 +88,6 @@ Honors & Awards
 Skills & Interests
 ------
 • **Technical Training**: Git, Linux, Microsoft Excel, MongoDB, Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
-• **Certifications**: Akuna Capital Options 101 & 201, Bloomberg Market Concepts, Deep Learning (Coursera), Machine Learning (Coursera)<br>
-• **Programs**: Berkeley Trading Competition, Bluebonnet Data (Data Science Fellow), D.E. Shaw Nexus Fellow, Discover Citadel, Two Sigma New Seekers Summit<br>
+• **Certifications**: Akuna Capital Options 101 & 201, Bloomberg Market Concepts, Machine Learning & Deep Learning (Coursera)<br>
+• **Programs**: Berkeley Trading Competition, Bluebonnet Data Science Fellow, D.E. Shaw Nexus Fellow, Discover Citadel, Two Sigma New Seekers Summit<br>
 • **Interests/Clubs**: A24, fitness, Iron Key Society (Scholar Chair), poker, rugby, UChicago Democrats (Outreach Chair), UChicago Effective Altruism
