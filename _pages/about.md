@@ -73,7 +73,7 @@ Relevant Coursework
 • **FINM**: Big Data, Options Pricing, Quantitative Portfolio Mgmt. & Algorithmic Trading<br>
 • **MATH**: Analysis in Rⁿ, ODEs, Numerical Analysis, Numerical Linear Algebra, Probability<br>
 • **MPCS**: Databases, Distributed Systems, Fintech, Intermediate Python, ML, UNIX Systems<br>
-• **STAT**: Categorical Data, Linear Models, Optimization, Regressions, Statistical Theory & Methods
+• **STAT**: Categorical Data, Linear Models, Optimization, Regressions, Statistical Theory 
 
 Honors & Awards
 ------
