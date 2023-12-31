@@ -53,7 +53,7 @@ Extracurriculars
 ------
 
 **<a href="https://marooncapital.uchicago.edu/" style="color: black; text-decoration:none">Maroon Capital</a>**, *Co-President and Head of Career Recruiting* <br />
-• Present curriculum to oldest/largest quant club (220+ annual applicants), assist 65+ analysts with recruiting, and added 7 corporate sponsors<br>
+• Present curriculum to oldest/largest quant club (220+ annual applicants), assist 65+ analysts with recruiting, and added 6 corporate sponsors<br>
 • Managed analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy utilizing MACD indicators<br>
 • Conducted research/t-tests on ESG risk premium, created L/S portfolio allocations, and regressed returns on Fama-French models
 
