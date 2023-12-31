@@ -79,7 +79,6 @@ Honors & Awards
 ------
 
 • Citadel Midwest Regional Datathon (1st Place - \\$10,000 Prize)<br>
-• Citadel & Amplify NYC Market-Making Trading Competition (Finalist)<br>
 • Citadel Securities Trading Challenge (2nd Place)<br>
 • J.P. Morgan Crypto Electronic Trading Competition (Top 10)<br>
 • Optiver TraderHack Algorithmic Trading Competition (Finalist)<br>
