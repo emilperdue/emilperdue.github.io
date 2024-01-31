@@ -58,7 +58,7 @@ Extracurriculars
 • Conducted research/t-tests on ESG risk premium, created L/S portfolio allocations, and regressed returns on Fama-French models
 
 **<a href="https://tradingcompetition.uchicago.edu/" style="color: black; text-decoration:none">Financial Markets Program</a>**, *UChicago Trading Competition Team (Case Writer) & Mentor* <br />
-• Constructing market-making bots in Rust and 20+ years of financial data using GBM to test 200+ competitors at the 2024 UChicago Trading Competition<br> 
+• Constructing market-making bots in Rust and 20+ years of financial data using geometric brownian motion to test 200+ competitors at the 2024 UChicago Trading Competition<br> 
 • Led team of 4 to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ schools at the 2022 UChicago Trading Competition
 
 **<a href="https://github.com/emilperdue/Midwest-Regional-Datathon-Spring-2023" style="color: black; text-decoration:none">Citadel Midwest Regional Datathon</a>**, *1st Place Winner* <br />
@@ -68,11 +68,11 @@ data, K-means clustering to disentangle correlations, Dicky-Fuller testing, and 
 Relevant Coursework
 ------
 
-• **CMSC**: Algorithms, C Programming, Data Engineering, Data Structures, Discrete Math<br>
+• **CMSC**: C Programming, Data Engineering, Databases, DS&A, Discrete Math, Typed Racket<br>
 • **DATA**: Applied Data Analysis, Ethics, Fairness, Responsibility, and Privacy in Data Science<br>
 • **FINM**: Big Data, Options Pricing, Quantitative Portfolio Mgmt. & Algorithmic Trading<br>
 • **MATH**: Analysis in Rⁿ, ODEs, Numerical Analysis, Numerical Linear Algebra, Probability<br>
-• **MPCS**: Databases, Fintech, Intermediate Python, ML, Parallel Programming, UNIX Systems<br>
+• **MPCS**: Applied Fintech, Intermediate Python, ML, Parallel Programming, UNIX Systems<br>
 • **STAT**: Categorical Data, Linear Models, Optimization, Regressions, Statistical Theory 
 
 Honors & Awards
