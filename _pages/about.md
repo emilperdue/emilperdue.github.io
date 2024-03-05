@@ -66,7 +66,7 @@ Extracurriculars
 • Co-authored report that quantifies greenspace/bluespace impact on microclimate environment/population health using geo-Twitter
 data, K-means clustering to disentangle correlations, Dicky-Fuller testing, and implementing nearest neighbors to predict new locations
 
-Relevant Coursework
+Relevant Courses
 ------
 
 • **CMSC**: C Programming, Data Engineering, Databases, DS&A, Discrete Math, Typed Racket<br>
@@ -76,7 +76,7 @@ Relevant Coursework
 • **MPCS**: Applied Fintech, Intermediate Python, ML, Parallel Programming, Unix Systems<br>
 • **STAT**: Categorical Data, Linear Models, Optimization, Regressions, Statistical Theory 
 
-Honors & Awards
+Awards
 ------
 
 • Citadel Midwest Regional Datathon (1st Place - \\$10,000 Prize)<br>
