@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm currently a fourth-year at UChicago majoring in Computational and Applied Math (Honors), Data Science, and Statistics, and am pursuing a Four-Year Joint Master's (BS/MS) in Computer Science. I'm also an incoming Quantitative Trader at SIG starting August 2024 on their US Equity Options Desk in Chicago. 
+Hi! I'm currently a fourth-year at UChicago majoring in Computational and Applied Mathematics (Machine Learning Specialization) and Statistics, and am pursuing a Four-Year Joint Master's (BS/MS) in Computer Science. I'm also an incoming Quantitative Trader at SIG starting August 2024 on their US Equity Options Desk in Chicago. 
 
 This school year, I will be writing my Honors Thesis titled "Mathematics of Leveraged ETFs, Beta Decay, and Long-Term Investment Viability". I’m also involved with various quant finance and data science groups on campus. My interests include effective altruism, film, meditation, personal fitness, political advocacy, and reading non-fiction.
 
@@ -25,9 +25,9 @@ Experience
 • Published Python spin-off IV regression-prediction model using spin-off percentage and a variety of debt factors
 
 **<a href="https://www.blackthorne.com/" style="color: black; text-decoration:none">Blackthorne Capital Management, LLC</a>**, *Quantitative Trading Intern* <br />
-• Researching recent academic literature on Generative AI to leverage in trading application usage for alternative data investment firm<br>
-•  Analyzing/pre-processing Blackthorne’s proprietary sentiment-based data; designing/backtesting futures trading algorithms in Python<br>
-•  Developed understanding of index futures and firm’s portfolio construction methodology; present research weekly to CEO and CIO
+• Researched recent academic literature on Generative AI to leverage in trading application usage for alternative data investment firm<br>
+•  Processed firm’s proprietary economic indicator data; backtested regression trading algos in Python using lasso/ridge with 1.7+ Sharpes<br>
+•  Developed mean-reverting strategy on Crude Oil utilizing IV and skew datasets; presented strategy risk metric iterations weekly to CIO
 
 **<a href="https://peak6.com" style="color: black; text-decoration:none">PEAK6</a>**, *Trading Intern* <br />
 • Studied options theory/discretionary volatility market-taking, shadowed traders, and rotated on Volatility Arb/LEAPS/High-Touch project desks; placed 1st in intern poker tournament<br>
@@ -58,7 +58,8 @@ Extracurriculars
 • Conducted research/t-tests on ESG risk premium, created L/S portfolio allocations, and regressed returns on Fama-French models
 
 **<a href="https://tradingcompetition.uchicago.edu/" style="color: black; text-decoration:none">Financial Markets Program</a>**, *UChicago Trading Competition Team (Case Writer) & Mentor* <br />
-• Constructing market-making bots in Rust and 20+ years of financial data using geometric brownian motion to test 200+ competitors at the 2024 UChicago Trading Competition<br> 
+• Writing market-making bots, informed mock hedge funds, and a dynamic orderbook in Rust to test 200+ competitors at the 2024 UTC<br> 
+• Simulating 20+ years of financial data using geometric Brownian motion and skew to test competitor’s portfolio optimization abilities<br> 
 • Led team of 4 to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ schools at the 2022 UChicago Trading Competition
 
 **<a href="https://github.com/emilperdue/Midwest-Regional-Datathon-Spring-2023" style="color: black; text-decoration:none">Citadel Midwest Regional Datathon</a>**, *1st Place Winner* <br />
