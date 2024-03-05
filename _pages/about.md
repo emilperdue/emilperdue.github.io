@@ -30,7 +30,7 @@ Experience
 •  Developed mean-reverting strategy on Crude Oil utilizing IV and skew datasets; presented strategy risk metric iterations weekly to CIO
 
 **<a href="https://peak6.com" style="color: black; text-decoration:none">PEAK6</a>**, *Trading Intern* <br />
-• Studied options theory/discretionary volatility market-taking, shadowed traders, and rotated on Volatility Arb/LEAPS/High-Touch project desks; placed 1st in intern poker tournament<br>
+• Studied options theory/discretionary volatility market-taking, shadowed traders, and rotated on Volatility Arb/LEAPS/High-Touch project desks<br>
 • Presented to CEO on quantitative portfolio allocation including long \\$SLV vol (backtested mean-reversion on IV term structure), short \\$PARA vol (modeled IV/RV spread and skew lookback), and short \\$DOCU vol (long-term SaaS take-private fundamental projection)
 
 **<a href="https://solsystems.com" style="color: black; text-decoration:none">Sol Systems</a>**, *Proprietary Trading Intern* <br />
@@ -84,6 +84,7 @@ Honors & Awards
 • Citadel & Amplify NYC Market-Making Trading Competition (Finalist)<br>
 • J.P. Morgan Crypto Electronic Trading Competition (Top 10)<br>
 • Optiver TraderHack Algorithmic Trading Competition (Finalist)<br>
+• PEAK6 Poker Tournament (1st Place)<br>
 • UChicago Trading Competition - Portfolio Optimization Case (2nd Place)
 
 Skills & Interests
