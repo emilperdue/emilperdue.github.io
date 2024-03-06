@@ -33,12 +33,12 @@ Experience
 • Studied options theory/discretionary volatility market-taking, shadowed traders, and rotated on Volatility Arb/LEAPS/High-Touch project desks<br>
 • Presented to CEO on quantitative portfolio allocation including long \\$SLV vol (backtested mean-reversion on IV term structure), short \\$PARA vol (modeled IV/RV spread and skew lookback), and short \\$DOCU vol (long-term SaaS take-private fundamental projection)
 
-**<a href="https://solsystems.com" style="color: black; text-decoration:none">Sol Systems</a>**, *Proprietary Trading Intern* <br />
+**<a href="https://solsystems.com" style="color: black; text-decoration:none">Sol Systems</a>**, *Trading Intern* <br />
 • Utilized Python and HeidiSQL to backtest strangle/spread options strategies on Cali Carbon Allowance futures over 20+ expirations<br>
 • Trained on energy market microstructure; optimized strategy capital allocation in Excel by researching annual IV and correlation risks<br>
 • Pitched strangle strategy to CEO, approved for $200k allocation, assisted lead trader with strike selection/execution; P&L at +45%
 
-**<a href="https://jpmorgan.com/global/" style="color: black; text-decoration:none">J.P. Morgan</a>**, *Quantitative Research Strategist Intern* <br />
+**<a href="https://jpmorgan.com/global/" style="color: black; text-decoration:none">J.P. Morgan</a>**, *Quantitative Research Intern* <br />
 • Sole undergrad intern within Securitized Products Group Quantitative Research Strats; supported trading/Residential Structured Finance Analytics and trained on MBS and S&T<br>
 • Developed ‘GSE Arbitrage’ algorithm and UI in Python to analyze pricing differential between Agency versus Non-Agency Mortgage-Backed Securities structuring<br>
 • Created tool to identify structuring arbitrage opportunities in the Non-Qualified Mortgage space by parsing/analyzing CDI data; presented results to MD<br>
