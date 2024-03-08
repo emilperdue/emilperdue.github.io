@@ -24,7 +24,7 @@ Experience
 • Researched corporate spin-offs and impact on IV around announcement and completion dates leveraging Bloomberg and SIG's Options Data API<br>
 • Published Python spin-off IV regression-prediction model using spin-off percentage and a variety of debt factors
 
-**<a href="https://www.chicagotrading.com/" style="color: black; text-decoration:none">Chicago Trading Company</a>**, *Machine Learning Researcher*<br />
+**<a href="https://www.chicagotrading.com/" style="color: black; text-decoration:none">Chicago Trading Company (CTC)</a>**, *Machine Learning Researcher*<br />
 • Meeting with Head of AI/ML Lab at CTC through UChicago Data Science Clinic to analyze sentiment in social media postings<br>
 • Implementing and evaluating theoretical NLP approaches to derive sentiment scores for incorporation in stock price prediction models<br>
 • Leveraging contemporary machine learning research to improve accuracy in sentiment score generation using Python
