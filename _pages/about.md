@@ -49,11 +49,6 @@ Experience
 • Created tool to identify structuring arbitrage opportunities in the Non-Qualified Mortgage space by parsing/analyzing CDI data; presented results to MD<br>
 • Implemented daily risk reports emailed to New Issue Jumbo traders by codifying DV01 rate scenarios in Athena Studio; pushed code into production
 
-**<a href="https://finalyze.io/" style="color: black; text-decoration:none">Finalyze Capital</a>**, *Investment Research Intern* <br />
-• Parameterized and helped implement intraday momentum futures strategies (1.5+ Sharpe) for fully systematic quantitative CTA<br>
-• Sourced 10+ profitable strategies for proprietary trading algorithm and outlined position entry code to backtest on fund’s algorithm<br>
-• Researched machine learning options/futures trading strategies and pitched strategy briefs to potential investors and Finalyze’s CEO
-
 Extracurriculars
 ------
 
