@@ -35,7 +35,7 @@ Experience
 •  Developed mean-reverting strategy on Crude Oil utilizing IV and skew datasets; presented strategy risk metric iterations weekly to CIO
 
 **<a href="https://peak6.com" style="color: black; text-decoration:none">PEAK6</a>**, *Trading Intern* <br />
-• Studied options theory/discretionary volatility market-taking, shadowed traders, and rotated on Volatility Arb/LEAPS/High-Touch project desks<br>
+• Studied options theory/discretionary volatility market taking, shadowed traders, and rotated on Volatility Arb/LEAPS/High-Touch project desks<br>
 • Presented to CEO on quantitative portfolio allocation including long \\$SLV vol (backtested mean-reversion on IV term structure), short \\$PARA vol (modeled IV/RV spread and skew lookback), and short \\$DOCU vol (long-term SaaS take-private fundamental projection)
 
 **<a href="https://solsystems.com" style="color: black; text-decoration:none">Sol Systems</a>**, *Trading Intern* <br />
@@ -58,7 +58,7 @@ Extracurriculars
 • Conducted research/t-tests on ESG risk premium, created L/S portfolio allocations, and regressed returns on Fama-French models
 
 **<a href="https://tradingcompetition.uchicago.edu/" style="color: black; text-decoration:none">Financial Markets Program</a>**, *UChicago Trading Competition Team (Case Writer)* <br />
-• Wrote ETF market-making bots, informed mock hedge funds, and a live orderbook in Rust to test 200+ competitors at the 2024 UTC<br>
+• Wrote ETF market making bots, informed mock hedge funds, and a live orderbook in Rust to test 200+ competitors at the 2024 UTC<br>
 • Simulated 20+ years of financial data using geometric Brownian motion and skew to test competitor’s portfolio optimization abilities<br> 
 • Led team of 4 to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ schools at the 2022 UChicago Trading Competition
 
@@ -81,7 +81,7 @@ Awards
 
 • Citadel Midwest Regional Datathon (1st Place - \\$10,000 Prize)<br>
 • Citadel Securities Trading Challenge (2nd Place)<br>
-• Citadel & Amplify NYC Market-Making Trading Competition (Finalist)<br>
+• Citadel & Amplify NYC Market Making Trading Competition (Finalist)<br>
 • J.P. Morgan Crypto Electronic Trading Competition (Top 10)<br>
 • Optiver TraderHack Algorithmic Trading Competition (Finalist)<br>
 • PEAK6 Poker Tournament (1st Place)<br>
