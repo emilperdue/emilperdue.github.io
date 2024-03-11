@@ -53,13 +53,13 @@ Extracurriculars
 ------
 
 **<a href="https://marooncapital.uchicago.edu/" style="color: black; text-decoration:none">Maroon Capital</a>**, *Co-President and Head of Career Recruiting* <br />
-• Present curriculum to oldest/largest quant club (220+ annual applicants), assist 65+ analysts with recruiting, and added 7 corporate sponsors<br>
+• Presented curriculum to oldest/largest quant club (220+ annual applicants), assisted 65+ analysts w/recruiting, and added 7 sponsors<br>
 • Managed analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy utilizing MACD indicators<br>
 • Conducted research/t-tests on ESG risk premium, created L/S portfolio allocations, and regressed returns on Fama-French models
 
 **<a href="https://tradingcompetition.uchicago.edu/" style="color: black; text-decoration:none">Financial Markets Program</a>**, *UChicago Trading Competition Team (Case Writer)* <br />
-• Writing market-making bots, informed mock hedge funds, and a dynamic orderbook in Rust to test 200+ competitors at the 2024 UTC<br> 
-• Simulating 20+ years of financial data using geometric Brownian motion and skew to test competitor’s portfolio optimization abilities<br> 
+• Wrote ETF market-making bots, informed mock hedge funds, and a live orderbook in Rust to test 200+ competitors at the 2024 UTC<br>
+• Simulated 20+ years of financial data using geometric Brownian motion and skew to test competitor’s portfolio optimization abilities<br> 
 • Led team of 4 to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ schools at the 2022 UChicago Trading Competition
 
 **<a href="https://github.com/emilperdue/Midwest-Regional-Datathon-Spring-2023" style="color: black; text-decoration:none">Citadel Midwest Regional Datathon</a>**, *1st Place Winner* <br />
