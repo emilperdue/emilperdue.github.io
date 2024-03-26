@@ -58,7 +58,7 @@ Extracurriculars
 • Conducted research/t-tests on ESG risk premium, created L/S portfolio allocations, and regressed returns on Fama-French models
 
 **<a href="https://tradingcompetition.uchicago.edu/" style="color: black; text-decoration:none">Financial Markets Program</a>**, *UChicago Trading Competition Team (Case Writer)* <br />
-• Wrote ETF market making bots, informed mock hedge funds, and a live orderbook in Rust to test 200+ competitors at the 2024 UTC<br>
+• Wrote ETF market making bots, informed mock hedge funds, and a live orderbook in Rust to test 200+ competitors at the 2024 UChicago Trading Competition<br>
 • Simulated 20+ years of financial data using geometric Brownian motion and skew to test competitor’s portfolio optimization abilities<br> 
 • Led team of 4 to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ schools at the 2022 UChicago Trading Competition
 
