@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm currently a fourth-year at UChicago majoring in Computational and Applied Mathematics (Machine Learning Specialization), Data Science, and Statistics, and am pursuing a Joint Master's (BS/MS) in Computer Science. I'm also an incoming Quantitative Trader at SIG starting August 2024 on their US Equity Options Desk in Chicago. 
+Hi! I'm currently a fourth-year at UChicago majoring in Computational and Applied Mathematics (Machine Learning Specialization) and Statistics, and am pursuing a Joint Master's (BS/MS) in Computer Science. I'm also an incoming Quantitative Trader at SIG starting August 2024 on their US Equity Options Desk in Chicago. 
 
 This school year, I will be writing my Honors Thesis titled "Mathematics of Leveraged ETFs, Beta Decay, and Long-Term Investment Viability" advised by Professor Dylan Hall. I’m also involved with various quant finance and data science groups on campus. My interests include effective altruism, film, meditation, personal fitness, political advocacy, and reading non-fiction.
 
@@ -92,4 +92,4 @@ Skills & Interests
 • **Technical Training**: Bash, Git, Go, Linux, Microsoft Excel, MongoDB, Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
 • **Certifications**: Akuna Capital Options 101 & 201, Bloomberg Market Concepts, Machine Learning & Deep Learning (Coursera)<br>
 • **Programs**: Berkeley Trading Competition, Bluebonnet Data Science Fellow, D.E. Shaw Nexus Fellow, Discover Citadel, Two Sigma New Seekers Summit<br>
-• **Interests/Clubs**: A24, fitness, Iron Key Society (Scholar Chair), poker, rugby, UChicago Democrats (Outreach Chair), UChicago Effective Altruism
+• **Interests/Clubs**: A24, fitness, Iron Key Society (Scholarship Chair), rugby, UChicago Democrats (Outreach Director), UChicago Effective Altruism
