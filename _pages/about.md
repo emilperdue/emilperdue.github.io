@@ -19,20 +19,21 @@ Experience
 ------
 
 **<a href="https://sig.com/quantitative-trading/" style="color: black; text-decoration:none">Susquehanna International Group, LLP (SIG)</a>**, *Quantitative Trading Intern*<br />
-• Studied options/poker theory, decision science, game theory, event forecasting, and competed in electronic open outcry mock trading; placed 1st in intern gaming competition<br>
-• Shadowed traders and monitored macro events, daily price action, and abnormal order flow for the US Equity Options Desk<br>
+• Studied options/poker theory, decision science, game theory, event forecasting, and competed in electronic outcry mock trading; placed 1st in intern gaming competition<br>
+• Shadowed traders and monitored macro events, daily price action, and abnormal/toxic order flow for the US Equity Options Desk<br>
 • Researched corporate spin-offs and impact on IV around announcement and completion dates leveraging Bloomberg and SIG's Options Data API<br>
-• Published Python spin-off IV regression-prediction model using spin-off percentage and a variety of debt factors
+• Published Python spin-off IV regression model using spin-off percentage and a variety of debt factors
 
 **<a href="https://www.chicagotrading.com/" style="color: black; text-decoration:none">Chicago Trading Company (CTC)</a>**, *Machine Learning Researcher*<br />
-• Meeting with Head of AI/ML Lab at CTC through UChicago Data Science Clinic to analyze sentiment in social media postings<br>
-• Implementing and evaluating theoretical NLP approaches to derive sentiment scores for incorporation in stock price prediction models<br>
-• Leveraging contemporary machine learning research to improve accuracy in sentiment score generation using Python
+• Met weekly with Head of AI/ML Lab at CTC to construct pipeline analyzing social media post sentiment for stock price prediction<br>
+• Trained FinTwHIN-BERT NLP model on billions of tweets to derive sentiment classification, published model onto Hugging Face<br>
+• Constructed script to store tweets from API in AWS; implemented EMA-weighted sentiment index referencing academic literature<br>
+• Tuned Random Forest and Naïve Bayes models for hourly stock price move classification, achieved highest accuracy of (.56, .83)
 
 **<a href="https://www.blackthorne.com/" style="color: black; text-decoration:none">Blackthorne Capital Management, LLC</a>**, *Quantitative Trading Intern* <br />
-• Researched recent academic literature on Generative AI to leverage in trading application usage for alternative data investment firm<br>
-•  Processed firm’s proprietary economic indicator data; backtested regression trading algos in Python using lasso/ridge with 1.7+ Sharpes<br>
-•  Developed mean-reverting strategy on Crude Oil utilizing IV and skew datasets; presented strategy risk metric iterations weekly to CIO
+• Researched recent academic literature on Generative AI to leverage in trading application usage for alternative investment firm<br>
+• Leveraged firm’s proprietary economic indicator data; backtested lasso/ridge regression trading algos in Python with 1.7+ Sharpes<br>
+• Developed mean-reverting strategy on Crude Oil utilizing IV and skew data; presented strategy risk metric iterations weekly to CIO
 
 **<a href="https://peak6.com" style="color: black; text-decoration:none">PEAK6</a>**, *Trading Intern* <br />
 • Studied options theory/discretionary volatility market taking, shadowed traders, and rotated on Volatility Arb/LEAPS/High-Touch project desks<br>
@@ -58,9 +59,9 @@ Extracurriculars
 • Conducted research/t-tests on ESG risk premium, created L/S portfolio allocations, and regressed returns on Fama-French models
 
 **<a href="https://tradingcompetition.uchicago.edu/" style="color: black; text-decoration:none">Financial Markets Program</a>**, *UChicago Trading Competition Team (Case Writer)* <br />
-• Wrote ETF market making bots, informed mock hedge funds, and a live orderbook in Rust to test 200+ competitors at the 2024 UChicago Trading Competition<br>
-• Simulated 20+ years of financial data using geometric Brownian motion and skew to test competitor’s portfolio optimization abilities<br> 
-• Led team of 4 to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ schools at the 2022 UChicago Trading Competition
+• Wrote ETF market making bots, informed mock hedge funds, difficulty parameters across price paths, and a live orderbook in Rust<br>
+• Simulated 20 years of correlated prices using GBM/skew to test 200+ competitor’s portfolio optimization abilities at the 2024 UChicago Trading Competition<br>
+• Led team of 4 to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ schools at 2022 UChicago Trading Competition
 
 **<a href="https://github.com/emilperdue/Midwest-Regional-Datathon-Spring-2023" style="color: black; text-decoration:none">Citadel Midwest Regional Datathon</a>**, *1st Place Winner* <br />
 • Co-authored report that quantifies greenspace/bluespace impact on microclimate environment/population health using geo-Twitter
@@ -81,7 +82,6 @@ Awards
 
 • Citadel Midwest Regional Datathon (1st Place - \\$10,000 Prize)<br>
 • Citadel Securities Trading Challenge (2nd Place)<br>
-• Citadel & Amplify NYC Market Making Trading Competition (Finalist)<br>
 • J.P. Morgan Crypto Electronic Trading Competition (Top 10)<br>
 • Optiver TraderHack Algorithmic Trading Competition (Finalist)<br>
 • PEAK6 Poker Tournament (1st Place)<br>
