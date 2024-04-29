@@ -11,7 +11,7 @@ redirect_from:
 
 Hi! I'm currently a fourth-year at UChicago majoring in Computational and Applied Mathematics (Machine Learning Specialization) and Statistics, and am pursuing a Joint Master's (BS/MS) in Computer Science. I'm also an incoming Quantitative Trader at SIG starting August 2024 on their US Equity Options Desk in Chicago. 
 
-This school year, I will be writing my Honors Thesis titled "Mathematics of Leveraged ETFs, Beta Decay, and Long-Term Investment Viability" advised by Professor Dylan Hall. I’m also involved with various quant finance and data science groups on campus. My interests include effective altruism, film, meditation, personal fitness, political advocacy, and reading non-fiction.
+This past school year, I completed my Honors Thesis titled "Mathematics of Leveraged ETFs, Beta Decay, and Long-Term Investment Viability" advised by Professor Dylan Hall. I’m also involved with various quant finance and data science groups on campus. My interests include effective altruism, film, meditation, personal fitness, political advocacy, and reading non-fiction.
 
 Feel free to reach out!
 
@@ -36,12 +36,12 @@ Experience
 • Developed mean-reverting strategy on Crude Oil utilizing IV and skew data; presented strategy risk metric iterations weekly to CIO
 
 **<a href="https://peak6.com" style="color: black; text-decoration:none">PEAK6</a>**, *Trading Intern* <br />
-• Studied options theory/discretionary volatility market taking, shadowed traders, and rotated on Volatility Arb/LEAPS/High-Touch project desks<br>
-• Presented to CEO on quantitative portfolio allocation including long \\$SLV vol (backtested mean-reversion on IV term structure), short \\$PARA vol (modeled IV/RV spread and skew lookback), and short \\$DOCU vol (long-term SaaS take-private fundamental projection)
+• Studied options theory/discretionary volatility market taking, shadowed traders, and rotated on Volatility Arb, LEAPS, High-Touch desks<br>
+• Presented to CEO on quantitative portfolio allocation including long \\$SLV vol (backtested mean-reversion on IV term structure), short \\$PARA vol (modeled IV/RV spread and skew lookback), and short \\$DOCU vol (SaaS take-private fundamental projection)
 
 **<a href="https://solsystems.com" style="color: black; text-decoration:none">Sol Systems</a>**, *Trading Intern* <br />
-• Utilized Python and HeidiSQL to backtest strangle/spread options strategies on Cali Carbon Allowance futures over 20+ expirations<br>
-• Trained on energy market microstructure; optimized strategy capital allocation in Excel by researching annual IV and correlation risks<br>
+• Utilized Python/HeidiSQL to backtest strangle/spread options strategies on Cali Carbon Allowance futures over 20+ expirations<br>
+• Trained on energy market structure; optimized strategy capital allocation in Excel by researching annual IV and correlation risks<br>
 • Pitched strangle strategy to CEO, approved for $200k allocation, assisted lead trader with strike selection/execution; P&L at +45%
 
 **<a href="https://jpmorgan.com/global/" style="color: black; text-decoration:none">J.P. Morgan</a>**, *Quantitative Research Intern* <br />
@@ -54,7 +54,7 @@ Extracurriculars
 ------
 
 **<a href="https://marooncapital.uchicago.edu/" style="color: black; text-decoration:none">Maroon Capital</a>**, *Co-President and Head of Career Recruiting* <br />
-• Presented curriculum to oldest/largest quant club (220+ annual applicants), assisted 65+ analysts w/recruiting, and added 7 sponsors<br>
+• Presented curriculum to oldest/largest quant club (220+ annual applicants), helped 65 analysts w/recruiting, and added 7 sponsors<br>
 • Managed analyst team to design, backtest, and optimize options “wheel” mean-reversion trading strategy utilizing MACD indicators<br>
 • Conducted research/t-tests on ESG risk premium, created L/S portfolio allocations, and regressed returns on Fama-French models
 
@@ -64,8 +64,8 @@ Extracurriculars
 • Led team of 4 to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ schools at 2022 UChicago Trading Competition
 
 **<a href="https://github.com/emilperdue/Midwest-Regional-Datathon-Spring-2023" style="color: black; text-decoration:none">Citadel Midwest Regional Datathon</a>**, *1st Place Winner* <br />
-• Co-authored report that quantifies greenspace/bluespace impact on microclimate environment/population health using geo-Twitter
-data, K-means clustering to disentangle correlations, Dicky-Fuller testing, and implementing nearest neighbors to predict new locations
+• Co-authored report that quantified greenspace/bluespace impact on microclimate environment/population health using geo-Twitter
+data, K-means clustering to disentangle correlations, Dicky-Fuller ADF testing, and nearest neighbors to predict novel locations
 
 Relevant Courses
 ------
@@ -89,7 +89,7 @@ Awards
 
 Skills & Interests
 ------
-• **Technical Training**: Bash, Git, Go, Linux, Microsoft Excel, MongoDB, Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
-• **Certifications**: Akuna Capital Options 101 & 201, Bloomberg Market Concepts, Machine Learning & Deep Learning (Coursera)<br>
-• **Programs**: Berkeley Trading Competition, Bluebonnet Data Science Fellow, D.E. Shaw Nexus Fellow, Discover Citadel, Two Sigma New Seekers Summit<br>
+• **Technical Training**: Bash, Bloomberg, Excel, Git, Go, Linux, MongoDB, Python (Matplotlib, NumPy, Pandas, Scikit-Learn, TensorFlow), R, SQL<br>
+• **Certifications**: Akuna Capital Options 101/201, Machine Learning & Deep Learning (Coursera), Two Sigma New Seekers Summit<br>
+• **Programs**: Berkeley Trading Competition, Bluebonnet Data Science Fellowship, D.E. Shaw Nexus Fellowship, Discover Citadel<br>
 • **Interests/Clubs**: A24, fitness, Iron Key Society (Scholarship Chair), rugby, UChicago Democrats (Outreach Director), UChicago Effective Altruism
