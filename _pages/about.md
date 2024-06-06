@@ -9,9 +9,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm currently a fourth-year at UChicago majoring in Computational and Applied Mathematics (Machine Learning Specialization) and Statistics, and am pursuing a Joint Master's (BS/MS) in Computer Science. I'm also an incoming Quantitative Trader at SIG starting August 2024 on their US Equity Options Desk in Chicago. 
-
-This past school year, I completed my Honors Thesis titled "Mathematics of Leveraged ETFs, Beta Decay, and Long-Term Investment Viability" advised by Professor Dylan Hall. I’m also involved with various quant finance and data science groups on campus. My interests include effective altruism, film, meditation, personal fitness, political advocacy, and reading non-fiction.
+Hi! I'm currently a Quantitative Trader at SIG on their US Equity Options Desk in Chicago. I recently graduated from UChicago where I majored in Computational and Applied Mathematics (Machine Learning Specialization) and Statistics, and pursued a Joint Master's (BS/MS) in Computer Science. I also completed my Honors Thesis titled "Mathematics of Leveraged ETFs, Beta Decay, and Long-Term Investment Viability" advised by Professor Dylan Hall. My interests include effective altruism, film, meditation, personal fitness, political advocacy, and reading non-fiction.
 
 Feel free to reach out!
 
