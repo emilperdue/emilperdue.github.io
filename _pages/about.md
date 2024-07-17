@@ -23,10 +23,10 @@ Experience
 • Published Python spin-off IV regression model using spin-off percentage and a variety of debt factors
 
 **<a href="https://www.chicagotrading.com/" style="color: black; text-decoration:none">Chicago Trading Company (CTC)</a>**, *Machine Learning Researcher*<br />
-• Met weekly with Head of AI/ML Lab at CTC to construct pipeline analyzing social media post sentiment for stock price prediction<br>
-• Trained FinTwHIN-BERT NLP model on billions of tweets to derive sentiment classification, published model onto Hugging Face<br>
-• Constructed script to store tweets from API in AWS; implemented EMA-weighted sentiment index referencing academic literature<br>
-• Tuned Random Forest and Naïve Bayes models for hourly stock price move classification, achieved highest accuracy of (.56, .83)
+• Met weekly with Head of AI/ML at CTC to construct pipeline analyzing Tweet sentiment and engagement for stock price prediction<br>
+• Trained FinTwHIN-BERT NLP model to derive sentiment classification achieving accuracy of .89, published model to Hugging Face<br> 
+• Developed script to scrape tweets from X into AWS; constructed EMA-weighted sentiment index referencing academic literature<br>
+• Tuned Random Forest and Naïve Bayes models for hourly stock price classification, achieved highest accuracy of .59 on $PYPL
 
 **<a href="https://www.blackthorne.com/" style="color: black; text-decoration:none">Blackthorne Capital Management, LLC</a>**, *Quantitative Trading Intern* <br />
 • Researched recent academic literature on Generative AI to leverage in trading application usage for alternative investment firm<br>
