@@ -18,9 +18,7 @@ Experience
 
 **<a href="https://sig.com/quantitative-trading/" style="color: black; text-decoration:none">Susquehanna International Group, LLP (SIG)</a>**, *Quantitative Trading Intern*<br />
 • Studied options/poker theory, decision science, game theory, event forecasting, and competed in electronic outcry mock trading; placed 1st in intern gaming competition<br>
-• Shadowed traders and monitored macro events, daily price action, and abnormal/toxic order flow for the US Equity Options Desk<br>
-• Researched corporate spin-offs and impact on IV around announcement and completion dates leveraging Bloomberg and SIG's Options Data API<br>
-• Published Python spin-off IV regression model using spin-off percentage and a variety of debt factors
+• Shadowed traders and monitored macro events, daily price action, and order flow for the US Equity Options Desk<br>
 
 **<a href="https://www.chicagotrading.com/" style="color: black; text-decoration:none">Chicago Trading Company (CTC)</a>**, *Machine Learning Researcher*<br />
 • Met weekly with Head of AI/ML at CTC to construct pipeline analyzing Tweet sentiment and engagement for stock price prediction<br>
