@@ -19,6 +19,7 @@ Experience
 **<a href="https://sig.com/quantitative-trading/" style="color: black; text-decoration:none">Susquehanna International Group, LLP (SIG)</a>**, *Quantitative Trading Intern*<br />
 • Studied options/poker theory, decision science, game theory, event forecasting, and competed in electronic outcry mock trading; placed 1st in intern gaming competition<br>
 • Shadowed traders and monitored macro events, daily price action, and order flow for the US Equity Options Desk<br>
+• Leveraged knowledge in Python, Scikit-Learn, and Bloomberg in data analysis project (details omitted due to IP restrictions)
 
 **<a href="https://www.chicagotrading.com/" style="color: black; text-decoration:none">Chicago Trading Company (CTC)</a>**, *Machine Learning Researcher*<br />
 • Met weekly with Head of AI/ML at CTC to construct pipeline analyzing Tweet sentiment and engagement for stock price prediction<br>
