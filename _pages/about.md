@@ -88,6 +88,6 @@ Skills & Interests
 ------
 • **Technical Training**: AWS, Bloomberg, Excel, Git, Python (Keras, Matplotlib, NumPy, Pandas, PyTorch, Scikit-Learn, SciPy, TensorFlow), R, SQL
 <br>
-• **Certifications**: Akuna Capital Options 101/201, Machine Learning & Deep Learning (Coursera), SIE, Two Sigma New Seekers Summit<br>
+• **Certifications**: Akuna Capital Options 101/201, Machine Learning & Deep Learning (Coursera), SIE/Series 57, Two Sigma New Seekers Summit<br>
 • **Programs**: Berkeley Trading Competition, Bluebonnet Data Science Fellowship, D.E. Shaw Nexus Fellowship, Discover Citadel<br>
 • **Interests/Clubs**: A24, fitness, Iron Key Society (Scholarship Chair), rugby, UChicago Democrats (Outreach Director), UChicago Effective Altruism
