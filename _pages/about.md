@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm currently a Quantitative Trader at SIG on their US Equity Options Desk in Chicago. I recently graduated from UChicago with a B.S. in Computational and Applied Mathematics (Honors), a B.A in Statistics, and an M.S. in Computer Science. My Honors Thesis, "Mathematics of Leveraged ETFs, Beta Decay, and Long-Term Investment Viability", was advised by Professor Dylan Hall. My interests include film, meditation, personal fitness, public policy, and reading non-fiction.
+Hi! I'm currently a Quantitative Trader at SIG on their Equity Options Desk in Chicago. I recently graduated from UChicago with a B.S. in Computational and Applied Mathematics (Honors), a B.A in Statistics, and an M.S. in Computer Science. My Honors Thesis, "Mathematics of Leveraged ETFs, Beta Decay, and Long-Term Investment Viability", was advised by Professor Dylan Hall. My interests include film, meditation, personal fitness, and reading non-fiction.
 
 Feel free to reach out!
 
@@ -18,8 +18,8 @@ Experience
 
 **<a href="https://sig.com/quantitative-trading/" style="color: black; text-decoration:none">Susquehanna International Group, LLP (SIG)</a>**, *Quantitative Trading Intern*<br />
 • Studied options/poker theory, decision science, game theory, event forecasting, and competed in electronic outcry mock trading; placed 1st in intern gaming competition<br>
-• Shadowed traders and monitored macro events, daily price action, and order flow for the US Equity Options Desk<br>
-• Leveraged knowledge in Python, Scikit-Learn, and Bloomberg in data analysis project (details omitted due to IP restrictions)
+• Shadowed traders and monitored macro events, daily price action, and order flow for the Equity Options Desk<br>
+• Leveraged Python, Scikit-Learn, and Bloomberg for use in data analysis project (details omitted due to IP restrictions)
 
 **<a href="https://www.chicagotrading.com/" style="color: black; text-decoration:none">Chicago Trading Company (CTC)</a>**, *Machine Learning Researcher*<br />
 • Met weekly with Head of AI/ML at CTC to construct pipeline analyzing Tweet sentiment and engagement for stock price prediction<br>
