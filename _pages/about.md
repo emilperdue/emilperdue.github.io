@@ -17,7 +17,7 @@ Experience
 ------
 
 **<a href="https://sig.com/quantitative-trading/" style="color: black; text-decoration:none">Susquehanna International Group, LLP (SIG)</a>**, *Quantitative Trading Intern*<br />
-• Studied options/poker theory, decision science, game theory, event forecasting, and competed in electronic outcry mock trading; placed 1st in intern gaming competition<br>
+• Studied options/poker theory, event forecasting, and competed in outcry mock trading; placed 1st in intern gaming competition<br>
 • Shadowed traders and monitored macro events, daily price action, and order flow for the Equity Options Desk<br>
 • Leveraged Python, Scikit-Learn, and Bloomberg for use in data analysis project (details omitted due to IP restrictions)
 
