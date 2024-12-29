@@ -38,7 +38,7 @@ Experience
 
 **<a href="https://solsystems.com" style="color: black; text-decoration:none">Sol Systems</a>**, *Trading Intern* <br />
 • Utilized Python/HeidiSQL to backtest strangle/spread options strategies on Cali Carbon Allowance futures over 20+ expirations<br>
-• Trained on energy market structure; optimized strategy capital allocation in Excel by researching annual IV and correlation risks<br>
+• Trained on energy market structure and optimized strategy capital allocation in Excel by researching annual IV and correlation risks<br>
 • Pitched strangle strategy to CEO, approved for $200k allocation, assisted lead trader with strike selection/execution; P&L at +45%
 
 **<a href="https://jpmorgan.com/global/" style="color: black; text-decoration:none">J.P. Morgan</a>**, *Quantitative Research Intern* <br />
