@@ -62,7 +62,7 @@ Extracurriculars
 
 **<a href="https://github.com/emilperdue/Midwest-Regional-Datathon-Spring-2023" style="color: black; text-decoration:none">Citadel Midwest Regional Datathon</a>**, *1st Place Winner* <br />
 • Co-authored report that quantified greenspace/bluespace impact on microclimate environment/population health using geo-Twitter
-data, K-means clustering to disentangle correlations, Dicky-Fuller ADF testing, and nearest neighbors to predict novel locations
+data, K-means clustering to disentangle correlations, Dickey-Fuller ADF testing, and nearest neighbors to predict novel locations
 
 Relevant Courses
 ------
