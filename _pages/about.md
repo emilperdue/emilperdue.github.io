@@ -60,10 +60,6 @@ Extracurriculars
 • Simulated 20 years of correlated prices using GBM/skew to test 200+ competitor’s portfolio optimization abilities at the 2024 UChicago Trading Competition<br>
 • Led team of 4 to implement Markowitz mean-variance portfolio optimization for return prediction beating 40+ schools at 2022 UChicago Trading Competition
 
-**<a href="https://github.com/emilperdue/Midwest-Regional-Datathon-Spring-2023" style="color: black; text-decoration:none">Citadel Midwest Regional Datathon</a>**, *1st Place Winner* <br />
-• Co-authored report that quantified greenspace/bluespace impact on microclimate environment/population health using geo-Twitter
-data, K-means clustering to disentangle correlations, Dickey-Fuller ADF testing, and nearest neighbors to predict novel locations
-
 Relevant Courses
 ------
 
@@ -77,9 +73,8 @@ Relevant Courses
 Awards
 ------
 
-• Citadel Midwest Regional Datathon (1st Place - \\$10,000 Prize)<br>
+• Citadel Midwest Datathon (1st Place - \\$10,000 Prize)<br>
 • Citadel Securities Trading Challenge (2nd Place)<br>
-• J.P. Morgan Crypto Electronic Trading Competition (Top 10)<br>
 • Optiver TraderHack Algorithmic Trading Competition (Finalist)<br>
 • PEAK6 Poker Tournament (1st Place)<br>
 • UChicago Trading Competition - Portfolio Optimization Case (2nd Place)
