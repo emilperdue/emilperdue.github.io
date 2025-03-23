@@ -27,11 +27,6 @@ Experience
 • Developed script to scrape tweets from X into AWS; constructed EMA-weighted sentiment index referencing academic literature<br>
 • Tuned Random Forest and Naïve Bayes models for hourly stock price classification, achieved highest accuracy of .59 on $PYPL
 
-**<a href="https://www.blackthorne.com/" style="color: black; text-decoration:none">Blackthorne Capital Management, LLC</a>**, *Quantitative Trading Intern* <br />
-• Researched recent academic literature on Generative AI to leverage in trading application usage for alternative investment firm<br>
-• Leveraged firm’s proprietary economic indicator data; backtested lasso/ridge regression trading algos in Python with 1.7+ Sharpes<br>
-• Developed mean-reverting strategy on Crude Oil utilizing IV and skew data; presented strategy risk metric iterations weekly to CIO
-
 **<a href="https://peak6.com" style="color: black; text-decoration:none">PEAK6</a>**, *Trading Intern* <br />
 • Studied options theory/discretionary volatility market taking, shadowed traders, and rotated on Volatility Arb, LEAPS, High-Touch desks<br>
 • Presented to CEO on quantitative portfolio allocation including long \\$SLV vol (backtested mean-reversion on IV term structure), short \\$PARA vol (modeled IV/RV spread and skew lookback), and short \\$DOCU vol (SaaS take-private fundamental projection)
