@@ -35,7 +35,6 @@ Experience
 • Pitched strangle strategy to CEO, approved for $200k allocation, assisted lead trader with strike selection/execution; P&L at +45%
 
 **<a href="https://jpmorgan.com/global/" style="color: black; text-decoration:none">J.P. Morgan</a>**, *Quantitative Research Intern* <br />
-• Sole undergrad intern within Securitized Products Group Quantitative Research Strats; supported trading/Residential Structured Finance Analytics and trained on MBS and S&T<br>
 • Developed ‘GSE Arbitrage’ algorithm and UI in Python to analyze pricing differential between Agency versus Non-Agency Mortgage-Backed Securities structuring<br>
 • Created tool to identify structuring arbitrage opportunities in the Non-Qualified Mortgage space by parsing/analyzing CDI data; presented results to MD<br>
 • Implemented daily risk reports emailed to New Issue Jumbo traders by codifying DV01 rate scenarios in Athena Studio; pushed code into production
