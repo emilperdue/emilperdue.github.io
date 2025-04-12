@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-Hi! I'm currently a Quantitative Trader at SIG on their Equity Options Desk in Chicago. I recently graduated from UChicago with a B.S. in Computational and Applied Mathematics (Honors), a B.A in Statistics, and an M.S. in Computer Science. My Honors Thesis, "Mathematics of Leveraged ETFs, Beta Decay, and Long-Term Investment Viability", was advised by Professor Dylan Hall. My interests include film, meditation, personal fitness, and reading non-fiction.
+Hi! I'm currently a Quantitative Trader at SIG on their Equity Options Desk in Chicago. I'm also pursuing an M.S.E in Artificial Intelligence from UPenn and I graduated from UChicago in June '24 with a B.S. in Computational and Applied Mathematics (Honors), a B.A in Statistics, and an M.S. in Computer Science. My Honors Thesis, "Mathematics of Leveraged ETFs, Beta Decay, and Long-Term Investment Viability", was advised by Professor Dylan Hall. My interests include film, meditation, personal fitness, and reading non-fiction.
 
 Feel free to reach out!
 
