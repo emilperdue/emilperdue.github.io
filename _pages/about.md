@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 Hi! I'm currently an Equity Options Trader at Susquehanna in Chicago. I'm also pursuing an M.S.E in AI from UPenn and I graduated from UChicago in June '24 with a B.S. in Computational and Applied Mathematics (Honors), a B.A in Statistics, and an M.S. in Computer Science. My Honors Thesis, "Mathematics of Leveraged ETFs, Beta Decay, and Long-Term Investment Viability", was advised by Professor Dylan Hall. My interests include film, meditation, personal fitness, and reading non-fiction.
 
 Experience
