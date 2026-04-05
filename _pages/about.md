@@ -14,7 +14,7 @@ Hi! I'm currently an Equity Options Trader at Susquehanna in Pennsylvania. I'm a
 Experience
 ------
 
-**<a href="https://sig.com/quantitative-trading/" style="color: black; text-decoration:none">Susquehanna International Group, LLP (SIG)</a>**, *Quantitative Trading Intern*<br />
+**<a href="https://sig.com/quantitative-trading/" style="color: black; text-decoration:none">Susquehanna</a>**, *Quantitative Trading Intern*<br />
 
 **<a href="https://www.chicagotrading.com/" style="color: black; text-decoration:none">Chicago Trading Company (CTC)</a>**, *Machine Learning Researcher*<br />
 
