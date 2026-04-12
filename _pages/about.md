@@ -33,10 +33,11 @@ Awards
 • Citadel Securities Trading Challenge (2nd Place)<br>
 • Optiver TraderHack Algorithmic Trading Competition (Finalist)<br>
 • PEAK6 Poker Tournament (1st Place)<br>
+• SIG Intern Gaming Competition (1st Place)<br>
 • UChicago Trading Competition - Portfolio Optimization Case (2nd Place)
 
 Skills & Interests
 ------
 • **Technical**: AWS, Bloomberg, Excel, Git, Python (Keras, Matplotlib, NumPy, Pandas, PyTorch, Scikit-Learn, SciPy, TensorFlow), R, SQL
 <br>
-• **Interests/Clubs**: A24, fitness, Iron Key Society (Scholarship Chair), rugby, UChicago Democrats (Outreach Director), UChicago Effective Altruism
+• **Interests/Clubs**: A24, Bluebonnet Data Fellowship, fitness, Delta Upsilon, UC Dems (Outreach Director), UC Effective Altruism
